@@ -1,0 +1,4 @@
+pandas         # for data manipulation
+openpyxl       # for reading Excel files
+matplotlib     # for charts
+seaborn        # for nicer charts

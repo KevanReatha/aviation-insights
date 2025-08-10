@@ -1,0 +1,13 @@
+# Ignore raw data
+data/raw/
+
+# Ignore Jupyter temp files
+.ipynb_checkpoints/
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore large/temporary files
+*.zip
+*.pbix.autosave
