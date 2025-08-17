@@ -7,7 +7,12 @@ data/raw/
 # Ignore OS junk
 .DS_Store
 Thumbs.db
+.env
 
 # Ignore large/temporary files
 *.zip
 *.pbix.autosave
+
+# Keep processed/clean and powerbi
+!data/clean/
+!powerbi/

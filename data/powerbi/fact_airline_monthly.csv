@@ -1,0 +1,239 @@
+DateID,AirlineID,Country,Direction,Passengers,Freight_tonnes,Mail_tonnes
+202505,5,New Caledonia,Inbound,2653.0,2.1,0.2
+202505,5,New Caledonia,Outbound,2500.0,40.2,1.9
+202505,6,Canada,Inbound,12287.0,277.0,9.1
+202505,8,China,Inbound,7591.0,253.0,
+202505,9,India,Inbound,14028.0,412.1,11.2
+202505,9,India,Outbound,13322.0,407.1,
+202505,10,Mauritius,Inbound,1788.0,16.4,
+202505,10,Mauritius,Outbound,1883.0,39.9,
+202505,11,New Zealand,Inbound,111435.0,1450.7,92.1
+202505,11,New Zealand,Outbound,104447.0,1522.4,128.6
+202505,12,Papua New Guinea,Inbound,5872.0,150.3,
+202505,12,Papua New Guinea,Outbound,5269.0,221.6,
+202505,16,Malaysia,Inbound,7008.0,,
+202505,16,Malaysia,Outbound,5467.0,,
+202505,17,Malaysia,Inbound,12484.0,365.4,
+202505,17,Malaysia,Outbound,9381.0,254.6,
+202505,20,Japan,Inbound,12016.0,914.3,4.6
+202505,20,Japan,Outbound,12282.0,527.7,
+202505,21,USA,Inbound,7504.0,135.8,49.2
+202505,21,USA,Outbound,7569.0,370.2,3.2
+202505,22,Korea,Inbound,7568.0,222.3,
+202505,22,Korea,Outbound,7784.0,58.5,
+202505,24,Indonesia,Inbound,5919.0,,
+202505,24,Indonesia,Outbound,5910.0,,
+202505,25,China,Inbound,5761.0,476.0,
+202505,25,China,Outbound,6148.0,38.9,
+202505,26,Singapore,Inbound,1954.0,5.4,
+202505,26,Singapore,Outbound,2655.0,220.8,
+202505,26,UK,Inbound,3241.0,239.0,25.6
+202505,26,UK,Outbound,3439.0,25.1,
+202505,26,,Inbound,5195.0,244.4,25.6
+202505,26,,Outbound,6094.0,245.9,
+202505,28,Hong Kong (SAR),Inbound,70548.0,4256.5,87.0
+202505,28,Hong Kong (SAR),Outbound,74607.0,2538.1,
+202505,29,Philippines,Inbound,13702.0,559.4,
+202505,29,Philippines,Outbound,11062.0,135.8,
+202505,30,New Zealand,Inbound,1813.0,59.1,
+202505,30,New Zealand,Outbound,1161.0,101.4,
+202505,30,Taiwan,Inbound,12205.0,480.0,47.5
+202505,30,Taiwan,Outbound,12599.0,416.4,
+202505,30,,Inbound,14018.0,539.1,47.5
+202505,30,,Outbound,13760.0,517.8,
+202505,31,China,Inbound,33168.0,2060.7,16.7
+202505,31,China,Outbound,32520.0,733.3,7.9
+202505,31,New Zealand,Inbound,1313.0,0.4,
+202505,31,New Zealand,Outbound,888.0,29.5,0.2
+202505,31,,Inbound,34481.0,2061.1,16.7
+202505,31,,Outbound,33408.0,762.8,8.0
+202505,32,China,Inbound,35212.0,3113.7,37.8
+202505,32,China,Outbound,37344.0,935.2,
+202505,35,USA,Inbound,6894.0,66.5,11.6
+202505,35,USA,Outbound,6488.0,256.5,
+202505,37,Hong Kong (SAR),Inbound,,,
+202505,37,Hong Kong (SAR),Outbound,,0.8,
+202505,37,New Zealand,Inbound,5049.0,277.0,
+202505,37,New Zealand,Outbound,3266.0,528.6,
+202505,37,United Arab Emirates,Inbound,83951.0,2848.3,7.6
+202505,37,United Arab Emirates,Outbound,117191.0,3408.5,77.0
+202505,37,,Inbound,89000.0,3125.3,7.6
+202505,37,,Outbound,120457.0,3937.9,77.0
+202505,38,United Arab Emirates,Inbound,16407.0,377.2,13.3
+202505,38,United Arab Emirates,Outbound,18928.0,541.0,21.4
+202505,39,Taiwan,Outbound,4072.0,186.4,
+202505,40,China,Outbound,,415.5,
+202505,40,New Zealand,Inbound,,113.1,
+202505,40,New Zealand,Outbound,,,
+202505,40,Singapore,Inbound,,1284.6,
+202505,40,Singapore,Outbound,,,
+202505,40,USA,Inbound,,955.3,
+202505,40,USA,Outbound,,,
+202505,40,,Inbound,,2353.0,
+202505,40,,Outbound,,415.5,
+202505,41,Fiji,Inbound,32258.0,451.2,0.8
+202505,41,Fiji,Outbound,32584.0,488.8,4.2
+202505,42,Indonesia,Inbound,12857.0,486.7,7.4
+202505,42,Indonesia,Outbound,13432.0,534.2,0.2
+202505,43,China,Inbound,5607.0,492.9,
+202505,43,China,Outbound,6955.0,62.8,
+202505,44,USA,Inbound,4629.0,101.1,
+202505,44,USA,Outbound,3829.0,152.6,
+202505,46,Indonesia,Outbound,20324.0,,
+202505,49,Japan,Outbound,7734.0,235.8,0.1
+202505,50,Cook Islands,Inbound,3312.0,,
+202505,50,Cook Islands,Outbound,3407.0,0.1,
+202505,50,Fiji,Inbound,5095.0,,
+202505,50,Fiji,Outbound,4313.0,1.1,
+202505,50,Indonesia,Inbound,88049.0,51.8,
+202505,50,Indonesia,Outbound,89256.0,5.5,
+202505,50,Japan,Inbound,30179.0,473.3,9.6
+202505,50,Japan,Outbound,29608.0,61.8,
+202505,50,Korea,Outbound,9399.0,59.2,4.9
+202505,50,New Zealand,Outbound,43680.0,8.6,17.3
+202505,50,Singapore,Inbound,12356.0,220.6,
+202505,50,Singapore,Outbound,11434.0,26.5,
+202505,50,Thailand,Inbound,25822.0,445.2,
+202505,50,Thailand,Outbound,24512.0,40.3,1.5
+202505,50,USA,Inbound,3908.0,46.0,
+202505,50,USA,Outbound,3318.0,107.6,
+202505,50,Vanuatu,Inbound,2048.0,0.3,
+202505,50,Vanuatu,Outbound,2078.0,5.0,0.8
+202505,50,Vietnam,Inbound,9683.0,235.6,
+202505,50,Vietnam,Outbound,9854.0,37.7,1.9
+202505,50,,Inbound,234234.0,1713.5,9.6
+202505,51,Singapore,Inbound,623.0,,
+202505,53,China,Inbound,7873.0,501.6,
+202505,53,China,Outbound,7705.0,194.6,
+202505,55,Korea,Inbound,11717.0,597.6,33.7
+202505,55,Korea,Outbound,11444.0,116.5,
+202505,57,Chile,Inbound,8139.0,128.8,0.3
+202505,57,Chile,Outbound,7858.0,428.7,52.5
+202505,57,New Zealand,Outbound,1877.0,72.7,
+202505,57,,Outbound,9735.0,501.4,52.5
+202505,58,Malaysia,Inbound,40781.0,2153.1,31.4
+202505,58,Malaysia,Outbound,39271.0,785.4,
+202505,59,Indonesia,Inbound,16365.0,1.6,
+202505,59,Indonesia,Outbound,16266.0,,
+202505,59,Malaysia,Inbound,6065.0,40.7,
+202505,59,Malaysia,Outbound,5220.0,,
+202505,59,,Inbound,22430.0,42.2,
+202505,59,,Outbound,21486.0,,
+202505,60,Nauru,Inbound,890.0,18.4,0.0
+202505,60,Nauru,Outbound,872.0,71.4,3.6
+202505,60,Solomon Islands,Inbound,,,
+202505,60,Solomon Islands,Outbound,,37.9,
+202505,60,,Inbound,890.0,18.4,0.0
+202505,60,,Outbound,872.0,109.3,3.6
+202505,64,Philippines,Inbound,17860.0,272.7,3.7
+202505,64,Philippines,Outbound,16001.0,489.6,
+202505,66,Canada,Inbound,2694.0,41.5,
+202505,66,Canada,Outbound,2895.0,3.5,43.0
+202505,66,Chile,Inbound,3415.0,30.0,
+202505,66,China,Inbound,,,
+202505,66,East Timor,Inbound,1291.0,0.0,0.0
+202505,66,East Timor,Outbound,1372.0,0.4,9.1
+202505,66,Fiji,Outbound,4485.0,0.0,1.8
+202505,66,France,Outbound,2600.0,0.3,3.8
+202505,66,Hong Kong (SAR),Inbound,11764.0,1164.5,0.1
+202505,66,Hong Kong (SAR),Outbound,11984.0,300.5,15.1
+202505,66,India,Inbound,6862.0,127.7,
+202505,66,India,Outbound,6700.0,1.0,5.9
+202505,66,Indonesia,Inbound,18421.0,398.8,11.1
+202505,66,Indonesia,Outbound,17640.0,104.7,3.3
+202505,66,Japan,Inbound,29731.0,736.7,40.7
+202505,66,Korea,Inbound,542.0,3.9,
+202505,66,New Caledonia,Inbound,2342.0,1.8,
+202505,66,New Caledonia,Outbound,2057.0,5.5,1.6
+202505,66,New Zealand,Inbound,76673.0,287.8,0.9
+202505,66,New Zealand,Outbound,67445.0,179.5,264.8
+202505,66,Palau,Inbound,214.0,,
+202505,66,Palau,Outbound,229.0,,
+202505,66,Papua New Guinea,Inbound,3327.0,,
+202505,66,Papua New Guinea,Outbound,3025.0,1.1,3.0
+202505,66,Philippines,Inbound,9143.0,292.8,5.0
+202505,66,Philippines,Outbound,8147.0,14.4,6.8
+202505,66,Singapore,Inbound,41994.0,1358.7,19.4
+202505,66,Singapore,Outbound,41881.0,926.7,66.8
+202505,66,Solomon Islands,Inbound,1030.0,,
+202505,66,Solomon Islands,Outbound,932.0,0.1,1.6
+202505,66,South Africa,Inbound,6655.0,90.1,0.2
+202505,66,South Africa,Outbound,6781.0,2.7,2.2
+202505,66,Thailand,Inbound,6319.0,267.0,1.7
+202505,66,Tonga,Inbound,721.0,,
+202505,66,UK,Inbound,10712.0,133.2,34.0
+202505,66,UK,Outbound,14015.0,3.3,47.5
+202505,66,USA,Inbound,42746.0,1523.9,18.8
+202505,66,USA,Outbound,39587.0,177.1,206.1
+202505,66,Vanuatu,Inbound,1168.0,3.4,0.1
+202505,66,Vanuatu,Outbound,1066.0,1.8,2.9
+202505,66,Western Samoa,Inbound,1818.0,,
+202505,66,Western Samoa,Outbound,1694.0,0.3,0.1
+202505,66,,Inbound,286281.0,6504.4,136.3
+202505,66,,Outbound,273058.0,1928.9,735.6
+202505,67,Qatar,Inbound,49889.0,1440.0,42.5
+202505,67,Qatar,Outbound,69792.0,1470.7,8.4
+202505,68,Brunei,Inbound,2726.0,148.1,0.0
+202505,68,Brunei,Outbound,2691.0,241.9,0.5
+202505,71,Singapore,Inbound,45011.0,813.1,23.2
+202505,71,Singapore,Outbound,45552.0,615.9,
+202505,72,China,Inbound,8148.0,280.2,13.1
+202505,72,China,Outbound,9431.0,136.4,
+202505,74,New Zealand,Inbound,,122.1,
+202505,74,New Zealand,Outbound,,370.1,
+202505,74,Singapore,Inbound,151841.0,6674.8,29.1
+202505,74,USA,Inbound,,1322.8,
+202505,74,,Inbound,151841.0,8119.7,29.1
+202505,74,,Outbound,153925.0,7286.3,
+202505,76,New Zealand,Inbound,360.0,,
+202505,76,New Zealand,Outbound,229.0,0.4,
+202505,76,Solomon Islands,Inbound,1245.0,2.3,
+202505,76,Solomon Islands,Outbound,1086.0,13.4,
+202505,76,Vanuatu,Inbound,337.0,0.5,
+202505,76,Vanuatu,Outbound,482.0,6.8,
+202505,76,,Inbound,1942.0,2.8,
+202505,76,,Outbound,1797.0,20.6,
+202505,77,South Africa,Inbound,3608.0,26.0,
+202505,77,South Africa,Outbound,3404.0,137.1,
+202505,78,Sri Lanka,Inbound,12641.0,313.1,
+202505,78,Sri Lanka,Outbound,11593.0,372.6,3.8
+202505,79,Korea,Inbound,4058.0,155.0,0.8
+202505,79,Korea,Outbound,4265.0,56.5,
+202505,80,Hong Kong (SAR),Outbound,,412.3,
+202505,80,New Zealand,Outbound,,1155.2,
+202505,80,,Inbound,,1723.1,
+202505,80,,Outbound,,1567.5,
+202505,82,Thailand,Inbound,35251.0,1774.6,19.5
+202505,82,Thailand,Outbound,34700.0,793.3,
+202505,83,China,Inbound,1930.0,93.2,5.9
+202505,83,China,Outbound,2037.0,7.0,
+202505,87,Indonesia,Inbound,1493.0,,
+202505,88,Singapore,Inbound,658.0,0.1,
+202505,88,Turkey,Inbound,3789.0,294.8,2.5
+202505,88,Turkey,Outbound,6797.0,273.9,
+202505,88,,Inbound,4447.0,294.9,2.5
+202505,88,,Outbound,7119.0,273.9,
+202505,89,USA,Inbound,23519.0,592.6,18.8
+202505,89,USA,Outbound,22072.0,875.9,252.6
+202505,90,China,Inbound,,215.1,
+202505,90,China,Outbound,,215.7,
+202505,90,Korea,Outbound,,80.7,
+202505,90,Singapore,Outbound,,78.7,
+202505,90,USA,Inbound,,1215.8,
+202505,90,USA,Outbound,,,
+202505,90,,Inbound,,1430.9,
+202505,90,,Outbound,,375.2,
+202505,92,Vietnam,Inbound,20758.0,559.3,
+202505,92,Vietnam,Outbound,17052.0,,
+202505,93,Vietnam,Inbound,21527.0,980.7,
+202505,93,Vietnam,Outbound,21261.0,324.1,1.8
+202505,95,Fiji,Inbound,9842.0,,
+202505,95,Fiji,Outbound,9904.0,,
+202505,95,Indonesia,Inbound,21988.0,,
+202505,95,Indonesia,Outbound,22113.0,,
+202505,95,New Zealand,Outbound,4244.0,,
+202505,95,Western Samoa,Inbound,494.0,,
+202505,95,,Inbound,40981.0,,
+202505,95,,Outbound,40455.0,,
+202505,97,China,Inbound,12354.0,728.7,1.1
+202505,97,China,Outbound,12574.0,307.4,
