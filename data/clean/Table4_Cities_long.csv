@@ -1,0 +1,145 @@
+City,Metric,Direction,Year,Value,Perc_Change_pp,Perc_Change_0_1
+Adelaide,Aircraft Movements,Inbound,2024,201.0,26.9,0.26899999999999996
+Adelaide,Aircraft Movements,Inbound,2025,255.0,26.9,0.26899999999999996
+Adelaide,Aircraft Movements,Outbound,2024,199.0,29.6,0.29600000000000004
+Adelaide,Aircraft Movements,Outbound,2025,258.0,29.6,0.29600000000000004
+Adelaide,Freight (Tonnes),Inbound,2024,538.9,68.0,0.68
+Adelaide,Freight (Tonnes),Inbound,2025,905.4,68.0,0.68
+Adelaide,Freight (Tonnes),Outbound,2024,644.7,130.1,1.301
+Adelaide,Freight (Tonnes),Outbound,2025,1483.3,130.1,1.301
+Adelaide,Passengers,Inbound,2024,35227.0,26.1,0.261
+Adelaide,Passengers,Inbound,2025,44413.0,26.1,0.261
+Adelaide,Passengers,Outbound,2024,37267.0,24.4,0.244
+Adelaide,Passengers,Outbound,2025,46353.0,24.4,0.244
+Brisbane,Aircraft Movements,Inbound,2024,1206.0,12.0,0.12
+Brisbane,Aircraft Movements,Inbound,2025,1353.0,12.0,0.12
+Brisbane,Aircraft Movements,Outbound,2024,1204.0,12.0,0.12
+Brisbane,Aircraft Movements,Outbound,2025,1351.0,12.0,0.12
+Brisbane,Freight (Tonnes),Inbound,2024,4767.8,17.0,0.17
+Brisbane,Freight (Tonnes),Inbound,2025,5579.5,17.0,0.17
+Brisbane,Freight (Tonnes),Outbound,2024,4205.0,11.6,0.11599999999999999
+Brisbane,Freight (Tonnes),Outbound,2025,4693.3,11.6,0.11599999999999999
+Brisbane,Passengers,Inbound,2024,221626.0,18.0,0.18
+Brisbane,Passengers,Inbound,2025,261414.0,18.0,0.18
+Brisbane,Passengers,Outbound,2024,231012.0,13.6,0.136
+Brisbane,Passengers,Outbound,2025,262439.0,13.6,0.136
+Broome,Aircraft Movements,Inbound,2024,,,
+Broome,Aircraft Movements,Inbound,2025,9.0,,
+Broome,Aircraft Movements,Outbound,2024,,,
+Broome,Aircraft Movements,Outbound,2025,9.0,,
+Broome,Freight (Tonnes),Inbound,2024,,,
+Broome,Freight (Tonnes),Inbound,2025,,,
+Broome,Freight (Tonnes),Outbound,2024,,,
+Broome,Freight (Tonnes),Outbound,2025,,,
+Broome,Passengers,Inbound,2024,,,
+Broome,Passengers,Inbound,2025,623.0,,
+Broome,Passengers,Outbound,2024,,,
+Broome,Passengers,Outbound,2025,665.0,,
+Cairns,Aircraft Movements,Inbound,2024,160.0,20.0,0.2
+Cairns,Aircraft Movements,Inbound,2025,192.0,20.0,0.2
+Cairns,Aircraft Movements,Outbound,2024,160.0,20.6,0.20600000000000002
+Cairns,Aircraft Movements,Outbound,2025,193.0,20.6,0.20600000000000002
+Cairns,Freight (Tonnes),Inbound,2024,36.8,35.8,0.358
+Cairns,Freight (Tonnes),Inbound,2025,49.9,35.8,0.358
+Cairns,Freight (Tonnes),Outbound,2024,181.3,4.3,0.043
+Cairns,Freight (Tonnes),Outbound,2025,189.0,4.3,0.043
+Cairns,Passengers,Inbound,2024,20443.0,23.2,0.23199999999999998
+Cairns,Passengers,Inbound,2025,25189.0,23.2,0.23199999999999998
+Cairns,Passengers,Outbound,2024,23586.0,11.5,0.115
+Cairns,Passengers,Outbound,2025,26296.0,11.5,0.115
+Canberra,Aircraft Movements,Inbound,2024,9.0,44.4,0.444
+Canberra,Aircraft Movements,Inbound,2025,13.0,44.4,0.444
+Canberra,Aircraft Movements,Outbound,2024,9.0,44.4,0.444
+Canberra,Aircraft Movements,Outbound,2025,13.0,44.4,0.444
+Canberra,Freight (Tonnes),Inbound,2024,0.6,-100.0,-1.0
+Canberra,Freight (Tonnes),Inbound,2025,0.0,-100.0,-1.0
+Canberra,Freight (Tonnes),Outbound,2024,,,
+Canberra,Freight (Tonnes),Outbound,2025,0.1,,
+Canberra,Passengers,Inbound,2024,1048.0,27.6,0.276
+Canberra,Passengers,Inbound,2025,1337.0,27.6,0.276
+Canberra,Passengers,Outbound,2024,1085.0,18.0,0.18
+Canberra,Passengers,Outbound,2025,1280.0,18.0,0.18
+Darwin,Aircraft Movements,Inbound,2024,83.0,43.4,0.434
+Darwin,Aircraft Movements,Inbound,2025,119.0,43.4,0.434
+Darwin,Aircraft Movements,Outbound,2024,82.0,36.6,0.366
+Darwin,Aircraft Movements,Outbound,2025,112.0,36.6,0.366
+Darwin,Freight (Tonnes),Inbound,2024,19.4,4.1,0.040999999999999995
+Darwin,Freight (Tonnes),Inbound,2025,20.2,4.1,0.040999999999999995
+Darwin,Freight (Tonnes),Outbound,2024,5.1,15.1,0.151
+Darwin,Freight (Tonnes),Outbound,2025,5.9,15.1,0.151
+Darwin,Passengers,Inbound,2024,8842.0,26.3,0.263
+Darwin,Passengers,Inbound,2025,11170.0,26.3,0.263
+Darwin,Passengers,Outbound,2024,8847.0,26.5,0.265
+Darwin,Passengers,Outbound,2025,11190.0,26.5,0.265
+Gold Coast,Aircraft Movements,Inbound,2024,146.0,-4.1,-0.040999999999999995
+Gold Coast,Aircraft Movements,Inbound,2025,140.0,-4.1,-0.040999999999999995
+Gold Coast,Aircraft Movements,Outbound,2024,147.0,-5.4,-0.054000000000000006
+Gold Coast,Aircraft Movements,Outbound,2025,139.0,-5.4,-0.054000000000000006
+Gold Coast,Freight (Tonnes),Inbound,2024,2.5,-17.6,-0.17600000000000002
+Gold Coast,Freight (Tonnes),Inbound,2025,2.0,-17.6,-0.17600000000000002
+Gold Coast,Freight (Tonnes),Outbound,2024,0.7,57.9,0.579
+Gold Coast,Freight (Tonnes),Outbound,2025,1.1,57.9,0.579
+Gold Coast,Passengers,Inbound,2024,22701.0,4.1,0.040999999999999995
+Gold Coast,Passengers,Inbound,2025,23636.0,4.1,0.040999999999999995
+Gold Coast,Passengers,Outbound,2024,21933.0,0.5,0.005
+Gold Coast,Passengers,Outbound,2025,22040.0,0.5,0.005
+Melbourne,Aircraft Movements,Inbound,2024,2136.0,5.2,0.052000000000000005
+Melbourne,Aircraft Movements,Inbound,2025,2248.0,5.2,0.052000000000000005
+Melbourne,Aircraft Movements,Outbound,2024,2138.0,5.4,0.054000000000000006
+Melbourne,Aircraft Movements,Outbound,2025,2254.0,5.4,0.054000000000000006
+Melbourne,Freight (Tonnes),Inbound,2024,14090.6,2.0,0.02
+Melbourne,Freight (Tonnes),Inbound,2025,14373.1,2.0,0.02
+Melbourne,Freight (Tonnes),Outbound,2024,12732.1,-9.9,-0.099
+Melbourne,Freight (Tonnes),Outbound,2025,11472.1,-9.9,-0.099
+Melbourne,Passengers,Inbound,2024,393502.0,14.3,0.14300000000000002
+Melbourne,Passengers,Inbound,2025,449863.0,14.3,0.14300000000000002
+Melbourne,Passengers,Outbound,2024,425979.0,8.1,0.081
+Melbourne,Passengers,Outbound,2025,460578.0,8.1,0.081
+Perth,Aircraft Movements,Inbound,2024,1002.0,5.9,0.059000000000000004
+Perth,Aircraft Movements,Inbound,2025,1061.0,5.9,0.059000000000000004
+Perth,Aircraft Movements,Outbound,2024,1001.0,6.7,0.067
+Perth,Aircraft Movements,Outbound,2025,1068.0,6.7,0.067
+Perth,Freight (Tonnes),Inbound,2024,4127.1,5.0,0.05
+Perth,Freight (Tonnes),Inbound,2025,4332.5,5.0,0.05
+Perth,Freight (Tonnes),Outbound,2024,4305.8,-4.5,-0.045
+Perth,Freight (Tonnes),Outbound,2025,4113.2,-4.5,-0.045
+Perth,Passengers,Inbound,2024,170679.0,17.9,0.179
+Perth,Passengers,Inbound,2025,201195.0,17.9,0.179
+Perth,Passengers,Outbound,2024,186609.0,10.8,0.10800000000000001
+Perth,Passengers,Outbound,2025,206834.0,10.8,0.10800000000000001
+Sunshine Coast,Aircraft Movements,Inbound,2024,,,
+Sunshine Coast,Aircraft Movements,Inbound,2025,13.0,,
+Sunshine Coast,Aircraft Movements,Outbound,2024,,,
+Sunshine Coast,Aircraft Movements,Outbound,2025,13.0,,
+Sunshine Coast,Freight (Tonnes),Inbound,2024,,,
+Sunshine Coast,Freight (Tonnes),Inbound,2025,,,
+Sunshine Coast,Freight (Tonnes),Outbound,2024,,,
+Sunshine Coast,Freight (Tonnes),Outbound,2025,,,
+Sunshine Coast,Passengers,Inbound,2024,,,
+Sunshine Coast,Passengers,Inbound,2025,1576.0,,
+Sunshine Coast,Passengers,Outbound,2024,,,
+Sunshine Coast,Passengers,Outbound,2025,1507.0,,
+Sydney,Aircraft Movements,Inbound,2024,3221.0,1.6,0.016
+Sydney,Aircraft Movements,Inbound,2025,3272.0,1.6,0.016
+Sydney,Aircraft Movements,Outbound,2024,3202.0,0.9,0.009000000000000001
+Sydney,Aircraft Movements,Outbound,2025,3231.0,0.9,0.009000000000000001
+Sydney,Freight (Tonnes),Inbound,2024,29670.3,-0.1,-0.001
+Sydney,Freight (Tonnes),Inbound,2025,29630.4,-0.1,-0.001
+Sydney,Freight (Tonnes),Outbound,2024,16398.1,-18.7,-0.187
+Sydney,Freight (Tonnes),Outbound,2025,13336.7,-18.7,-0.187
+Sydney,Passengers,Inbound,2024,599358.0,6.8,0.068
+Sydney,Passengers,Inbound,2025,640137.0,6.8,0.068
+Sydney,Passengers,Outbound,2024,617617.0,5.0,0.05
+Sydney,Passengers,Outbound,2025,648323.0,5.0,0.05
+Toowoomba Wellcamp,Aircraft Movements,Inbound,2024,4.0,0.0,0.0
+Toowoomba Wellcamp,Aircraft Movements,Inbound,2025,4.0,0.0,0.0
+Toowoomba Wellcamp,Aircraft Movements,Outbound,2024,4.0,0.0,0.0
+Toowoomba Wellcamp,Aircraft Movements,Outbound,2025,4.0,0.0,0.0
+Toowoomba Wellcamp,Freight (Tonnes),Inbound,2024,52.2,-61.9,-0.619
+Toowoomba Wellcamp,Freight (Tonnes),Inbound,2025,19.9,-61.9,-0.619
+Toowoomba Wellcamp,Freight (Tonnes),Outbound,2024,91.1,-28.1,-0.281
+Toowoomba Wellcamp,Freight (Tonnes),Outbound,2025,65.5,-28.1,-0.281
+Toowoomba Wellcamp,Passengers,Inbound,2024,,,
+Toowoomba Wellcamp,Passengers,Inbound,2025,,,
+Toowoomba Wellcamp,Passengers,Outbound,2024,,,
+Toowoomba Wellcamp,Passengers,Outbound,2025,,,

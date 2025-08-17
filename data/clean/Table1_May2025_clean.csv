@@ -1,0 +1,271 @@
+Year,Month,YearMonthDate,Airline_Name,Country,Direction,Passengers,Freight_tonnes,Mail_tonnes,Is_Total_AllServices
+2025,5,2025-05-01,Air Caledonie International,New Caledonia,Inbound,2653.0,2.1,0.2,False
+2025,5,2025-05-01,Air Caledonie International,New Caledonia,Outbound,2500.0,40.2,1.9,False
+2025,5,2025-05-01,Air Canada,Canada,Inbound,12287.0,277.0,9.1,False
+2025,5,2025-05-01,Air Canada,Canada,Outbound,13749.0,458.2,15.9,True
+2025,5,2025-05-01,Air China,China,Inbound,7591.0,253.0,,False
+2025,5,2025-05-01,Air China,China,Outbound,8098.0,132.4,1.9,True
+2025,5,2025-05-01,Air India,India,Inbound,14028.0,412.1,11.2,False
+2025,5,2025-05-01,Air India,India,Outbound,13322.0,407.1,,False
+2025,5,2025-05-01,Air Mauritius,Mauritius,Inbound,1788.0,16.4,,False
+2025,5,2025-05-01,Air Mauritius,Mauritius,Outbound,1883.0,39.9,,False
+2025,5,2025-05-01,Air New Zealand,New Zealand,Inbound,111435.0,1450.7,92.1,False
+2025,5,2025-05-01,Air New Zealand,New Zealand,Outbound,104447.0,1522.4,128.6,False
+2025,5,2025-05-01,Air Niugini,Papua New Guinea,Inbound,5872.0,150.3,,False
+2025,5,2025-05-01,Air Niugini,Papua New Guinea,Outbound,5269.0,221.6,,False
+2025,5,2025-05-01,AirAsia Berhad,Malaysia,Inbound,7008.0,,,False
+2025,5,2025-05-01,AirAsia Berhad,Malaysia,Outbound,5467.0,,,False
+2025,5,2025-05-01,AirAsia X,Malaysia,Inbound,12484.0,365.4,,False
+2025,5,2025-05-01,AirAsia X,Malaysia,Outbound,9381.0,254.6,,False
+2025,5,2025-05-01,All Nippon Airways,Japan,Inbound,12016.0,914.3,4.6,False
+2025,5,2025-05-01,All Nippon Airways,Japan,Outbound,12282.0,527.7,,False
+2025,5,2025-05-01,American Airlines,USA,Inbound,7504.0,135.8,49.2,False
+2025,5,2025-05-01,American Airlines,USA,Outbound,7569.0,370.2,3.2,False
+2025,5,2025-05-01,Asiana Airlines,Korea,Inbound,7568.0,222.3,,False
+2025,5,2025-05-01,Asiana Airlines,Korea,Outbound,7784.0,58.5,,False
+2025,5,2025-05-01,Batik Air Indonesia,Indonesia,Inbound,5919.0,,,False
+2025,5,2025-05-01,Batik Air Indonesia,Indonesia,Outbound,5910.0,,,False
+2025,5,2025-05-01,Beijing Capital Airlines,China,Inbound,5761.0,476.0,,False
+2025,5,2025-05-01,Beijing Capital Airlines,China,Outbound,6148.0,38.9,,False
+2025,5,2025-05-01,British Airways,Singapore,Inbound,1954.0,5.4,,False
+2025,5,2025-05-01,British Airways,Singapore,Outbound,2655.0,220.8,,False
+2025,5,2025-05-01,British Airways,UK,Inbound,3241.0,239.0,25.6,False
+2025,5,2025-05-01,British Airways,UK,Outbound,3439.0,25.1,,False
+2025,5,2025-05-01,British Airways,,Inbound,5195.0,244.4,25.6,False
+2025,5,2025-05-01,British Airways,,Outbound,6094.0,245.9,,False
+2025,5,2025-05-01,Cathay Pacific Airways,Hong Kong (SAR),Inbound,70548.0,4256.5,87.0,False
+2025,5,2025-05-01,Cathay Pacific Airways,Hong Kong (SAR),Outbound,74607.0,2538.1,,False
+2025,5,2025-05-01,Cebu Pacific Air,Philippines,Inbound,13702.0,559.4,,False
+2025,5,2025-05-01,Cebu Pacific Air,Philippines,Outbound,11062.0,135.8,,False
+2025,5,2025-05-01,China Airlines,New Zealand,Inbound,1813.0,59.1,,False
+2025,5,2025-05-01,China Airlines,New Zealand,Outbound,1161.0,101.4,,False
+2025,5,2025-05-01,China Airlines,Taiwan,Inbound,12205.0,480.0,47.5,False
+2025,5,2025-05-01,China Airlines,Taiwan,Outbound,12599.0,416.4,,False
+2025,5,2025-05-01,China Airlines,,Inbound,14018.0,539.1,47.5,False
+2025,5,2025-05-01,China Airlines,,Outbound,13760.0,517.8,,False
+2025,5,2025-05-01,China Eastern Airlines,China,Inbound,33168.0,2060.7,16.7,False
+2025,5,2025-05-01,China Eastern Airlines,China,Outbound,32520.0,733.3,7.9,False
+2025,5,2025-05-01,China Eastern Airlines,New Zealand,Inbound,1313.0,0.4,,False
+2025,5,2025-05-01,China Eastern Airlines,New Zealand,Outbound,888.0,29.5,0.2,False
+2025,5,2025-05-01,China Eastern Airlines,,Inbound,34481.0,2061.1,16.7,False
+2025,5,2025-05-01,China Eastern Airlines,,Outbound,33408.0,762.8,8.0,False
+2025,5,2025-05-01,China Southern Airlines,China,Inbound,35212.0,3113.7,37.8,False
+2025,5,2025-05-01,China Southern Airlines,China,Outbound,37344.0,935.2,,False
+2025,5,2025-05-01,Delta Air Lines,USA,Inbound,6894.0,66.5,11.6,False
+2025,5,2025-05-01,Delta Air Lines,USA,Outbound,6488.0,256.5,,False
+2025,5,2025-05-01,Emirates,Hong Kong (SAR),Inbound,,,,False
+2025,5,2025-05-01,Emirates,Hong Kong (SAR),Outbound,,0.8,,False
+2025,5,2025-05-01,Emirates,New Zealand,Inbound,5049.0,277.0,,False
+2025,5,2025-05-01,Emirates,New Zealand,Outbound,3266.0,528.6,,False
+2025,5,2025-05-01,Emirates,United Arab Emirates,Inbound,83951.0,2848.3,7.6,False
+2025,5,2025-05-01,Emirates,United Arab Emirates,Outbound,117191.0,3408.5,77.0,False
+2025,5,2025-05-01,Emirates,,Inbound,89000.0,3125.3,7.6,False
+2025,5,2025-05-01,Emirates,,Outbound,120457.0,3937.9,77.0,False
+2025,5,2025-05-01,Etihad Airways,United Arab Emirates,Inbound,16407.0,377.2,13.3,False
+2025,5,2025-05-01,Etihad Airways,United Arab Emirates,Outbound,18928.0,541.0,21.4,False
+2025,5,2025-05-01,Eva Air,Taiwan,Inbound,3623.0,220.5,0.8,True
+2025,5,2025-05-01,Eva Air,Taiwan,Outbound,4072.0,186.4,,False
+2025,5,2025-05-01,Federal Express Corporation,China,Inbound,,,,True
+2025,5,2025-05-01,Federal Express Corporation,China,Outbound,,415.5,,False
+2025,5,2025-05-01,Federal Express Corporation,New Zealand,Inbound,,113.1,,False
+2025,5,2025-05-01,Federal Express Corporation,New Zealand,Outbound,,,,False
+2025,5,2025-05-01,Federal Express Corporation,Singapore,Inbound,,1284.6,,False
+2025,5,2025-05-01,Federal Express Corporation,Singapore,Outbound,,,,False
+2025,5,2025-05-01,Federal Express Corporation,USA,Inbound,,955.3,,False
+2025,5,2025-05-01,Federal Express Corporation,USA,Outbound,,,,False
+2025,5,2025-05-01,Federal Express Corporation,,Inbound,,2353.0,,False
+2025,5,2025-05-01,Federal Express Corporation,,Outbound,,415.5,,False
+2025,5,2025-05-01,Fiji Airways,Fiji,Inbound,32258.0,451.2,0.8,False
+2025,5,2025-05-01,Fiji Airways,Fiji,Outbound,32584.0,488.8,4.2,False
+2025,5,2025-05-01,Garuda Indonesia,Indonesia,Inbound,12857.0,486.7,7.4,False
+2025,5,2025-05-01,Garuda Indonesia,Indonesia,Outbound,13432.0,534.2,0.2,False
+2025,5,2025-05-01,Hainan Airlines,China,Inbound,5607.0,492.9,,False
+2025,5,2025-05-01,Hainan Airlines,China,Outbound,6955.0,62.8,,False
+2025,5,2025-05-01,Hawaiian Airlines,USA,Inbound,4629.0,101.1,,False
+2025,5,2025-05-01,Hawaiian Airlines,USA,Outbound,3829.0,152.6,,False
+2025,5,2025-05-01,Indonesia AirAsia,Indonesia,Inbound,19532.0,,,True
+2025,5,2025-05-01,Indonesia AirAsia,Indonesia,Outbound,20324.0,,,False
+2025,5,2025-05-01,Japan Airlines,Japan,Inbound,7475.0,370.1,22.1,True
+2025,5,2025-05-01,Japan Airlines,Japan,Outbound,7734.0,235.8,0.1,False
+2025,5,2025-05-01,Jetstar,Cook Islands,Inbound,3312.0,,,False
+2025,5,2025-05-01,Jetstar,Cook Islands,Outbound,3407.0,0.1,,False
+2025,5,2025-05-01,Jetstar,Fiji,Inbound,5095.0,,,False
+2025,5,2025-05-01,Jetstar,Fiji,Outbound,4313.0,1.1,,False
+2025,5,2025-05-01,Jetstar,Indonesia,Inbound,88049.0,51.8,,False
+2025,5,2025-05-01,Jetstar,Indonesia,Outbound,89256.0,5.5,,False
+2025,5,2025-05-01,Jetstar,Japan,Inbound,30179.0,473.3,9.6,False
+2025,5,2025-05-01,Jetstar,Japan,Outbound,29608.0,61.8,,False
+2025,5,2025-05-01,Jetstar,Korea,Inbound,8896.0,240.7,,True
+2025,5,2025-05-01,Jetstar,Korea,Outbound,9399.0,59.2,4.9,False
+2025,5,2025-05-01,Jetstar,New Zealand,Inbound,44886.0,,,True
+2025,5,2025-05-01,Jetstar,New Zealand,Outbound,43680.0,8.6,17.3,False
+2025,5,2025-05-01,Jetstar,Singapore,Inbound,12356.0,220.6,,False
+2025,5,2025-05-01,Jetstar,Singapore,Outbound,11434.0,26.5,,False
+2025,5,2025-05-01,Jetstar,Thailand,Inbound,25822.0,445.2,,False
+2025,5,2025-05-01,Jetstar,Thailand,Outbound,24512.0,40.3,1.5,False
+2025,5,2025-05-01,Jetstar,USA,Inbound,3908.0,46.0,,False
+2025,5,2025-05-01,Jetstar,USA,Outbound,3318.0,107.6,,False
+2025,5,2025-05-01,Jetstar,Vanuatu,Inbound,2048.0,0.3,,False
+2025,5,2025-05-01,Jetstar,Vanuatu,Outbound,2078.0,5.0,0.8,False
+2025,5,2025-05-01,Jetstar,Vietnam,Inbound,9683.0,235.6,,False
+2025,5,2025-05-01,Jetstar,Vietnam,Outbound,9854.0,37.7,1.9,False
+2025,5,2025-05-01,Jetstar,,Inbound,234234.0,1713.5,9.6,False
+2025,5,2025-05-01,Jetstar,,Outbound,230859.0,353.6,26.3,True
+2025,5,2025-05-01,Jetstar Asia,Singapore,Inbound,623.0,,,False
+2025,5,2025-05-01,Jetstar Asia,Singapore,Outbound,665.0,,,True
+2025,5,2025-05-01,Juneyao Air,China,Inbound,7873.0,501.6,,False
+2025,5,2025-05-01,Juneyao Air,China,Outbound,7705.0,194.6,,False
+2025,5,2025-05-01,Korean Air,Korea,Inbound,11717.0,597.6,33.7,False
+2025,5,2025-05-01,Korean Air,Korea,Outbound,11444.0,116.5,,False
+2025,5,2025-05-01,LATAM Airlines,Chile,Inbound,8139.0,128.8,0.3,False
+2025,5,2025-05-01,LATAM Airlines,Chile,Outbound,7858.0,428.7,52.5,False
+2025,5,2025-05-01,LATAM Airlines,New Zealand,Inbound,2249.0,10.5,,True
+2025,5,2025-05-01,LATAM Airlines,New Zealand,Outbound,1877.0,72.7,,False
+2025,5,2025-05-01,LATAM Airlines,,Inbound,10388.0,139.3,0.3,True
+2025,5,2025-05-01,LATAM Airlines,,Outbound,9735.0,501.4,52.5,False
+2025,5,2025-05-01,Malaysia Airlines,Malaysia,Inbound,40781.0,2153.1,31.4,False
+2025,5,2025-05-01,Malaysia Airlines,Malaysia,Outbound,39271.0,785.4,,False
+2025,5,2025-05-01,Malindo Air,Indonesia,Inbound,16365.0,1.6,,False
+2025,5,2025-05-01,Malindo Air,Indonesia,Outbound,16266.0,,,False
+2025,5,2025-05-01,Malindo Air,Malaysia,Inbound,6065.0,40.7,,False
+2025,5,2025-05-01,Malindo Air,Malaysia,Outbound,5220.0,,,False
+2025,5,2025-05-01,Malindo Air,,Inbound,22430.0,42.2,,False
+2025,5,2025-05-01,Malindo Air,,Outbound,21486.0,,,False
+2025,5,2025-05-01,Nauru Airlines,Nauru,Inbound,890.0,18.4,0.0,False
+2025,5,2025-05-01,Nauru Airlines,Nauru,Outbound,872.0,71.4,3.6,False
+2025,5,2025-05-01,Nauru Airlines,Solomon Islands,Inbound,,,,False
+2025,5,2025-05-01,Nauru Airlines,Solomon Islands,Outbound,,37.9,,False
+2025,5,2025-05-01,Nauru Airlines,,Inbound,890.0,18.4,0.0,False
+2025,5,2025-05-01,Nauru Airlines,,Outbound,872.0,109.3,3.6,False
+2025,5,2025-05-01,Philippine Airlines,Philippines,Inbound,17860.0,272.7,3.7,False
+2025,5,2025-05-01,Philippine Airlines,Philippines,Outbound,16001.0,489.6,,False
+2025,5,2025-05-01,Qantas Airways,Canada,Inbound,2694.0,41.5,,False
+2025,5,2025-05-01,Qantas Airways,Canada,Outbound,2895.0,3.5,43.0,False
+2025,5,2025-05-01,Qantas Airways,Chile,Inbound,3415.0,30.0,,False
+2025,5,2025-05-01,Qantas Airways,Chile,Outbound,3233.0,3.6,1.5,True
+2025,5,2025-05-01,Qantas Airways,China,Inbound,,,,False
+2025,5,2025-05-01,Qantas Airways,China,Outbound,,59.7,,True
+2025,5,2025-05-01,Qantas Airways,East Timor,Inbound,1291.0,0.0,0.0,False
+2025,5,2025-05-01,Qantas Airways,East Timor,Outbound,1372.0,0.4,9.1,False
+2025,5,2025-05-01,Qantas Airways,Fiji,Inbound,4841.0,,,True
+2025,5,2025-05-01,Qantas Airways,Fiji,Outbound,4485.0,0.0,1.8,False
+2025,5,2025-05-01,Qantas Airways,France,Inbound,1858.0,42.6,4.4,True
+2025,5,2025-05-01,Qantas Airways,France,Outbound,2600.0,0.3,3.8,False
+2025,5,2025-05-01,Qantas Airways,Hong Kong (SAR),Inbound,11764.0,1164.5,0.1,False
+2025,5,2025-05-01,Qantas Airways,Hong Kong (SAR),Outbound,11984.0,300.5,15.1,False
+2025,5,2025-05-01,Qantas Airways,India,Inbound,6862.0,127.7,,False
+2025,5,2025-05-01,Qantas Airways,India,Outbound,6700.0,1.0,5.9,False
+2025,5,2025-05-01,Qantas Airways,Indonesia,Inbound,18421.0,398.8,11.1,False
+2025,5,2025-05-01,Qantas Airways,Indonesia,Outbound,17640.0,104.7,3.3,False
+2025,5,2025-05-01,Qantas Airways,Japan,Inbound,29731.0,736.7,40.7,False
+2025,5,2025-05-01,Qantas Airways,Japan,Outbound,28276.0,117.2,43.3,True
+2025,5,2025-05-01,Qantas Airways,Korea,Inbound,542.0,3.9,,False
+2025,5,2025-05-01,Qantas Airways,Korea,Outbound,428.0,0.8,0.4,True
+2025,5,2025-05-01,Qantas Airways,New Caledonia,Inbound,2342.0,1.8,,False
+2025,5,2025-05-01,Qantas Airways,New Caledonia,Outbound,2057.0,5.5,1.6,False
+2025,5,2025-05-01,Qantas Airways,New Zealand,Inbound,76673.0,287.8,0.9,False
+2025,5,2025-05-01,Qantas Airways,New Zealand,Outbound,67445.0,179.5,264.8,False
+2025,5,2025-05-01,Qantas Airways,Palau,Inbound,214.0,,,False
+2025,5,2025-05-01,Qantas Airways,Palau,Outbound,229.0,,,False
+2025,5,2025-05-01,Qantas Airways,Papua New Guinea,Inbound,3327.0,,,False
+2025,5,2025-05-01,Qantas Airways,Papua New Guinea,Outbound,3025.0,1.1,3.0,False
+2025,5,2025-05-01,Qantas Airways,Philippines,Inbound,9143.0,292.8,5.0,False
+2025,5,2025-05-01,Qantas Airways,Philippines,Outbound,8147.0,14.4,6.8,False
+2025,5,2025-05-01,Qantas Airways,Singapore,Inbound,41994.0,1358.7,19.4,False
+2025,5,2025-05-01,Qantas Airways,Singapore,Outbound,41881.0,926.7,66.8,False
+2025,5,2025-05-01,Qantas Airways,Solomon Islands,Inbound,1030.0,,,False
+2025,5,2025-05-01,Qantas Airways,Solomon Islands,Outbound,932.0,0.1,1.6,False
+2025,5,2025-05-01,Qantas Airways,South Africa,Inbound,6655.0,90.1,0.2,False
+2025,5,2025-05-01,Qantas Airways,South Africa,Outbound,6781.0,2.7,2.2,False
+2025,5,2025-05-01,Qantas Airways,Thailand,Inbound,6319.0,267.0,1.7,False
+2025,5,2025-05-01,Qantas Airways,Thailand,Outbound,5601.0,24.4,5.1,True
+2025,5,2025-05-01,Qantas Airways,Tonga,Inbound,721.0,,,False
+2025,5,2025-05-01,Qantas Airways,Tonga,Outbound,985.0,0.4,,True
+2025,5,2025-05-01,Qantas Airways,UK,Inbound,10712.0,133.2,34.0,False
+2025,5,2025-05-01,Qantas Airways,UK,Outbound,14015.0,3.3,47.5,False
+2025,5,2025-05-01,Qantas Airways,USA,Inbound,42746.0,1523.9,18.8,False
+2025,5,2025-05-01,Qantas Airways,USA,Outbound,39587.0,177.1,206.1,False
+2025,5,2025-05-01,Qantas Airways,Vanuatu,Inbound,1168.0,3.4,0.1,False
+2025,5,2025-05-01,Qantas Airways,Vanuatu,Outbound,1066.0,1.8,2.9,False
+2025,5,2025-05-01,Qantas Airways,Western Samoa,Inbound,1818.0,,,False
+2025,5,2025-05-01,Qantas Airways,Western Samoa,Outbound,1694.0,0.3,0.1,False
+2025,5,2025-05-01,Qantas Airways,,Inbound,286281.0,6504.4,136.3,False
+2025,5,2025-05-01,Qantas Airways,,Outbound,273058.0,1928.9,735.6,False
+2025,5,2025-05-01,Qatar Airways,Qatar,Inbound,49889.0,1440.0,42.5,False
+2025,5,2025-05-01,Qatar Airways,Qatar,Outbound,69792.0,1470.7,8.4,False
+2025,5,2025-05-01,Royal Brunei Airlines,Brunei,Inbound,2726.0,148.1,0.0,False
+2025,5,2025-05-01,Royal Brunei Airlines,Brunei,Outbound,2691.0,241.9,0.5,False
+2025,5,2025-05-01,Scoot Tigerair,Singapore,Inbound,45011.0,813.1,23.2,False
+2025,5,2025-05-01,Scoot Tigerair,Singapore,Outbound,45552.0,615.9,,False
+2025,5,2025-05-01,Sichuan Airlines,China,Inbound,8148.0,280.2,13.1,False
+2025,5,2025-05-01,Sichuan Airlines,China,Outbound,9431.0,136.4,,False
+2025,5,2025-05-01,Singapore Airlines,New Zealand,Inbound,,122.1,,False
+2025,5,2025-05-01,Singapore Airlines,New Zealand,Outbound,,370.1,,False
+2025,5,2025-05-01,Singapore Airlines,Singapore,Inbound,151841.0,6674.8,29.1,False
+2025,5,2025-05-01,Singapore Airlines,Singapore,Outbound,153925.0,6916.1,,True
+2025,5,2025-05-01,Singapore Airlines,USA,Inbound,,1322.8,,False
+2025,5,2025-05-01,Singapore Airlines,USA,Outbound,,,,True
+2025,5,2025-05-01,Singapore Airlines,,Inbound,151841.0,8119.7,29.1,False
+2025,5,2025-05-01,Singapore Airlines,,Outbound,153925.0,7286.3,,False
+2025,5,2025-05-01,Solomon Airlines,New Zealand,Inbound,360.0,,,False
+2025,5,2025-05-01,Solomon Airlines,New Zealand,Outbound,229.0,0.4,,False
+2025,5,2025-05-01,Solomon Airlines,Solomon Islands,Inbound,1245.0,2.3,,False
+2025,5,2025-05-01,Solomon Airlines,Solomon Islands,Outbound,1086.0,13.4,,False
+2025,5,2025-05-01,Solomon Airlines,Vanuatu,Inbound,337.0,0.5,,False
+2025,5,2025-05-01,Solomon Airlines,Vanuatu,Outbound,482.0,6.8,,False
+2025,5,2025-05-01,Solomon Airlines,,Inbound,1942.0,2.8,,False
+2025,5,2025-05-01,Solomon Airlines,,Outbound,1797.0,20.6,,False
+2025,5,2025-05-01,South African Airways,South Africa,Inbound,3608.0,26.0,,False
+2025,5,2025-05-01,South African Airways,South Africa,Outbound,3404.0,137.1,,False
+2025,5,2025-05-01,SriLankan Airlines,Sri Lanka,Inbound,12641.0,313.1,,False
+2025,5,2025-05-01,SriLankan Airlines,Sri Lanka,Outbound,11593.0,372.6,3.8,False
+2025,5,2025-05-01,T'way Air,Korea,Inbound,4058.0,155.0,0.8,False
+2025,5,2025-05-01,T'way Air,Korea,Outbound,4265.0,56.5,,False
+2025,5,2025-05-01,Tasman Cargo Airlines,Hong Kong (SAR),Inbound,,769.4,,True
+2025,5,2025-05-01,Tasman Cargo Airlines,Hong Kong (SAR),Outbound,,412.3,,False
+2025,5,2025-05-01,Tasman Cargo Airlines,New Zealand,Inbound,,953.7,,True
+2025,5,2025-05-01,Tasman Cargo Airlines,New Zealand,Outbound,,1155.2,,False
+2025,5,2025-05-01,Tasman Cargo Airlines,,Inbound,,1723.1,,False
+2025,5,2025-05-01,Tasman Cargo Airlines,,Outbound,,1567.5,,False
+2025,5,2025-05-01,Thai Airways International,Thailand,Inbound,35251.0,1774.6,19.5,False
+2025,5,2025-05-01,Thai Airways International,Thailand,Outbound,34700.0,793.3,,False
+2025,5,2025-05-01,Tianjin Airlines,China,Inbound,1930.0,93.2,5.9,False
+2025,5,2025-05-01,Tianjin Airlines,China,Outbound,2037.0,7.0,,False
+2025,5,2025-05-01,TransNusa,Indonesia,Inbound,1493.0,,,False
+2025,5,2025-05-01,TransNusa,Indonesia,Outbound,1802.0,,,True
+2025,5,2025-05-01,Turkish Airlines,Singapore,Inbound,658.0,0.1,,False
+2025,5,2025-05-01,Turkish Airlines,Singapore,Outbound,322.0,,,True
+2025,5,2025-05-01,Turkish Airlines,Turkey,Inbound,3789.0,294.8,2.5,False
+2025,5,2025-05-01,Turkish Airlines,Turkey,Outbound,6797.0,273.9,,False
+2025,5,2025-05-01,Turkish Airlines,,Inbound,4447.0,294.9,2.5,False
+2025,5,2025-05-01,Turkish Airlines,,Outbound,7119.0,273.9,,False
+2025,5,2025-05-01,United Airlines,USA,Inbound,23519.0,592.6,18.8,False
+2025,5,2025-05-01,United Airlines,USA,Outbound,22072.0,875.9,252.6,False
+2025,5,2025-05-01,United Parcel Service,China,Inbound,,215.1,,False
+2025,5,2025-05-01,United Parcel Service,China,Outbound,,215.7,,False
+2025,5,2025-05-01,United Parcel Service,Korea,Inbound,,,,True
+2025,5,2025-05-01,United Parcel Service,Korea,Outbound,,80.7,,False
+2025,5,2025-05-01,United Parcel Service,Singapore,Inbound,,,,True
+2025,5,2025-05-01,United Parcel Service,Singapore,Outbound,,78.7,,False
+2025,5,2025-05-01,United Parcel Service,USA,Inbound,,1215.8,,False
+2025,5,2025-05-01,United Parcel Service,USA,Outbound,,,,False
+2025,5,2025-05-01,United Parcel Service,,Inbound,,1430.9,,False
+2025,5,2025-05-01,United Parcel Service,,Outbound,,375.2,,False
+2025,5,2025-05-01,Vietjet Air,Vietnam,Inbound,20758.0,559.3,,False
+2025,5,2025-05-01,Vietjet Air,Vietnam,Outbound,17052.0,,,False
+2025,5,2025-05-01,Vietnam Airlines,Vietnam,Inbound,21527.0,980.7,,False
+2025,5,2025-05-01,Vietnam Airlines,Vietnam,Outbound,21261.0,324.1,1.8,False
+2025,5,2025-05-01,Virgin Australia,Fiji,Inbound,9842.0,,,False
+2025,5,2025-05-01,Virgin Australia,Fiji,Outbound,9904.0,,,False
+2025,5,2025-05-01,Virgin Australia,Indonesia,Inbound,21988.0,,,False
+2025,5,2025-05-01,Virgin Australia,Indonesia,Outbound,22113.0,,,False
+2025,5,2025-05-01,Virgin Australia,New Zealand,Inbound,5298.0,,,True
+2025,5,2025-05-01,Virgin Australia,New Zealand,Outbound,4244.0,,,False
+2025,5,2025-05-01,Virgin Australia,Vanuatu,Inbound,3359.0,,,True
+2025,5,2025-05-01,Virgin Australia,Vanuatu,Outbound,3517.0,,,True
+2025,5,2025-05-01,Virgin Australia,Western Samoa,Inbound,494.0,,,False
+2025,5,2025-05-01,Virgin Australia,Western Samoa,Outbound,677.0,,,True
+2025,5,2025-05-01,Virgin Australia,,Inbound,40981.0,,,False
+2025,5,2025-05-01,Virgin Australia,,Outbound,40455.0,,,False
+2025,5,2025-05-01,Xiamen Airlines,China,Inbound,12354.0,728.7,1.1,False
+2025,5,2025-05-01,Xiamen Airlines,China,Outbound,12574.0,307.4,,False

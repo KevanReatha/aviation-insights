@@ -1,0 +1,2057 @@
+Australian_City,Foreign_City,Metric,Direction,Year,Value,Is_Total_Row
+Adelaide,Auckland,Freight_tonnes,Inbound,2024,9.4,False
+Adelaide,Auckland,Freight_tonnes,Inbound,2025,6.1,False
+Adelaide,Auckland,Freight_tonnes,Outbound,2024,2.9,False
+Adelaide,Auckland,Freight_tonnes,Outbound,2025,5.6,False
+Adelaide,Auckland,Passengers,Inbound,2024,2321.0,False
+Adelaide,Auckland,Passengers,Inbound,2025,2641.0,False
+Adelaide,Auckland,Passengers,Outbound,2024,2296.0,False
+Adelaide,Auckland,Passengers,Outbound,2025,2679.0,False
+Adelaide,Denpasar,Freight_tonnes,Inbound,2024,3.6,False
+Adelaide,Denpasar,Freight_tonnes,Inbound,2025,1.9,False
+Adelaide,Denpasar,Freight_tonnes,Outbound,2024,0.0,False
+Adelaide,Denpasar,Freight_tonnes,Outbound,2025,0.0,False
+Adelaide,Denpasar,Passengers,Inbound,2024,9498.0,False
+Adelaide,Denpasar,Passengers,Inbound,2025,10285.0,False
+Adelaide,Denpasar,Passengers,Outbound,2024,9752.0,False
+Adelaide,Denpasar,Passengers,Outbound,2025,9869.0,False
+Adelaide,Doha,Freight_tonnes,Inbound,2024,89.4,False
+Adelaide,Doha,Freight_tonnes,Inbound,2025,119.2,False
+Adelaide,Doha,Freight_tonnes,Outbound,2024,245.5,False
+Adelaide,Doha,Freight_tonnes,Outbound,2025,357.4,False
+Adelaide,Doha,Passengers,Inbound,2024,6470.0,False
+Adelaide,Doha,Passengers,Inbound,2025,5572.0,False
+Adelaide,Doha,Passengers,Outbound,2024,8977.0,False
+Adelaide,Doha,Passengers,Outbound,2025,7935.0,False
+Adelaide,Dubai,Freight_tonnes,Inbound,2024,0.0,False
+Adelaide,Dubai,Freight_tonnes,Inbound,2025,113.1,False
+Adelaide,Dubai,Freight_tonnes,Outbound,2024,0.0,False
+Adelaide,Dubai,Freight_tonnes,Outbound,2025,630.6,False
+Adelaide,Dubai,Passengers,Inbound,2024,0.0,False
+Adelaide,Dubai,Passengers,Inbound,2025,4631.0,False
+Adelaide,Dubai,Passengers,Outbound,2024,0.0,False
+Adelaide,Dubai,Passengers,Outbound,2025,6088.0,False
+Adelaide,Ho Chi Minh City,Freight_tonnes,Inbound,2024,0.0,False
+Adelaide,Ho Chi Minh City,Freight_tonnes,Inbound,2025,0.0,False
+Adelaide,Ho Chi Minh City,Freight_tonnes,Outbound,2024,0.0,False
+Adelaide,Ho Chi Minh City,Freight_tonnes,Outbound,2025,0.0,False
+Adelaide,Ho Chi Minh City,Passengers,Inbound,2024,865.0,False
+Adelaide,Ho Chi Minh City,Passengers,Inbound,2025,0.0,False
+Adelaide,Ho Chi Minh City,Passengers,Outbound,2024,701.0,False
+Adelaide,Ho Chi Minh City,Passengers,Outbound,2025,0.0,False
+Adelaide,Kuala Lumpur,Freight_tonnes,Inbound,2024,110.6,False
+Adelaide,Kuala Lumpur,Freight_tonnes,Inbound,2025,222.3,False
+Adelaide,Kuala Lumpur,Freight_tonnes,Outbound,2024,59.5,False
+Adelaide,Kuala Lumpur,Freight_tonnes,Outbound,2025,160.1,False
+Adelaide,Kuala Lumpur,Passengers,Inbound,2024,5250.0,False
+Adelaide,Kuala Lumpur,Passengers,Inbound,2025,5769.0,False
+Adelaide,Kuala Lumpur,Passengers,Outbound,2024,4833.0,False
+Adelaide,Kuala Lumpur,Passengers,Outbound,2025,5351.0,False
+Adelaide,Nadi,Freight_tonnes,Inbound,2024,0.2,False
+Adelaide,Nadi,Freight_tonnes,Inbound,2025,0.0,False
+Adelaide,Nadi,Freight_tonnes,Outbound,2024,0.3,False
+Adelaide,Nadi,Freight_tonnes,Outbound,2025,0.0,False
+Adelaide,Nadi,Passengers,Inbound,2024,1039.0,False
+Adelaide,Nadi,Passengers,Inbound,2025,1667.0,False
+Adelaide,Nadi,Passengers,Outbound,2024,974.0,False
+Adelaide,Nadi,Passengers,Outbound,2025,1456.0,False
+Adelaide,Singapore,Freight_tonnes,Inbound,2024,325.8,False
+Adelaide,Singapore,Freight_tonnes,Inbound,2025,442.7,False
+Adelaide,Singapore,Freight_tonnes,Outbound,2024,336.5,False
+Adelaide,Singapore,Freight_tonnes,Outbound,2025,329.6,False
+Adelaide,Singapore,Passengers,Inbound,2024,9784.0,False
+Adelaide,Singapore,Passengers,Inbound,2025,13848.0,False
+Adelaide,Singapore,Passengers,Outbound,2024,9734.0,False
+Adelaide,Singapore,Passengers,Outbound,2025,12975.0,False
+Australia,Abu Dhabi,Freight_tonnes,Inbound,2024,610.7,True
+Australia,Abu Dhabi,Freight_tonnes,Inbound,2025,377.2,True
+Australia,Abu Dhabi,Freight_tonnes,Outbound,2024,504.2,True
+Australia,Abu Dhabi,Freight_tonnes,Outbound,2025,541.0,True
+Australia,Abu Dhabi,Passengers,Inbound,2024,13671.0,True
+Australia,Abu Dhabi,Passengers,Inbound,2025,16407.0,True
+Australia,Abu Dhabi,Passengers,Outbound,2024,18651.0,True
+Australia,Abu Dhabi,Passengers,Outbound,2025,18928.0,True
+Australia,Apia,Freight_tonnes,Inbound,2024,0.0,True
+Australia,Apia,Freight_tonnes,Inbound,2025,0.0,True
+Australia,Apia,Freight_tonnes,Outbound,2024,1.5,True
+Australia,Apia,Freight_tonnes,Outbound,2025,0.3,True
+Australia,Apia,Passengers,Inbound,2024,2292.0,True
+Australia,Apia,Passengers,Inbound,2025,2312.0,True
+Australia,Apia,Passengers,Outbound,2024,2998.0,True
+Australia,Apia,Passengers,Outbound,2025,2371.0,True
+Australia,Auckland,Freight_tonnes,Inbound,2024,3422.9,True
+Australia,Auckland,Freight_tonnes,Inbound,2025,2768.0,True
+Australia,Auckland,Freight_tonnes,Outbound,2024,4450.6,True
+Australia,Auckland,Freight_tonnes,Outbound,2025,3773.2,True
+Australia,Auckland,Passengers,Inbound,2024,147042.0,True
+Australia,Auckland,Passengers,Inbound,2025,155149.0,True
+Australia,Auckland,Passengers,Outbound,2024,139501.0,True
+Australia,Auckland,Passengers,Outbound,2025,145432.0,True
+Australia,Bandar Seri Begawan,Freight_tonnes,Inbound,2024,101.3,True
+Australia,Bandar Seri Begawan,Freight_tonnes,Inbound,2025,148.1,True
+Australia,Bandar Seri Begawan,Freight_tonnes,Outbound,2024,215.2,True
+Australia,Bandar Seri Begawan,Freight_tonnes,Outbound,2025,241.9,True
+Australia,Bandar Seri Begawan,Passengers,Inbound,2024,1807.0,True
+Australia,Bandar Seri Begawan,Passengers,Inbound,2025,2726.0,True
+Australia,Bandar Seri Begawan,Passengers,Outbound,2024,2233.0,True
+Australia,Bandar Seri Begawan,Passengers,Outbound,2025,2691.0,True
+Australia,Bangalore,Freight_tonnes,Inbound,2024,51.1,True
+Australia,Bangalore,Freight_tonnes,Inbound,2025,84.1,True
+Australia,Bangalore,Freight_tonnes,Outbound,2024,8.6,True
+Australia,Bangalore,Freight_tonnes,Outbound,2025,0.0,True
+Australia,Bangalore,Passengers,Inbound,2024,4799.0,True
+Australia,Bangalore,Passengers,Inbound,2025,4323.0,True
+Australia,Bangalore,Passengers,Outbound,2024,4833.0,True
+Australia,Bangalore,Passengers,Outbound,2025,4361.0,True
+Australia,Bangkok,Freight_tonnes,Inbound,2024,2100.4,True
+Australia,Bangkok,Freight_tonnes,Inbound,2025,2233.8,True
+Australia,Bangkok,Freight_tonnes,Outbound,2024,669.0,True
+Australia,Bangkok,Freight_tonnes,Outbound,2025,857.5,True
+Australia,Bangkok,Passengers,Inbound,2024,39019.0,True
+Australia,Bangkok,Passengers,Inbound,2025,53435.0,True
+Australia,Bangkok,Passengers,Outbound,2024,37285.0,True
+Australia,Bangkok,Passengers,Outbound,2025,51548.0,True
+Australia,Beijing,Freight_tonnes,Inbound,2024,433.8,True
+Australia,Beijing,Freight_tonnes,Inbound,2025,253.0,True
+Australia,Beijing,Freight_tonnes,Outbound,2024,288.5,True
+Australia,Beijing,Freight_tonnes,Outbound,2025,132.4,True
+Australia,Beijing,Passengers,Inbound,2024,8544.0,True
+Australia,Beijing,Passengers,Inbound,2025,7591.0,True
+Australia,Beijing,Passengers,Outbound,2024,9431.0,True
+Australia,Beijing,Passengers,Outbound,2025,8098.0,True
+Australia,Bombay,Freight_tonnes,Inbound,2024,22.8,True
+Australia,Bombay,Freight_tonnes,Inbound,2025,0.0,True
+Australia,Bombay,Freight_tonnes,Outbound,2024,15.7,True
+Australia,Bombay,Freight_tonnes,Outbound,2025,0.0,True
+Australia,Bombay,Passengers,Inbound,2024,2968.0,True
+Australia,Bombay,Passengers,Inbound,2025,0.0,True
+Australia,Bombay,Passengers,Outbound,2024,3254.0,True
+Australia,Bombay,Passengers,Outbound,2025,0.0,True
+Australia,Chengdu,Freight_tonnes,Inbound,2024,245.4,True
+Australia,Chengdu,Freight_tonnes,Inbound,2025,280.2,True
+Australia,Chengdu,Freight_tonnes,Outbound,2024,100.7,True
+Australia,Chengdu,Freight_tonnes,Outbound,2025,136.4,True
+Australia,Chengdu,Passengers,Inbound,2024,5983.0,True
+Australia,Chengdu,Passengers,Inbound,2025,8148.0,True
+Australia,Chengdu,Passengers,Outbound,2024,7054.0,True
+Australia,Chengdu,Passengers,Outbound,2025,9431.0,True
+Australia,Chicago,Freight_tonnes,Inbound,2024,857.8,True
+Australia,Chicago,Freight_tonnes,Inbound,2025,516.0,True
+Australia,Chicago,Freight_tonnes,Outbound,2024,0.0,True
+Australia,Chicago,Freight_tonnes,Outbound,2025,1.6,True
+Australia,Chicago,Passengers,Inbound,2024,0.0,True
+Australia,Chicago,Passengers,Inbound,2025,0.0,True
+Australia,Chicago,Passengers,Outbound,2024,0.0,True
+Australia,Chicago,Passengers,Outbound,2025,0.0,True
+Australia,Chongqing,Freight_tonnes,Inbound,2024,40.6,True
+Australia,Chongqing,Freight_tonnes,Inbound,2025,54.5,True
+Australia,Chongqing,Freight_tonnes,Outbound,2024,62.2,True
+Australia,Chongqing,Freight_tonnes,Outbound,2025,5.7,True
+Australia,Chongqing,Passengers,Inbound,2024,539.0,True
+Australia,Chongqing,Passengers,Inbound,2025,849.0,True
+Australia,Chongqing,Passengers,Outbound,2024,528.0,True
+Australia,Chongqing,Passengers,Outbound,2025,892.0,True
+Australia,Christchurch,Freight_tonnes,Inbound,2024,618.4,True
+Australia,Christchurch,Freight_tonnes,Inbound,2025,490.2,True
+Australia,Christchurch,Freight_tonnes,Outbound,2024,139.9,True
+Australia,Christchurch,Freight_tonnes,Outbound,2025,185.3,True
+Australia,Christchurch,Passengers,Inbound,2024,37970.0,True
+Australia,Christchurch,Passengers,Inbound,2025,42258.0,True
+Australia,Christchurch,Passengers,Outbound,2024,33686.0,True
+Australia,Christchurch,Passengers,Outbound,2025,34965.0,True
+Australia,Colombo,Freight_tonnes,Inbound,2024,326.3,True
+Australia,Colombo,Freight_tonnes,Inbound,2025,313.1,True
+Australia,Colombo,Freight_tonnes,Outbound,2024,230.5,True
+Australia,Colombo,Freight_tonnes,Outbound,2025,372.6,True
+Australia,Colombo,Passengers,Inbound,2024,10702.0,True
+Australia,Colombo,Passengers,Inbound,2025,12641.0,True
+Australia,Colombo,Passengers,Outbound,2024,9552.0,True
+Australia,Colombo,Passengers,Outbound,2025,11593.0,True
+Australia,Dallas,Freight_tonnes,Inbound,2024,108.6,True
+Australia,Dallas,Freight_tonnes,Inbound,2025,103.4,True
+Australia,Dallas,Freight_tonnes,Outbound,2024,65.2,True
+Australia,Dallas,Freight_tonnes,Outbound,2025,3.2,True
+Australia,Dallas,Passengers,Inbound,2024,7378.0,True
+Australia,Dallas,Passengers,Inbound,2025,8724.0,True
+Australia,Dallas,Passengers,Outbound,2024,8868.0,True
+Australia,Dallas,Passengers,Outbound,2025,9379.0,True
+Australia,Denpasar,Freight_tonnes,Inbound,2024,685.8,True
+Australia,Denpasar,Freight_tonnes,Inbound,2025,616.2,True
+Australia,Denpasar,Freight_tonnes,Outbound,2024,622.0,True
+Australia,Denpasar,Freight_tonnes,Outbound,2025,441.1,True
+Australia,Denpasar,Passengers,Inbound,2024,150811.0,True
+Australia,Denpasar,Passengers,Inbound,2025,170506.0,True
+Australia,Denpasar,Passengers,Outbound,2024,161561.0,True
+Australia,Denpasar,Passengers,Outbound,2025,173575.0,True
+Australia,Dili,Freight_tonnes,Inbound,2024,0.1,True
+Australia,Dili,Freight_tonnes,Inbound,2025,0.0,True
+Australia,Dili,Freight_tonnes,Outbound,2024,1.2,True
+Australia,Dili,Freight_tonnes,Outbound,2025,0.4,True
+Australia,Dili,Passengers,Inbound,2024,1187.0,True
+Australia,Dili,Passengers,Inbound,2025,1291.0,True
+Australia,Dili,Passengers,Outbound,2024,1155.0,True
+Australia,Dili,Passengers,Outbound,2025,1372.0,True
+Australia,Doha,Freight_tonnes,Inbound,2024,1859.3,True
+Australia,Doha,Freight_tonnes,Inbound,2025,1440.0,True
+Australia,Doha,Freight_tonnes,Outbound,2024,1836.5,True
+Australia,Doha,Freight_tonnes,Outbound,2025,1470.7,True
+Australia,Doha,Passengers,Inbound,2024,48328.0,True
+Australia,Doha,Passengers,Inbound,2025,49889.0,True
+Australia,Doha,Passengers,Outbound,2024,68597.0,True
+Australia,Doha,Passengers,Outbound,2025,69792.0,True
+Australia,Dubai,Freight_tonnes,Inbound,2024,2308.8,True
+Australia,Dubai,Freight_tonnes,Inbound,2025,2848.3,True
+Australia,Dubai,Freight_tonnes,Outbound,2024,2746.2,True
+Australia,Dubai,Freight_tonnes,Outbound,2025,3408.5,True
+Australia,Dubai,Passengers,Inbound,2024,69733.0,True
+Australia,Dubai,Passengers,Inbound,2025,83951.0,True
+Australia,Dubai,Passengers,Outbound,2024,105310.0,True
+Australia,Dubai,Passengers,Outbound,2025,117191.0,True
+Australia,Espiritu Santo,Freight_tonnes,Inbound,2024,0.0,True
+Australia,Espiritu Santo,Freight_tonnes,Inbound,2025,0.0,True
+Australia,Espiritu Santo,Freight_tonnes,Outbound,2024,0.0,True
+Australia,Espiritu Santo,Freight_tonnes,Outbound,2025,2.7,True
+Australia,Espiritu Santo,Passengers,Inbound,2024,100.0,True
+Australia,Espiritu Santo,Passengers,Inbound,2025,272.0,True
+Australia,Espiritu Santo,Passengers,Outbound,2024,114.0,True
+Australia,Espiritu Santo,Passengers,Outbound,2025,474.0,True
+Australia,Gaborone,Freight_tonnes,Inbound,2024,0.0,True
+Australia,Gaborone,Freight_tonnes,Inbound,2025,0.0,True
+Australia,Gaborone,Freight_tonnes,Outbound,2024,67.5,True
+Australia,Gaborone,Freight_tonnes,Outbound,2025,0.0,True
+Australia,Gaborone,Passengers,Inbound,2024,0.0,True
+Australia,Gaborone,Passengers,Inbound,2025,0.0,True
+Australia,Gaborone,Passengers,Outbound,2024,0.0,True
+Australia,Gaborone,Passengers,Outbound,2025,0.0,True
+Australia,Guangzhou,Freight_tonnes,Inbound,2024,1677.4,True
+Australia,Guangzhou,Freight_tonnes,Inbound,2025,2952.8,True
+Australia,Guangzhou,Freight_tonnes,Outbound,2024,1795.1,True
+Australia,Guangzhou,Freight_tonnes,Outbound,2025,1162.3,True
+Australia,Guangzhou,Passengers,Inbound,2024,29518.0,True
+Australia,Guangzhou,Passengers,Inbound,2025,31680.0,True
+Australia,Guangzhou,Passengers,Outbound,2024,32691.0,True
+Australia,Guangzhou,Passengers,Outbound,2025,33841.0,True
+Australia,Haikou,Freight_tonnes,Inbound,2024,341.9,True
+Australia,Haikou,Freight_tonnes,Inbound,2025,492.9,True
+Australia,Haikou,Freight_tonnes,Outbound,2024,127.6,True
+Australia,Haikou,Freight_tonnes,Outbound,2025,62.8,True
+Australia,Haikou,Passengers,Inbound,2024,4975.0,True
+Australia,Haikou,Passengers,Inbound,2025,5607.0,True
+Australia,Haikou,Passengers,Outbound,2024,6817.0,True
+Australia,Haikou,Passengers,Outbound,2025,6955.0,True
+Australia,Hangzhou,Freight_tonnes,Inbound,2024,41.8,True
+Australia,Hangzhou,Freight_tonnes,Inbound,2025,275.1,True
+Australia,Hangzhou,Freight_tonnes,Outbound,2024,3.5,True
+Australia,Hangzhou,Freight_tonnes,Outbound,2025,10.2,True
+Australia,Hangzhou,Passengers,Inbound,2024,1080.0,True
+Australia,Hangzhou,Passengers,Inbound,2025,3844.0,True
+Australia,Hangzhou,Passengers,Outbound,2024,984.0,True
+Australia,Hangzhou,Passengers,Outbound,2025,3731.0,True
+Australia,Hanoi,Freight_tonnes,Inbound,2024,193.9,True
+Australia,Hanoi,Freight_tonnes,Inbound,2025,428.5,True
+Australia,Hanoi,Freight_tonnes,Outbound,2024,143.3,True
+Australia,Hanoi,Freight_tonnes,Outbound,2025,109.2,True
+Australia,Hanoi,Passengers,Inbound,2024,3814.0,True
+Australia,Hanoi,Passengers,Inbound,2025,8285.0,True
+Australia,Hanoi,Passengers,Outbound,2024,5146.0,True
+Australia,Hanoi,Passengers,Outbound,2025,8549.0,True
+Australia,Ho Chi Minh City,Freight_tonnes,Inbound,2024,1435.8,True
+Australia,Ho Chi Minh City,Freight_tonnes,Inbound,2025,1347.1,True
+Australia,Ho Chi Minh City,Freight_tonnes,Outbound,2024,313.3,True
+Australia,Ho Chi Minh City,Freight_tonnes,Outbound,2025,252.6,True
+Australia,Ho Chi Minh City,Passengers,Inbound,2024,39052.0,True
+Australia,Ho Chi Minh City,Passengers,Inbound,2025,43683.0,True
+Australia,Ho Chi Minh City,Passengers,Outbound,2024,37954.0,True
+Australia,Ho Chi Minh City,Passengers,Outbound,2025,39618.0,True
+Australia,Hong Kong,Freight_tonnes,Inbound,2024,6212.1,True
+Australia,Hong Kong,Freight_tonnes,Inbound,2025,6190.5,True
+Australia,Hong Kong,Freight_tonnes,Outbound,2024,3612.8,True
+Australia,Hong Kong,Freight_tonnes,Outbound,2025,3251.7,True
+Australia,Hong Kong,Passengers,Inbound,2024,54874.0,True
+Australia,Hong Kong,Passengers,Inbound,2025,82312.0,True
+Australia,Hong Kong,Passengers,Outbound,2024,63583.0,True
+Australia,Hong Kong,Passengers,Outbound,2025,86591.0,True
+Australia,Honiara,Freight_tonnes,Inbound,2024,5.9,True
+Australia,Honiara,Freight_tonnes,Inbound,2025,2.3,True
+Australia,Honiara,Freight_tonnes,Outbound,2024,16.3,True
+Australia,Honiara,Freight_tonnes,Outbound,2025,51.2,True
+Australia,Honiara,Passengers,Inbound,2024,1971.0,True
+Australia,Honiara,Passengers,Inbound,2025,2275.0,True
+Australia,Honiara,Passengers,Outbound,2024,1640.0,True
+Australia,Honiara,Passengers,Outbound,2025,1883.0,True
+Australia,Honolulu,Freight_tonnes,Inbound,2024,2071.3,True
+Australia,Honolulu,Freight_tonnes,Inbound,2025,2032.1,True
+Australia,Honolulu,Freight_tonnes,Outbound,2024,454.9,True
+Australia,Honolulu,Freight_tonnes,Outbound,2025,295.7,True
+Australia,Honolulu,Passengers,Inbound,2024,16110.0,True
+Australia,Honolulu,Passengers,Inbound,2025,15449.0,True
+Australia,Honolulu,Passengers,Outbound,2024,13817.0,True
+Australia,Honolulu,Passengers,Outbound,2025,13431.0,True
+Australia,Istanbul,Freight_tonnes,Inbound,2024,139.3,True
+Australia,Istanbul,Freight_tonnes,Inbound,2025,294.8,True
+Australia,Istanbul,Freight_tonnes,Outbound,2024,177.4,True
+Australia,Istanbul,Freight_tonnes,Outbound,2025,273.9,True
+Australia,Istanbul,Passengers,Inbound,2024,1155.0,True
+Australia,Istanbul,Passengers,Inbound,2025,3789.0,True
+Australia,Istanbul,Passengers,Outbound,2024,2900.0,True
+Australia,Istanbul,Passengers,Outbound,2025,6797.0,True
+Australia,Jakarta,Freight_tonnes,Inbound,2024,431.0,True
+Australia,Jakarta,Freight_tonnes,Inbound,2025,322.7,True
+Australia,Jakarta,Freight_tonnes,Outbound,2024,719.8,True
+Australia,Jakarta,Freight_tonnes,Outbound,2025,203.4,True
+Australia,Jakarta,Passengers,Inbound,2024,14147.0,True
+Australia,Jakarta,Passengers,Inbound,2025,14118.0,True
+Australia,Jakarta,Passengers,Outbound,2024,15146.0,True
+Australia,Jakarta,Passengers,Outbound,2025,13168.0,True
+Australia,Jinan,Freight_tonnes,Inbound,2024,139.2,True
+Australia,Jinan,Freight_tonnes,Inbound,2025,109.3,True
+Australia,Jinan,Freight_tonnes,Outbound,2024,2.6,True
+Australia,Jinan,Freight_tonnes,Outbound,2025,0.3,True
+Australia,Jinan,Passengers,Inbound,2024,1271.0,True
+Australia,Jinan,Passengers,Inbound,2025,935.0,True
+Australia,Jinan,Passengers,Outbound,2024,738.0,True
+Australia,Jinan,Passengers,Outbound,2025,851.0,True
+Australia,Johannesburg,Freight_tonnes,Inbound,2024,78.2,True
+Australia,Johannesburg,Freight_tonnes,Inbound,2025,116.1,True
+Australia,Johannesburg,Freight_tonnes,Outbound,2024,62.4,True
+Australia,Johannesburg,Freight_tonnes,Outbound,2025,139.8,True
+Australia,Johannesburg,Passengers,Inbound,2024,7022.0,True
+Australia,Johannesburg,Passengers,Inbound,2025,10263.0,True
+Australia,Johannesburg,Passengers,Outbound,2024,7528.0,True
+Australia,Johannesburg,Passengers,Outbound,2025,10185.0,True
+Australia,Kuala Lumpur,Freight_tonnes,Inbound,2024,2664.1,True
+Australia,Kuala Lumpur,Freight_tonnes,Inbound,2025,2559.2,True
+Australia,Kuala Lumpur,Freight_tonnes,Outbound,2024,1521.1,True
+Australia,Kuala Lumpur,Freight_tonnes,Outbound,2025,1040.0,True
+Australia,Kuala Lumpur,Passengers,Inbound,2024,67355.0,True
+Australia,Kuala Lumpur,Passengers,Inbound,2025,66338.0,True
+Australia,Kuala Lumpur,Passengers,Outbound,2024,62186.0,True
+Australia,Kuala Lumpur,Passengers,Outbound,2025,59339.0,True
+Australia,London,Freight_tonnes,Inbound,2024,386.6,True
+Australia,London,Freight_tonnes,Inbound,2025,372.2,True
+Australia,London,Freight_tonnes,Outbound,2024,49.2,True
+Australia,London,Freight_tonnes,Outbound,2025,28.4,True
+Australia,London,Passengers,Inbound,2024,14842.0,True
+Australia,London,Passengers,Inbound,2025,13953.0,True
+Australia,London,Passengers,Outbound,2024,17923.0,True
+Australia,London,Passengers,Outbound,2025,17454.0,True
+Australia,Los Angeles,Freight_tonnes,Inbound,2024,1290.2,True
+Australia,Los Angeles,Freight_tonnes,Inbound,2025,1553.3,True
+Australia,Los Angeles,Freight_tonnes,Outbound,2024,1864.0,True
+Australia,Los Angeles,Freight_tonnes,Outbound,2025,1166.9,True
+Australia,Los Angeles,Passengers,Inbound,2024,44750.0,True
+Australia,Los Angeles,Passengers,Inbound,2025,45607.0,True
+Australia,Los Angeles,Passengers,Outbound,2024,43334.0,True
+Australia,Los Angeles,Passengers,Outbound,2025,40954.0,True
+Australia,Louisville,Freight_tonnes,Inbound,2024,1219.1,True
+Australia,Louisville,Freight_tonnes,Inbound,2025,1215.8,True
+Australia,Louisville,Freight_tonnes,Outbound,2024,0.0,True
+Australia,Louisville,Freight_tonnes,Outbound,2025,0.0,True
+Australia,Louisville,Passengers,Inbound,2024,0.0,True
+Australia,Louisville,Passengers,Inbound,2025,0.0,True
+Australia,Louisville,Passengers,Outbound,2024,0.0,True
+Australia,Louisville,Passengers,Outbound,2025,0.0,True
+Australia,Manila,Freight_tonnes,Inbound,2024,786.0,True
+Australia,Manila,Freight_tonnes,Inbound,2025,1125.0,True
+Australia,Manila,Freight_tonnes,Outbound,2024,761.9,True
+Australia,Manila,Freight_tonnes,Outbound,2025,639.8,True
+Australia,Manila,Passengers,Inbound,2024,30979.0,True
+Australia,Manila,Passengers,Inbound,2025,40705.0,True
+Australia,Manila,Passengers,Outbound,2024,28639.0,True
+Australia,Manila,Passengers,Outbound,2025,35210.0,True
+Australia,Mauritius,Freight_tonnes,Inbound,2024,30.9,True
+Australia,Mauritius,Freight_tonnes,Inbound,2025,16.4,True
+Australia,Mauritius,Freight_tonnes,Outbound,2024,60.2,True
+Australia,Mauritius,Freight_tonnes,Outbound,2025,39.9,True
+Australia,Mauritius,Passengers,Inbound,2024,1849.0,True
+Australia,Mauritius,Passengers,Inbound,2025,1788.0,True
+Australia,Mauritius,Passengers,Outbound,2024,2205.0,True
+Australia,Mauritius,Passengers,Outbound,2025,1883.0,True
+Australia,Munda,Freight_tonnes,Inbound,2024,0.0,True
+Australia,Munda,Freight_tonnes,Inbound,2025,0.0,True
+Australia,Munda,Freight_tonnes,Outbound,2024,0.0,True
+Australia,Munda,Freight_tonnes,Outbound,2025,0.2,True
+Australia,Munda,Passengers,Inbound,2024,0.0,True
+Australia,Munda,Passengers,Inbound,2025,0.0,True
+Australia,Munda,Passengers,Outbound,2024,70.0,True
+Australia,Munda,Passengers,Outbound,2025,135.0,True
+Australia,Nadi,Freight_tonnes,Inbound,2024,366.9,True
+Australia,Nadi,Freight_tonnes,Inbound,2025,451.2,True
+Australia,Nadi,Freight_tonnes,Outbound,2024,484.6,True
+Australia,Nadi,Freight_tonnes,Outbound,2025,489.9,True
+Australia,Nadi,Passengers,Inbound,2024,48051.0,True
+Australia,Nadi,Passengers,Inbound,2025,52036.0,True
+Australia,Nadi,Passengers,Outbound,2024,48529.0,True
+Australia,Nadi,Passengers,Outbound,2025,51286.0,True
+Australia,Nanjing,Freight_tonnes,Inbound,2024,212.9,True
+Australia,Nanjing,Freight_tonnes,Inbound,2025,340.7,True
+Australia,Nanjing,Freight_tonnes,Outbound,2024,2.3,True
+Australia,Nanjing,Freight_tonnes,Outbound,2025,21.5,True
+Australia,Nanjing,Passengers,Inbound,2024,1801.0,True
+Australia,Nanjing,Passengers,Inbound,2025,3600.0,True
+Australia,Nanjing,Passengers,Outbound,2024,1772.0,True
+Australia,Nanjing,Passengers,Outbound,2025,2972.0,True
+Australia,Nauru,Freight_tonnes,Inbound,2024,11.5,True
+Australia,Nauru,Freight_tonnes,Inbound,2025,18.4,True
+Australia,Nauru,Freight_tonnes,Outbound,2024,74.7,True
+Australia,Nauru,Freight_tonnes,Outbound,2025,71.4,True
+Australia,Nauru,Passengers,Inbound,2024,675.0,True
+Australia,Nauru,Passengers,Inbound,2025,890.0,True
+Australia,Nauru,Passengers,Outbound,2024,587.0,True
+Australia,Nauru,Passengers,Outbound,2025,872.0,True
+Australia,New Delhi,Freight_tonnes,Inbound,2024,220.5,True
+Australia,New Delhi,Freight_tonnes,Inbound,2025,455.7,True
+Australia,New Delhi,Freight_tonnes,Outbound,2024,401.1,True
+Australia,New Delhi,Freight_tonnes,Outbound,2025,408.1,True
+Australia,New Delhi,Passengers,Inbound,2024,16756.0,True
+Australia,New Delhi,Passengers,Inbound,2025,16567.0,True
+Australia,New Delhi,Passengers,Outbound,2024,14277.0,True
+Australia,New Delhi,Passengers,Outbound,2025,15661.0,True
+Australia,New York,Freight_tonnes,Inbound,2024,263.7,True
+Australia,New York,Freight_tonnes,Inbound,2025,129.5,True
+Australia,New York,Freight_tonnes,Outbound,2024,6.8,True
+Australia,New York,Freight_tonnes,Outbound,2025,6.0,True
+Australia,New York,Passengers,Inbound,2024,1311.0,True
+Australia,New York,Passengers,Inbound,2025,1481.0,True
+Australia,New York,Passengers,Outbound,2024,1395.0,True
+Australia,New York,Passengers,Outbound,2025,1470.0,True
+Australia,Noumea,Freight_tonnes,Inbound,2024,0.5,True
+Australia,Noumea,Freight_tonnes,Inbound,2025,3.9,True
+Australia,Noumea,Freight_tonnes,Outbound,2024,25.9,True
+Australia,Noumea,Freight_tonnes,Outbound,2025,45.7,True
+Australia,Noumea,Passengers,Inbound,2024,3008.0,True
+Australia,Noumea,Passengers,Inbound,2025,4995.0,True
+Australia,Noumea,Passengers,Outbound,2024,2875.0,True
+Australia,Noumea,Passengers,Outbound,2025,4557.0,True
+Australia,Osaka,Freight_tonnes,Inbound,2024,143.4,True
+Australia,Osaka,Freight_tonnes,Inbound,2025,261.3,True
+Australia,Osaka,Freight_tonnes,Outbound,2024,12.8,True
+Australia,Osaka,Freight_tonnes,Outbound,2025,24.3,True
+Australia,Osaka,Passengers,Inbound,2024,11016.0,True
+Australia,Osaka,Passengers,Inbound,2025,14398.0,True
+Australia,Osaka,Passengers,Outbound,2024,11674.0,True
+Australia,Osaka,Passengers,Outbound,2025,14213.0,True
+Australia,Palau,Freight_tonnes,Inbound,2024,0.1,True
+Australia,Palau,Freight_tonnes,Inbound,2025,0.0,True
+Australia,Palau,Freight_tonnes,Outbound,2024,2.2,True
+Australia,Palau,Freight_tonnes,Outbound,2025,0.0,True
+Australia,Palau,Passengers,Inbound,2024,18.0,True
+Australia,Palau,Passengers,Inbound,2025,214.0,True
+Australia,Palau,Passengers,Outbound,2024,31.0,True
+Australia,Palau,Passengers,Outbound,2025,229.0,True
+Australia,Paris,Freight_tonnes,Inbound,2024,0.0,True
+Australia,Paris,Freight_tonnes,Inbound,2025,42.6,True
+Australia,Paris,Freight_tonnes,Outbound,2024,0.0,True
+Australia,Paris,Freight_tonnes,Outbound,2025,0.3,True
+Australia,Paris,Passengers,Inbound,2024,0.0,True
+Australia,Paris,Passengers,Inbound,2025,1858.0,True
+Australia,Paris,Passengers,Outbound,2024,0.0,True
+Australia,Paris,Passengers,Outbound,2025,2600.0,True
+Australia,Phuket,Freight_tonnes,Inbound,2024,162.2,True
+Australia,Phuket,Freight_tonnes,Inbound,2025,253.0,True
+Australia,Phuket,Freight_tonnes,Outbound,2024,0.4,True
+Australia,Phuket,Freight_tonnes,Outbound,2025,0.5,True
+Australia,Phuket,Passengers,Inbound,2024,8108.0,True
+Australia,Phuket,Passengers,Inbound,2025,13957.0,True
+Australia,Phuket,Passengers,Outbound,2024,8098.0,True
+Australia,Phuket,Passengers,Outbound,2025,13265.0,True
+Australia,Port Moresby,Freight_tonnes,Inbound,2024,157.1,True
+Australia,Port Moresby,Freight_tonnes,Inbound,2025,150.3,True
+Australia,Port Moresby,Freight_tonnes,Outbound,2024,261.9,True
+Australia,Port Moresby,Freight_tonnes,Outbound,2025,222.7,True
+Australia,Port Moresby,Passengers,Inbound,2024,9230.0,True
+Australia,Port Moresby,Passengers,Inbound,2025,9199.0,True
+Australia,Port Moresby,Passengers,Outbound,2024,8303.0,True
+Australia,Port Moresby,Passengers,Outbound,2025,8294.0,True
+Australia,Port Vila,Freight_tonnes,Inbound,2024,0.9,True
+Australia,Port Vila,Freight_tonnes,Inbound,2025,4.2,True
+Australia,Port Vila,Freight_tonnes,Outbound,2024,1.9,True
+Australia,Port Vila,Freight_tonnes,Outbound,2025,10.9,True
+Australia,Port Vila,Passengers,Inbound,2024,3940.0,True
+Australia,Port Vila,Passengers,Inbound,2025,6640.0,True
+Australia,Port Vila,Passengers,Outbound,2024,3914.0,True
+Australia,Port Vila,Passengers,Outbound,2025,6669.0,True
+Australia,Qingdao,Freight_tonnes,Inbound,2024,193.2,True
+Australia,Qingdao,Freight_tonnes,Inbound,2025,242.1,True
+Australia,Qingdao,Freight_tonnes,Outbound,2024,35.5,True
+Australia,Qingdao,Freight_tonnes,Outbound,2025,28.7,True
+Australia,Qingdao,Passengers,Inbound,2024,1784.0,True
+Australia,Qingdao,Passengers,Inbound,2025,3078.0,True
+Australia,Qingdao,Passengers,Outbound,2024,1827.0,True
+Australia,Qingdao,Passengers,Outbound,2025,3453.0,True
+Australia,Queenstown,Freight_tonnes,Inbound,2024,0.0,True
+Australia,Queenstown,Freight_tonnes,Inbound,2025,0.0,True
+Australia,Queenstown,Freight_tonnes,Outbound,2024,0.3,True
+Australia,Queenstown,Freight_tonnes,Outbound,2025,0.5,True
+Australia,Queenstown,Passengers,Inbound,2024,22386.0,True
+Australia,Queenstown,Passengers,Inbound,2025,24640.0,True
+Australia,Queenstown,Passengers,Outbound,2024,20009.0,True
+Australia,Queenstown,Passengers,Outbound,2025,21963.0,True
+Australia,Rarotonga,Freight_tonnes,Inbound,2024,0.0,True
+Australia,Rarotonga,Freight_tonnes,Inbound,2025,0.0,True
+Australia,Rarotonga,Freight_tonnes,Outbound,2024,0.0,True
+Australia,Rarotonga,Freight_tonnes,Outbound,2025,0.1,True
+Australia,Rarotonga,Passengers,Inbound,2024,2786.0,True
+Australia,Rarotonga,Passengers,Inbound,2025,3312.0,True
+Australia,Rarotonga,Passengers,Outbound,2024,2936.0,True
+Australia,Rarotonga,Passengers,Outbound,2025,3407.0,True
+Australia,San Francisco,Freight_tonnes,Inbound,2024,642.3,True
+Australia,San Francisco,Freight_tonnes,Inbound,2025,409.7,True
+Australia,San Francisco,Freight_tonnes,Outbound,2024,875.3,True
+Australia,San Francisco,Freight_tonnes,Outbound,2025,466.3,True
+Australia,San Francisco,Passengers,Inbound,2024,16142.0,True
+Australia,San Francisco,Passengers,Inbound,2025,17939.0,True
+Australia,San Francisco,Passengers,Outbound,2024,16817.0,True
+Australia,San Francisco,Passengers,Outbound,2025,17629.0,True
+Australia,Santiago,Freight_tonnes,Inbound,2024,414.0,True
+Australia,Santiago,Freight_tonnes,Inbound,2025,158.8,True
+Australia,Santiago,Freight_tonnes,Outbound,2024,359.9,True
+Australia,Santiago,Freight_tonnes,Outbound,2025,432.2,True
+Australia,Santiago,Passengers,Inbound,2024,9733.0,True
+Australia,Santiago,Passengers,Inbound,2025,11554.0,True
+Australia,Santiago,Passengers,Outbound,2024,9566.0,True
+Australia,Santiago,Passengers,Outbound,2025,11091.0,True
+Australia,Seoul,Freight_tonnes,Inbound,2024,1069.6,True
+Australia,Seoul,Freight_tonnes,Inbound,2025,1219.5,True
+Australia,Seoul,Freight_tonnes,Outbound,2024,512.7,True
+Australia,Seoul,Freight_tonnes,Outbound,2025,372.2,True
+Australia,Seoul,Passengers,Inbound,2024,35317.0,True
+Australia,Seoul,Passengers,Inbound,2025,32781.0,True
+Australia,Seoul,Passengers,Outbound,2024,35207.0,True
+Australia,Seoul,Passengers,Outbound,2025,33320.0,True
+Australia,Shanghai,Freight_tonnes,Inbound,2024,1772.5,True
+Australia,Shanghai,Freight_tonnes,Inbound,2025,1971.6,True
+Australia,Shanghai,Freight_tonnes,Outbound,2024,1065.9,True
+Australia,Shanghai,Freight_tonnes,Outbound,2025,1108.3,True
+Australia,Shanghai,Passengers,Inbound,2024,26006.0,True
+Australia,Shanghai,Passengers,Inbound,2025,32724.0,True
+Australia,Shanghai,Passengers,Outbound,2024,28376.0,True
+Australia,Shanghai,Passengers,Outbound,2025,33413.0,True
+Australia,Shenzhen,Freight_tonnes,Inbound,2024,346.8,True
+Australia,Shenzhen,Freight_tonnes,Inbound,2025,376.0,True
+Australia,Shenzhen,Freight_tonnes,Outbound,2024,176.5,True
+Australia,Shenzhen,Freight_tonnes,Outbound,2025,100.3,True
+Australia,Shenzhen,Passengers,Inbound,2024,2654.0,True
+Australia,Shenzhen,Passengers,Inbound,2025,3532.0,True
+Australia,Shenzhen,Passengers,Outbound,2024,2759.0,True
+Australia,Shenzhen,Passengers,Outbound,2025,3503.0,True
+Australia,Singapore,Freight_tonnes,Inbound,2024,10575.4,True
+Australia,Singapore,Freight_tonnes,Inbound,2025,10357.4,True
+Australia,Singapore,Freight_tonnes,Outbound,2024,8599.4,True
+Australia,Singapore,Freight_tonnes,Outbound,2025,8784.8,True
+Australia,Singapore,Passengers,Inbound,2024,235791.0,True
+Australia,Singapore,Passengers,Inbound,2025,254437.0,True
+Australia,Singapore,Passengers,Outbound,2024,243214.0,True
+Australia,Singapore,Passengers,Outbound,2025,256434.0,True
+Australia,Taipei,Freight_tonnes,Inbound,2024,709.6,True
+Australia,Taipei,Freight_tonnes,Inbound,2025,700.5,True
+Australia,Taipei,Freight_tonnes,Outbound,2024,571.6,True
+Australia,Taipei,Freight_tonnes,Outbound,2025,602.8,True
+Australia,Taipei,Passengers,Inbound,2024,12989.0,True
+Australia,Taipei,Passengers,Inbound,2025,15828.0,True
+Australia,Taipei,Passengers,Outbound,2024,14918.0,True
+Australia,Taipei,Passengers,Outbound,2025,16671.0,True
+Australia,Taiyuan,Freight_tonnes,Inbound,2024,0.0,True
+Australia,Taiyuan,Freight_tonnes,Inbound,2025,0.0,True
+Australia,Taiyuan,Freight_tonnes,Outbound,2024,0.0,True
+Australia,Taiyuan,Freight_tonnes,Outbound,2025,0.0,True
+Australia,Taiyuan,Passengers,Inbound,2024,49.0,True
+Australia,Taiyuan,Passengers,Inbound,2025,0.0,True
+Australia,Taiyuan,Passengers,Outbound,2024,17.0,True
+Australia,Taiyuan,Passengers,Outbound,2025,0.0,True
+Australia,Tianjin,Freight_tonnes,Inbound,2024,0.0,True
+Australia,Tianjin,Freight_tonnes,Inbound,2025,0.0,True
+Australia,Tianjin,Freight_tonnes,Outbound,2024,14.0,True
+Australia,Tianjin,Freight_tonnes,Outbound,2025,0.0,True
+Australia,Tianjin,Passengers,Inbound,2024,192.0,True
+Australia,Tianjin,Passengers,Inbound,2025,125.0,True
+Australia,Tianjin,Passengers,Outbound,2024,168.0,True
+Australia,Tianjin,Passengers,Outbound,2025,203.0,True
+Australia,Tokyo,Freight_tonnes,Inbound,2024,1822.1,True
+Australia,Tokyo,Freight_tonnes,Inbound,2025,2233.1,True
+Australia,Tokyo,Freight_tonnes,Outbound,2024,581.8,True
+Australia,Tokyo,Freight_tonnes,Outbound,2025,918.2,True
+Australia,Tokyo,Passengers,Inbound,2024,58623.0,True
+Australia,Tokyo,Passengers,Inbound,2025,65003.0,True
+Australia,Tokyo,Passengers,Outbound,2024,61822.0,True
+Australia,Tokyo,Passengers,Outbound,2025,63687.0,True
+Australia,Tongatapu,Freight_tonnes,Inbound,2024,0.0,True
+Australia,Tongatapu,Freight_tonnes,Inbound,2025,0.0,True
+Australia,Tongatapu,Freight_tonnes,Outbound,2024,0.2,True
+Australia,Tongatapu,Freight_tonnes,Outbound,2025,0.4,True
+Australia,Tongatapu,Passengers,Inbound,2024,483.0,True
+Australia,Tongatapu,Passengers,Inbound,2025,721.0,True
+Australia,Tongatapu,Passengers,Outbound,2024,558.0,True
+Australia,Tongatapu,Passengers,Outbound,2025,985.0,True
+Australia,Toronto,Freight_tonnes,Inbound,2024,76.6,True
+Australia,Toronto,Freight_tonnes,Inbound,2025,13.3,True
+Australia,Toronto,Freight_tonnes,Outbound,2024,172.0,True
+Australia,Toronto,Freight_tonnes,Outbound,2025,0.0,True
+Australia,Toronto,Passengers,Inbound,2024,1368.0,True
+Australia,Toronto,Passengers,Inbound,2025,1123.0,True
+Australia,Toronto,Passengers,Outbound,2024,1207.0,True
+Australia,Toronto,Passengers,Outbound,2025,1347.0,True
+Australia,Vancouver,Freight_tonnes,Inbound,2024,334.1,True
+Australia,Vancouver,Freight_tonnes,Inbound,2025,305.2,True
+Australia,Vancouver,Freight_tonnes,Outbound,2024,366.9,True
+Australia,Vancouver,Freight_tonnes,Outbound,2025,461.7,True
+Australia,Vancouver,Passengers,Inbound,2024,13742.0,True
+Australia,Vancouver,Passengers,Inbound,2025,13858.0,True
+Australia,Vancouver,Passengers,Outbound,2024,16503.0,True
+Australia,Vancouver,Passengers,Outbound,2025,15297.0,True
+Australia,Wellington,Freight_tonnes,Inbound,2024,26.2,True
+Australia,Wellington,Freight_tonnes,Inbound,2025,16.1,True
+Australia,Wellington,Freight_tonnes,Outbound,2024,12.0,True
+Australia,Wellington,Freight_tonnes,Outbound,2025,9.5,True
+Australia,Wellington,Passengers,Inbound,2024,26838.0,True
+Australia,Wellington,Passengers,Inbound,2025,27029.0,True
+Australia,Wellington,Passengers,Outbound,2024,23920.0,True
+Australia,Wellington,Passengers,Outbound,2025,24877.0,True
+Australia,Wuhan,Freight_tonnes,Inbound,2024,98.0,True
+Australia,Wuhan,Freight_tonnes,Inbound,2025,69.6,True
+Australia,Wuhan,Freight_tonnes,Outbound,2024,1.8,True
+Australia,Wuhan,Freight_tonnes,Outbound,2025,3.1,True
+Australia,Wuhan,Passengers,Inbound,2024,1548.0,True
+Australia,Wuhan,Passengers,Inbound,2025,1682.0,True
+Australia,Wuhan,Passengers,Outbound,2024,1343.0,True
+Australia,Wuhan,Passengers,Outbound,2025,1265.0,True
+Australia,Xi'an,Freight_tonnes,Inbound,2024,29.0,True
+Australia,Xi'an,Freight_tonnes,Inbound,2025,29.9,True
+Australia,Xi'an,Freight_tonnes,Outbound,2024,6.4,True
+Australia,Xi'an,Freight_tonnes,Outbound,2025,156.1,True
+Australia,Xi'an,Passengers,Inbound,2024,424.0,True
+Australia,Xi'an,Passengers,Inbound,2025,939.0,True
+Australia,Xi'an,Passengers,Outbound,2024,391.0,True
+Australia,Xi'an,Passengers,Outbound,2025,688.0,True
+Australia,Xiamen,Freight_tonnes,Inbound,2024,656.8,True
+Australia,Xiamen,Freight_tonnes,Inbound,2025,728.7,True
+Australia,Xiamen,Freight_tonnes,Outbound,2024,212.0,True
+Australia,Xiamen,Freight_tonnes,Outbound,2025,307.4,True
+Australia,Xiamen,Passengers,Inbound,2024,11836.0,True
+Australia,Xiamen,Passengers,Inbound,2025,12354.0,True
+Australia,Xiamen,Passengers,Outbound,2024,12024.0,True
+Australia,Xiamen,Passengers,Outbound,2025,12574.0,True
+Australia,Zhengzhou,Freight_tonnes,Inbound,2024,61.9,True
+Australia,Zhengzhou,Freight_tonnes,Inbound,2025,38.7,True
+Australia,Zhengzhou,Freight_tonnes,Outbound,2024,14.3,True
+Australia,Zhengzhou,Freight_tonnes,Outbound,2025,3.6,True
+Australia,Zhengzhou,Passengers,Inbound,2024,1184.0,True
+Australia,Zhengzhou,Passengers,Inbound,2025,956.0,True
+Australia,Zhengzhou,Passengers,Outbound,2024,986.0,True
+Australia,Zhengzhou,Passengers,Outbound,2025,942.0,True
+Brisbane,Apia,Freight_tonnes,Inbound,2024,0.0,False
+Brisbane,Apia,Freight_tonnes,Inbound,2025,0.0,False
+Brisbane,Apia,Freight_tonnes,Outbound,2024,1.5,False
+Brisbane,Apia,Freight_tonnes,Outbound,2025,0.3,False
+Brisbane,Apia,Passengers,Inbound,2024,2292.0,False
+Brisbane,Apia,Passengers,Inbound,2025,2312.0,False
+Brisbane,Apia,Passengers,Outbound,2024,2998.0,False
+Brisbane,Apia,Passengers,Outbound,2025,2371.0,False
+Brisbane,Auckland,Freight_tonnes,Inbound,2024,465.9,False
+Brisbane,Auckland,Freight_tonnes,Inbound,2025,382.5,False
+Brisbane,Auckland,Freight_tonnes,Outbound,2024,527.7,False
+Brisbane,Auckland,Freight_tonnes,Outbound,2025,493.9,False
+Brisbane,Auckland,Passengers,Inbound,2024,35157.0,False
+Brisbane,Auckland,Passengers,Inbound,2025,38921.0,False
+Brisbane,Auckland,Passengers,Outbound,2024,33632.0,False
+Brisbane,Auckland,Passengers,Outbound,2025,35910.0,False
+Brisbane,Bangkok,Freight_tonnes,Inbound,2024,0.0,False
+Brisbane,Bangkok,Freight_tonnes,Inbound,2025,88.9,False
+Brisbane,Bangkok,Freight_tonnes,Outbound,2024,0.0,False
+Brisbane,Bangkok,Freight_tonnes,Outbound,2025,7.7,False
+Brisbane,Bangkok,Passengers,Inbound,2024,0.0,False
+Brisbane,Bangkok,Passengers,Inbound,2025,4400.0,False
+Brisbane,Bangkok,Passengers,Outbound,2024,0.0,False
+Brisbane,Bangkok,Passengers,Outbound,2025,4034.0,False
+Brisbane,Christchurch,Freight_tonnes,Inbound,2024,12.0,False
+Brisbane,Christchurch,Freight_tonnes,Inbound,2025,10.0,False
+Brisbane,Christchurch,Freight_tonnes,Outbound,2024,9.5,False
+Brisbane,Christchurch,Freight_tonnes,Outbound,2025,14.1,False
+Brisbane,Christchurch,Passengers,Inbound,2024,9854.0,False
+Brisbane,Christchurch,Passengers,Inbound,2025,8544.0,False
+Brisbane,Christchurch,Passengers,Outbound,2024,8055.0,False
+Brisbane,Christchurch,Passengers,Outbound,2025,7159.0,False
+Brisbane,Denpasar,Freight_tonnes,Inbound,2024,10.6,False
+Brisbane,Denpasar,Freight_tonnes,Inbound,2025,4.1,False
+Brisbane,Denpasar,Freight_tonnes,Outbound,2024,0.0,False
+Brisbane,Denpasar,Freight_tonnes,Outbound,2025,0.9,False
+Brisbane,Denpasar,Passengers,Inbound,2024,17183.0,False
+Brisbane,Denpasar,Passengers,Inbound,2025,18625.0,False
+Brisbane,Denpasar,Passengers,Outbound,2024,18588.0,False
+Brisbane,Denpasar,Passengers,Outbound,2025,19027.0,False
+Brisbane,Doha,Freight_tonnes,Inbound,2024,184.8,False
+Brisbane,Doha,Freight_tonnes,Inbound,2025,255.4,False
+Brisbane,Doha,Freight_tonnes,Outbound,2024,135.0,False
+Brisbane,Doha,Freight_tonnes,Outbound,2025,105.5,False
+Brisbane,Doha,Passengers,Inbound,2024,7732.0,False
+Brisbane,Doha,Passengers,Inbound,2025,8104.0,False
+Brisbane,Doha,Passengers,Outbound,2024,10523.0,False
+Brisbane,Doha,Passengers,Outbound,2025,10822.0,False
+Brisbane,Dubai,Freight_tonnes,Inbound,2024,409.1,False
+Brisbane,Dubai,Freight_tonnes,Inbound,2025,459.8,False
+Brisbane,Dubai,Freight_tonnes,Outbound,2024,451.2,False
+Brisbane,Dubai,Freight_tonnes,Outbound,2025,448.8,False
+Brisbane,Dubai,Passengers,Inbound,2024,15049.0,False
+Brisbane,Dubai,Passengers,Inbound,2025,17444.0,False
+Brisbane,Dubai,Passengers,Outbound,2024,22992.0,False
+Brisbane,Dubai,Passengers,Outbound,2025,22905.0,False
+Brisbane,Espiritu Santo,Freight_tonnes,Inbound,2024,0.0,False
+Brisbane,Espiritu Santo,Freight_tonnes,Inbound,2025,0.0,False
+Brisbane,Espiritu Santo,Freight_tonnes,Outbound,2024,0.0,False
+Brisbane,Espiritu Santo,Freight_tonnes,Outbound,2025,2.7,False
+Brisbane,Espiritu Santo,Passengers,Inbound,2024,100.0,False
+Brisbane,Espiritu Santo,Passengers,Inbound,2025,272.0,False
+Brisbane,Espiritu Santo,Passengers,Outbound,2024,114.0,False
+Brisbane,Espiritu Santo,Passengers,Outbound,2025,474.0,False
+Brisbane,Guangzhou,Freight_tonnes,Inbound,2024,281.0,False
+Brisbane,Guangzhou,Freight_tonnes,Inbound,2025,372.9,False
+Brisbane,Guangzhou,Freight_tonnes,Outbound,2024,27.4,False
+Brisbane,Guangzhou,Freight_tonnes,Outbound,2025,42.4,False
+Brisbane,Guangzhou,Passengers,Inbound,2024,4582.0,False
+Brisbane,Guangzhou,Passengers,Inbound,2025,6453.0,False
+Brisbane,Guangzhou,Passengers,Outbound,2024,4729.0,False
+Brisbane,Guangzhou,Passengers,Outbound,2025,6831.0,False
+Brisbane,Ho Chi Minh City,Freight_tonnes,Inbound,2024,127.9,False
+Brisbane,Ho Chi Minh City,Freight_tonnes,Inbound,2025,126.9,False
+Brisbane,Ho Chi Minh City,Freight_tonnes,Outbound,2024,0.0,False
+Brisbane,Ho Chi Minh City,Freight_tonnes,Outbound,2025,0.0,False
+Brisbane,Ho Chi Minh City,Passengers,Inbound,2024,4691.0,False
+Brisbane,Ho Chi Minh City,Passengers,Inbound,2025,4980.0,False
+Brisbane,Ho Chi Minh City,Passengers,Outbound,2024,3904.0,False
+Brisbane,Ho Chi Minh City,Passengers,Outbound,2025,3740.0,False
+Brisbane,Hong Kong,Freight_tonnes,Inbound,2024,353.7,False
+Brisbane,Hong Kong,Freight_tonnes,Inbound,2025,597.1,False
+Brisbane,Hong Kong,Freight_tonnes,Outbound,2024,417.7,False
+Brisbane,Hong Kong,Freight_tonnes,Outbound,2025,650.1,False
+Brisbane,Hong Kong,Passengers,Inbound,2024,6701.0,False
+Brisbane,Hong Kong,Passengers,Inbound,2025,11969.0,False
+Brisbane,Hong Kong,Passengers,Outbound,2024,7947.0,False
+Brisbane,Hong Kong,Passengers,Outbound,2025,13010.0,False
+Brisbane,Honiara,Freight_tonnes,Inbound,2024,5.9,False
+Brisbane,Honiara,Freight_tonnes,Inbound,2025,2.3,False
+Brisbane,Honiara,Freight_tonnes,Outbound,2024,16.3,False
+Brisbane,Honiara,Freight_tonnes,Outbound,2025,51.2,False
+Brisbane,Honiara,Passengers,Inbound,2024,1971.0,False
+Brisbane,Honiara,Passengers,Inbound,2025,2275.0,False
+Brisbane,Honiara,Passengers,Outbound,2024,1640.0,False
+Brisbane,Honiara,Passengers,Outbound,2025,1883.0,False
+Brisbane,Kuala Lumpur,Freight_tonnes,Inbound,2024,1.8,False
+Brisbane,Kuala Lumpur,Freight_tonnes,Inbound,2025,8.7,False
+Brisbane,Kuala Lumpur,Freight_tonnes,Outbound,2024,0.0,False
+Brisbane,Kuala Lumpur,Freight_tonnes,Outbound,2025,0.0,False
+Brisbane,Kuala Lumpur,Passengers,Inbound,2024,233.0,False
+Brisbane,Kuala Lumpur,Passengers,Inbound,2025,64.0,False
+Brisbane,Kuala Lumpur,Passengers,Outbound,2024,74.0,False
+Brisbane,Kuala Lumpur,Passengers,Outbound,2025,72.0,False
+Brisbane,Los Angeles,Freight_tonnes,Inbound,2024,34.5,False
+Brisbane,Los Angeles,Freight_tonnes,Inbound,2025,70.1,False
+Brisbane,Los Angeles,Freight_tonnes,Outbound,2024,68.1,False
+Brisbane,Los Angeles,Freight_tonnes,Outbound,2025,46.1,False
+Brisbane,Los Angeles,Passengers,Inbound,2024,5340.0,False
+Brisbane,Los Angeles,Passengers,Inbound,2025,5691.0,False
+Brisbane,Los Angeles,Passengers,Outbound,2024,4725.0,False
+Brisbane,Los Angeles,Passengers,Outbound,2025,5223.0,False
+Brisbane,Manila,Freight_tonnes,Inbound,2024,41.0,False
+Brisbane,Manila,Freight_tonnes,Inbound,2025,83.8,False
+Brisbane,Manila,Freight_tonnes,Outbound,2024,3.2,False
+Brisbane,Manila,Freight_tonnes,Outbound,2025,12.4,False
+Brisbane,Manila,Passengers,Inbound,2024,3122.0,False
+Brisbane,Manila,Passengers,Inbound,2025,7503.0,False
+Brisbane,Manila,Passengers,Outbound,2024,2910.0,False
+Brisbane,Manila,Passengers,Outbound,2025,7394.0,False
+Brisbane,Munda,Freight_tonnes,Inbound,2024,0.0,False
+Brisbane,Munda,Freight_tonnes,Inbound,2025,0.0,False
+Brisbane,Munda,Freight_tonnes,Outbound,2024,0.0,False
+Brisbane,Munda,Freight_tonnes,Outbound,2025,0.2,False
+Brisbane,Munda,Passengers,Inbound,2024,0.0,False
+Brisbane,Munda,Passengers,Inbound,2025,0.0,False
+Brisbane,Munda,Passengers,Outbound,2024,70.0,False
+Brisbane,Munda,Passengers,Outbound,2025,135.0,False
+Brisbane,Nadi,Freight_tonnes,Inbound,2024,26.9,False
+Brisbane,Nadi,Freight_tonnes,Inbound,2025,28.2,False
+Brisbane,Nadi,Freight_tonnes,Outbound,2024,58.8,False
+Brisbane,Nadi,Freight_tonnes,Outbound,2025,73.2,False
+Brisbane,Nadi,Passengers,Inbound,2024,10493.0,False
+Brisbane,Nadi,Passengers,Inbound,2025,11458.0,False
+Brisbane,Nadi,Passengers,Outbound,2024,10248.0,False
+Brisbane,Nadi,Passengers,Outbound,2025,10965.0,False
+Brisbane,Nauru,Freight_tonnes,Inbound,2024,11.5,False
+Brisbane,Nauru,Freight_tonnes,Inbound,2025,18.4,False
+Brisbane,Nauru,Freight_tonnes,Outbound,2024,74.7,False
+Brisbane,Nauru,Freight_tonnes,Outbound,2025,71.4,False
+Brisbane,Nauru,Passengers,Inbound,2024,675.0,False
+Brisbane,Nauru,Passengers,Inbound,2025,890.0,False
+Brisbane,Nauru,Passengers,Outbound,2024,587.0,False
+Brisbane,Nauru,Passengers,Outbound,2025,872.0,False
+Brisbane,Noumea,Freight_tonnes,Inbound,2024,0.1,False
+Brisbane,Noumea,Freight_tonnes,Inbound,2025,0.4,False
+Brisbane,Noumea,Freight_tonnes,Outbound,2024,1.8,False
+Brisbane,Noumea,Freight_tonnes,Outbound,2025,3.0,False
+Brisbane,Noumea,Passengers,Inbound,2024,1040.0,False
+Brisbane,Noumea,Passengers,Inbound,2025,1854.0,False
+Brisbane,Noumea,Passengers,Outbound,2024,1017.0,False
+Brisbane,Noumea,Passengers,Outbound,2025,1965.0,False
+Brisbane,Osaka,Freight_tonnes,Inbound,2024,106.4,False
+Brisbane,Osaka,Freight_tonnes,Inbound,2025,138.8,False
+Brisbane,Osaka,Freight_tonnes,Outbound,2024,8.6,False
+Brisbane,Osaka,Freight_tonnes,Outbound,2025,4.9,False
+Brisbane,Osaka,Passengers,Inbound,2024,4285.0,False
+Brisbane,Osaka,Passengers,Inbound,2025,5333.0,False
+Brisbane,Osaka,Passengers,Outbound,2024,4350.0,False
+Brisbane,Osaka,Passengers,Outbound,2025,5232.0,False
+Brisbane,Palau,Freight_tonnes,Inbound,2024,0.1,False
+Brisbane,Palau,Freight_tonnes,Inbound,2025,0.0,False
+Brisbane,Palau,Freight_tonnes,Outbound,2024,2.2,False
+Brisbane,Palau,Freight_tonnes,Outbound,2025,0.0,False
+Brisbane,Palau,Passengers,Inbound,2024,18.0,False
+Brisbane,Palau,Passengers,Inbound,2025,214.0,False
+Brisbane,Palau,Passengers,Outbound,2024,31.0,False
+Brisbane,Palau,Passengers,Outbound,2025,229.0,False
+Brisbane,Port Moresby,Freight_tonnes,Inbound,2024,156.2,False
+Brisbane,Port Moresby,Freight_tonnes,Inbound,2025,149.7,False
+Brisbane,Port Moresby,Freight_tonnes,Outbound,2024,258.5,False
+Brisbane,Port Moresby,Freight_tonnes,Outbound,2025,219.3,False
+Brisbane,Port Moresby,Passengers,Inbound,2024,6737.0,False
+Brisbane,Port Moresby,Passengers,Inbound,2025,6976.0,False
+Brisbane,Port Moresby,Passengers,Outbound,2024,6044.0,False
+Brisbane,Port Moresby,Passengers,Outbound,2025,6386.0,False
+Brisbane,Port Vila,Freight_tonnes,Inbound,2024,0.5,False
+Brisbane,Port Vila,Freight_tonnes,Inbound,2025,3.9,False
+Brisbane,Port Vila,Freight_tonnes,Outbound,2024,1.4,False
+Brisbane,Port Vila,Freight_tonnes,Outbound,2025,5.9,False
+Brisbane,Port Vila,Passengers,Inbound,2024,3474.0,False
+Brisbane,Port Vila,Passengers,Inbound,2025,4592.0,False
+Brisbane,Port Vila,Passengers,Outbound,2024,3272.0,False
+Brisbane,Port Vila,Passengers,Outbound,2025,4591.0,False
+Brisbane,Queenstown,Freight_tonnes,Inbound,2024,0.0,False
+Brisbane,Queenstown,Freight_tonnes,Inbound,2025,0.0,False
+Brisbane,Queenstown,Freight_tonnes,Outbound,2024,0.0,False
+Brisbane,Queenstown,Freight_tonnes,Outbound,2025,0.0,False
+Brisbane,Queenstown,Passengers,Inbound,2024,3393.0,False
+Brisbane,Queenstown,Passengers,Inbound,2025,3842.0,False
+Brisbane,Queenstown,Passengers,Outbound,2024,3414.0,False
+Brisbane,Queenstown,Passengers,Outbound,2025,3651.0,False
+Brisbane,San Francisco,Freight_tonnes,Inbound,2024,157.6,False
+Brisbane,San Francisco,Freight_tonnes,Inbound,2025,82.9,False
+Brisbane,San Francisco,Freight_tonnes,Outbound,2024,132.6,False
+Brisbane,San Francisco,Freight_tonnes,Outbound,2025,95.7,False
+Brisbane,San Francisco,Passengers,Inbound,2024,3076.0,False
+Brisbane,San Francisco,Passengers,Inbound,2025,3728.0,False
+Brisbane,San Francisco,Passengers,Outbound,2024,3032.0,False
+Brisbane,San Francisco,Passengers,Outbound,2025,3454.0,False
+Brisbane,Seoul,Freight_tonnes,Inbound,2024,160.8,False
+Brisbane,Seoul,Freight_tonnes,Inbound,2025,243.2,False
+Brisbane,Seoul,Freight_tonnes,Outbound,2024,149.9,False
+Brisbane,Seoul,Freight_tonnes,Outbound,2025,53.0,False
+Brisbane,Seoul,Passengers,Inbound,2024,6999.0,False
+Brisbane,Seoul,Passengers,Inbound,2025,8133.0,False
+Brisbane,Seoul,Passengers,Outbound,2024,6731.0,False
+Brisbane,Seoul,Passengers,Outbound,2025,7982.0,False
+Brisbane,Shanghai,Freight_tonnes,Inbound,2024,139.0,False
+Brisbane,Shanghai,Freight_tonnes,Inbound,2025,127.2,False
+Brisbane,Shanghai,Freight_tonnes,Outbound,2024,33.4,False
+Brisbane,Shanghai,Freight_tonnes,Outbound,2025,30.6,False
+Brisbane,Shanghai,Passengers,Inbound,2024,2179.0,False
+Brisbane,Shanghai,Passengers,Inbound,2025,2665.0,False
+Brisbane,Shanghai,Passengers,Outbound,2024,2414.0,False
+Brisbane,Shanghai,Passengers,Outbound,2025,2533.0,False
+Brisbane,Singapore,Freight_tonnes,Inbound,2024,1304.2,False
+Brisbane,Singapore,Freight_tonnes,Inbound,2025,1426.1,False
+Brisbane,Singapore,Freight_tonnes,Outbound,2024,1298.0,False
+Brisbane,Singapore,Freight_tonnes,Outbound,2025,1657.5,False
+Brisbane,Singapore,Passengers,Inbound,2024,34231.0,False
+Brisbane,Singapore,Passengers,Inbound,2025,39125.0,False
+Brisbane,Singapore,Passengers,Outbound,2024,34588.0,False
+Brisbane,Singapore,Passengers,Outbound,2025,38815.0,False
+Brisbane,Taipei,Freight_tonnes,Inbound,2024,303.0,False
+Brisbane,Taipei,Freight_tonnes,Inbound,2025,370.8,False
+Brisbane,Taipei,Freight_tonnes,Outbound,2024,258.5,False
+Brisbane,Taipei,Freight_tonnes,Outbound,2025,361.6,False
+Brisbane,Taipei,Passengers,Inbound,2024,5999.0,False
+Brisbane,Taipei,Passengers,Inbound,2025,7644.0,False
+Brisbane,Taipei,Passengers,Outbound,2024,6850.0,False
+Brisbane,Taipei,Passengers,Outbound,2025,8045.0,False
+Brisbane,Tokyo,Freight_tonnes,Inbound,2024,289.4,False
+Brisbane,Tokyo,Freight_tonnes,Inbound,2025,433.8,False
+Brisbane,Tokyo,Freight_tonnes,Outbound,2024,69.2,False
+Brisbane,Tokyo,Freight_tonnes,Outbound,2025,78.1,False
+Brisbane,Tokyo,Passengers,Inbound,2024,12754.0,False
+Brisbane,Tokyo,Passengers,Inbound,2025,15380.0,False
+Brisbane,Tokyo,Passengers,Outbound,2024,12321.0,False
+Brisbane,Tokyo,Passengers,Outbound,2025,14314.0,False
+Brisbane,Vancouver,Freight_tonnes,Inbound,2024,182.2,False
+Brisbane,Vancouver,Freight_tonnes,Inbound,2025,93.0,False
+Brisbane,Vancouver,Freight_tonnes,Outbound,2024,198.6,False
+Brisbane,Vancouver,Freight_tonnes,Outbound,2025,161.0,False
+Brisbane,Vancouver,Passengers,Inbound,2024,5270.0,False
+Brisbane,Vancouver,Passengers,Inbound,2025,4928.0,False
+Brisbane,Vancouver,Passengers,Outbound,2024,6964.0,False
+Brisbane,Vancouver,Passengers,Outbound,2025,5582.0,False
+Brisbane,Wellington,Freight_tonnes,Inbound,2024,1.8,False
+Brisbane,Wellington,Freight_tonnes,Inbound,2025,0.8,False
+Brisbane,Wellington,Freight_tonnes,Outbound,2024,1.0,False
+Brisbane,Wellington,Freight_tonnes,Outbound,2025,1.8,False
+Brisbane,Wellington,Passengers,Inbound,2024,6996.0,False
+Brisbane,Wellington,Passengers,Inbound,2025,7095.0,False
+Brisbane,Wellington,Passengers,Outbound,2024,6248.0,False
+Brisbane,Wellington,Passengers,Outbound,2025,6833.0,False
+Broome,Singapore,Freight_tonnes,Inbound,2024,0.0,False
+Broome,Singapore,Freight_tonnes,Inbound,2025,0.0,False
+Broome,Singapore,Freight_tonnes,Outbound,2024,0.0,False
+Broome,Singapore,Freight_tonnes,Outbound,2025,0.0,False
+Broome,Singapore,Passengers,Inbound,2024,0.0,False
+Broome,Singapore,Passengers,Inbound,2025,623.0,False
+Broome,Singapore,Passengers,Outbound,2024,0.0,False
+Broome,Singapore,Passengers,Outbound,2025,665.0,False
+Broome,Total,Freight_tonnes,Inbound,2024,0.0,True
+Broome,Total,Freight_tonnes,Inbound,2025,0.0,True
+Broome,Total,Freight_tonnes,Outbound,2024,0.0,True
+Broome,Total,Freight_tonnes,Outbound,2025,0.0,True
+Broome,Total,Passengers,Inbound,2024,0.0,True
+Broome,Total,Passengers,Inbound,2025,623.0,True
+Broome,Total,Passengers,Outbound,2024,0.0,True
+Broome,Total,Passengers,Outbound,2025,665.0,True
+Cairns,Auckland,Freight_tonnes,Inbound,2024,0.0,False
+Cairns,Auckland,Freight_tonnes,Inbound,2025,0.3,False
+Cairns,Auckland,Freight_tonnes,Outbound,2024,0.1,False
+Cairns,Auckland,Freight_tonnes,Outbound,2025,0.0,False
+Cairns,Auckland,Passengers,Inbound,2024,1136.0,False
+Cairns,Auckland,Passengers,Inbound,2025,1399.0,False
+Cairns,Auckland,Passengers,Outbound,2024,1110.0,False
+Cairns,Auckland,Passengers,Outbound,2025,1356.0,False
+Cairns,Christchurch,Freight_tonnes,Inbound,2024,0.0,False
+Cairns,Christchurch,Freight_tonnes,Inbound,2025,0.0,False
+Cairns,Christchurch,Freight_tonnes,Outbound,2024,0.0,False
+Cairns,Christchurch,Freight_tonnes,Outbound,2025,0.0,False
+Cairns,Christchurch,Passengers,Inbound,2024,0.0,False
+Cairns,Christchurch,Passengers,Inbound,2025,1250.0,False
+Cairns,Christchurch,Passengers,Outbound,2024,0.0,False
+Cairns,Christchurch,Passengers,Outbound,2025,1072.0,False
+Cairns,Denpasar,Freight_tonnes,Inbound,2024,0.0,False
+Cairns,Denpasar,Freight_tonnes,Inbound,2025,0.0,False
+Cairns,Denpasar,Freight_tonnes,Outbound,2024,0.0,False
+Cairns,Denpasar,Freight_tonnes,Outbound,2025,0.0,False
+Cairns,Denpasar,Passengers,Inbound,2024,2718.0,False
+Cairns,Denpasar,Passengers,Inbound,2025,4051.0,False
+Cairns,Denpasar,Passengers,Outbound,2024,3031.0,False
+Cairns,Denpasar,Passengers,Outbound,2025,5044.0,False
+Cairns,Nadi,Freight_tonnes,Inbound,2024,0.0,False
+Cairns,Nadi,Freight_tonnes,Inbound,2025,0.1,False
+Cairns,Nadi,Freight_tonnes,Outbound,2024,0.0,False
+Cairns,Nadi,Freight_tonnes,Outbound,2025,0.0,False
+Cairns,Nadi,Passengers,Inbound,2024,0.0,False
+Cairns,Nadi,Passengers,Inbound,2025,993.0,False
+Cairns,Nadi,Passengers,Outbound,2024,0.0,False
+Cairns,Nadi,Passengers,Outbound,2025,962.0,False
+Cairns,Osaka,Freight_tonnes,Inbound,2024,3.2,False
+Cairns,Osaka,Freight_tonnes,Inbound,2025,18.5,False
+Cairns,Osaka,Freight_tonnes,Outbound,2024,1.0,False
+Cairns,Osaka,Freight_tonnes,Outbound,2025,0.6,False
+Cairns,Osaka,Passengers,Inbound,2024,3558.0,False
+Cairns,Osaka,Passengers,Inbound,2025,5226.0,False
+Cairns,Osaka,Passengers,Outbound,2024,3891.0,False
+Cairns,Osaka,Passengers,Outbound,2025,4832.0,False
+Cairns,Port Moresby,Freight_tonnes,Inbound,2024,0.6,False
+Cairns,Port Moresby,Freight_tonnes,Inbound,2025,0.1,False
+Cairns,Port Moresby,Freight_tonnes,Outbound,2024,1.8,False
+Cairns,Port Moresby,Freight_tonnes,Outbound,2025,0.6,False
+Cairns,Port Moresby,Passengers,Inbound,2024,1467.0,False
+Cairns,Port Moresby,Passengers,Inbound,2025,1638.0,False
+Cairns,Port Moresby,Passengers,Outbound,2024,1316.0,False
+Cairns,Port Moresby,Passengers,Outbound,2025,1476.0,False
+Cairns,Singapore,Freight_tonnes,Inbound,2024,7.2,False
+Cairns,Singapore,Freight_tonnes,Inbound,2025,3.7,False
+Cairns,Singapore,Freight_tonnes,Outbound,2024,172.7,False
+Cairns,Singapore,Freight_tonnes,Outbound,2025,185.6,False
+Cairns,Singapore,Passengers,Inbound,2024,3424.0,False
+Cairns,Singapore,Passengers,Inbound,2025,3481.0,False
+Cairns,Singapore,Passengers,Outbound,2024,4424.0,False
+Cairns,Singapore,Passengers,Outbound,2025,4354.0,False
+Cairns,Tokyo,Freight_tonnes,Inbound,2024,25.7,False
+Cairns,Tokyo,Freight_tonnes,Inbound,2025,27.2,False
+Cairns,Tokyo,Freight_tonnes,Outbound,2024,5.6,False
+Cairns,Tokyo,Freight_tonnes,Outbound,2025,2.2,False
+Cairns,Tokyo,Passengers,Inbound,2024,8140.0,False
+Cairns,Tokyo,Passengers,Inbound,2025,7151.0,False
+Cairns,Tokyo,Passengers,Outbound,2024,9814.0,False
+Cairns,Tokyo,Passengers,Outbound,2025,7200.0,False
+Canberra,Nadi,Freight_tonnes,Inbound,2024,0.6,False
+Canberra,Nadi,Freight_tonnes,Inbound,2025,0.0,False
+Canberra,Nadi,Freight_tonnes,Outbound,2024,0.0,False
+Canberra,Nadi,Freight_tonnes,Outbound,2025,0.1,False
+Canberra,Nadi,Passengers,Inbound,2024,1048.0,False
+Canberra,Nadi,Passengers,Inbound,2025,1337.0,False
+Canberra,Nadi,Passengers,Outbound,2024,1085.0,False
+Canberra,Nadi,Passengers,Outbound,2025,1280.0,False
+Darwin,Denpasar,Freight_tonnes,Inbound,2024,0.0,False
+Darwin,Denpasar,Freight_tonnes,Inbound,2025,0.0,False
+Darwin,Denpasar,Freight_tonnes,Outbound,2024,0.0,False
+Darwin,Denpasar,Freight_tonnes,Outbound,2025,0.0,False
+Darwin,Denpasar,Passengers,Inbound,2024,3639.0,False
+Darwin,Denpasar,Passengers,Inbound,2025,4739.0,False
+Darwin,Denpasar,Passengers,Outbound,2024,3498.0,False
+Darwin,Denpasar,Passengers,Outbound,2025,4753.0,False
+Darwin,Dili,Freight_tonnes,Inbound,2024,0.1,False
+Darwin,Dili,Freight_tonnes,Inbound,2025,0.0,False
+Darwin,Dili,Freight_tonnes,Outbound,2024,1.2,False
+Darwin,Dili,Freight_tonnes,Outbound,2025,0.4,False
+Darwin,Dili,Passengers,Inbound,2024,1187.0,False
+Darwin,Dili,Passengers,Inbound,2025,1291.0,False
+Darwin,Dili,Passengers,Outbound,2024,1155.0,False
+Darwin,Dili,Passengers,Outbound,2025,1372.0,False
+Darwin,Singapore,Freight_tonnes,Inbound,2024,19.3,False
+Darwin,Singapore,Freight_tonnes,Inbound,2025,20.2,False
+Darwin,Singapore,Freight_tonnes,Outbound,2024,3.9,False
+Darwin,Singapore,Freight_tonnes,Outbound,2025,5.4,False
+Darwin,Singapore,Passengers,Inbound,2024,4016.0,False
+Darwin,Singapore,Passengers,Inbound,2025,5140.0,False
+Darwin,Singapore,Passengers,Outbound,2024,4194.0,False
+Darwin,Singapore,Passengers,Outbound,2025,5065.0,False
+Gold Coast,Auckland,Freight_tonnes,Inbound,2024,1.7,False
+Gold Coast,Auckland,Freight_tonnes,Inbound,2025,1.9,False
+Gold Coast,Auckland,Freight_tonnes,Outbound,2024,0.5,False
+Gold Coast,Auckland,Freight_tonnes,Outbound,2025,0.9,False
+Gold Coast,Auckland,Passengers,Inbound,2024,12583.0,False
+Gold Coast,Auckland,Passengers,Inbound,2025,12619.0,False
+Gold Coast,Auckland,Passengers,Outbound,2024,12600.0,False
+Gold Coast,Auckland,Passengers,Outbound,2025,12291.0,False
+Gold Coast,Christchurch,Freight_tonnes,Inbound,2024,0.8,False
+Gold Coast,Christchurch,Freight_tonnes,Inbound,2025,0.1,False
+Gold Coast,Christchurch,Freight_tonnes,Outbound,2024,0.2,False
+Gold Coast,Christchurch,Freight_tonnes,Outbound,2025,0.2,False
+Gold Coast,Christchurch,Passengers,Inbound,2024,3306.0,False
+Gold Coast,Christchurch,Passengers,Inbound,2025,3739.0,False
+Gold Coast,Christchurch,Passengers,Outbound,2024,2990.0,False
+Gold Coast,Christchurch,Passengers,Outbound,2025,3163.0,False
+Gold Coast,Denpasar,Freight_tonnes,Inbound,2024,0.0,False
+Gold Coast,Denpasar,Freight_tonnes,Inbound,2025,0.0,False
+Gold Coast,Denpasar,Freight_tonnes,Outbound,2024,0.0,False
+Gold Coast,Denpasar,Freight_tonnes,Outbound,2025,0.0,False
+Gold Coast,Denpasar,Passengers,Inbound,2024,2720.0,False
+Gold Coast,Denpasar,Passengers,Inbound,2025,2893.0,False
+Gold Coast,Denpasar,Passengers,Outbound,2024,2602.0,False
+Gold Coast,Denpasar,Passengers,Outbound,2025,2434.0,False
+Gold Coast,Queenstown,Freight_tonnes,Inbound,2024,0.0,False
+Gold Coast,Queenstown,Freight_tonnes,Inbound,2025,0.0,False
+Gold Coast,Queenstown,Freight_tonnes,Outbound,2024,0.0,False
+Gold Coast,Queenstown,Freight_tonnes,Outbound,2025,0.0,False
+Gold Coast,Queenstown,Passengers,Inbound,2024,1737.0,False
+Gold Coast,Queenstown,Passengers,Inbound,2025,2125.0,False
+Gold Coast,Queenstown,Passengers,Outbound,2024,1552.0,False
+Gold Coast,Queenstown,Passengers,Outbound,2025,1997.0,False
+Gold Coast,Wellington,Freight_tonnes,Inbound,2024,0.0,False
+Gold Coast,Wellington,Freight_tonnes,Inbound,2025,0.0,False
+Gold Coast,Wellington,Freight_tonnes,Outbound,2024,0.0,False
+Gold Coast,Wellington,Freight_tonnes,Outbound,2025,0.0,False
+Gold Coast,Wellington,Passengers,Inbound,2024,2355.0,False
+Gold Coast,Wellington,Passengers,Inbound,2025,2260.0,False
+Gold Coast,Wellington,Passengers,Outbound,2024,2189.0,False
+Gold Coast,Wellington,Passengers,Outbound,2025,2155.0,False
+Melbourne,Abu Dhabi,Freight_tonnes,Inbound,2024,322.9,False
+Melbourne,Abu Dhabi,Freight_tonnes,Inbound,2025,178.8,False
+Melbourne,Abu Dhabi,Freight_tonnes,Outbound,2024,299.9,False
+Melbourne,Abu Dhabi,Freight_tonnes,Outbound,2025,319.7,False
+Melbourne,Abu Dhabi,Passengers,Inbound,2024,5843.0,False
+Melbourne,Abu Dhabi,Passengers,Inbound,2025,7508.0,False
+Melbourne,Abu Dhabi,Passengers,Outbound,2024,8964.0,False
+Melbourne,Abu Dhabi,Passengers,Outbound,2025,8792.0,False
+Melbourne,Auckland,Freight_tonnes,Inbound,2024,1230.4,False
+Melbourne,Auckland,Freight_tonnes,Inbound,2025,1030.5,False
+Melbourne,Auckland,Freight_tonnes,Outbound,2024,1476.9,False
+Melbourne,Auckland,Freight_tonnes,Outbound,2025,1247.9,False
+Melbourne,Auckland,Passengers,Inbound,2024,36649.0,False
+Melbourne,Auckland,Passengers,Inbound,2025,38437.0,False
+Melbourne,Auckland,Passengers,Outbound,2024,35924.0,False
+Melbourne,Auckland,Passengers,Outbound,2025,36511.0,False
+Melbourne,Bandar Seri Begawan,Freight_tonnes,Inbound,2024,101.3,False
+Melbourne,Bandar Seri Begawan,Freight_tonnes,Inbound,2025,148.1,False
+Melbourne,Bandar Seri Begawan,Freight_tonnes,Outbound,2024,215.2,False
+Melbourne,Bandar Seri Begawan,Freight_tonnes,Outbound,2025,241.9,False
+Melbourne,Bandar Seri Begawan,Passengers,Inbound,2024,1807.0,False
+Melbourne,Bandar Seri Begawan,Passengers,Inbound,2025,2726.0,False
+Melbourne,Bandar Seri Begawan,Passengers,Outbound,2024,2233.0,False
+Melbourne,Bandar Seri Begawan,Passengers,Outbound,2025,2691.0,False
+Melbourne,Bangkok,Freight_tonnes,Inbound,2024,747.2,False
+Melbourne,Bangkok,Freight_tonnes,Inbound,2025,833.2,False
+Melbourne,Bangkok,Freight_tonnes,Outbound,2024,384.9,False
+Melbourne,Bangkok,Freight_tonnes,Outbound,2025,436.1,False
+Melbourne,Bangkok,Passengers,Inbound,2024,15048.0,False
+Melbourne,Bangkok,Passengers,Inbound,2025,18156.0,False
+Melbourne,Bangkok,Passengers,Outbound,2024,15019.0,False
+Melbourne,Bangkok,Passengers,Outbound,2025,17508.0,False
+Melbourne,Beijing,Freight_tonnes,Inbound,2024,240.9,False
+Melbourne,Beijing,Freight_tonnes,Inbound,2025,14.2,False
+Melbourne,Beijing,Freight_tonnes,Outbound,2024,119.5,False
+Melbourne,Beijing,Freight_tonnes,Outbound,2025,31.9,False
+Melbourne,Beijing,Passengers,Inbound,2024,4309.0,False
+Melbourne,Beijing,Passengers,Inbound,2025,2891.0,False
+Melbourne,Beijing,Passengers,Outbound,2024,5006.0,False
+Melbourne,Beijing,Passengers,Outbound,2025,3390.0,False
+Melbourne,Bombay,Freight_tonnes,Inbound,2024,22.8,False
+Melbourne,Bombay,Freight_tonnes,Inbound,2025,0.0,False
+Melbourne,Bombay,Freight_tonnes,Outbound,2024,15.7,False
+Melbourne,Bombay,Freight_tonnes,Outbound,2025,0.0,False
+Melbourne,Bombay,Passengers,Inbound,2024,2968.0,False
+Melbourne,Bombay,Passengers,Inbound,2025,0.0,False
+Melbourne,Bombay,Passengers,Outbound,2024,3254.0,False
+Melbourne,Bombay,Passengers,Outbound,2025,0.0,False
+Melbourne,Chengdu,Freight_tonnes,Inbound,2024,121.8,False
+Melbourne,Chengdu,Freight_tonnes,Inbound,2025,106.8,False
+Melbourne,Chengdu,Freight_tonnes,Outbound,2024,64.6,False
+Melbourne,Chengdu,Freight_tonnes,Outbound,2025,70.0,False
+Melbourne,Chengdu,Passengers,Inbound,2024,2808.0,False
+Melbourne,Chengdu,Passengers,Inbound,2025,3681.0,False
+Melbourne,Chengdu,Passengers,Outbound,2024,3495.0,False
+Melbourne,Chengdu,Passengers,Outbound,2025,4308.0,False
+Melbourne,Chicago,Freight_tonnes,Inbound,2024,119.0,False
+Melbourne,Chicago,Freight_tonnes,Inbound,2025,59.0,False
+Melbourne,Chicago,Freight_tonnes,Outbound,2024,0.0,False
+Melbourne,Chicago,Freight_tonnes,Outbound,2025,0.0,False
+Melbourne,Chicago,Passengers,Inbound,2024,0.0,False
+Melbourne,Chicago,Passengers,Inbound,2025,0.0,False
+Melbourne,Chicago,Passengers,Outbound,2024,0.0,False
+Melbourne,Chicago,Passengers,Outbound,2025,0.0,False
+Melbourne,Christchurch,Freight_tonnes,Inbound,2024,20.7,False
+Melbourne,Christchurch,Freight_tonnes,Inbound,2025,32.6,False
+Melbourne,Christchurch,Freight_tonnes,Outbound,2024,6.1,False
+Melbourne,Christchurch,Freight_tonnes,Outbound,2025,8.8,False
+Melbourne,Christchurch,Passengers,Inbound,2024,10477.0,False
+Melbourne,Christchurch,Passengers,Inbound,2025,13061.0,False
+Melbourne,Christchurch,Passengers,Outbound,2024,9962.0,False
+Melbourne,Christchurch,Passengers,Outbound,2025,10729.0,False
+Melbourne,Colombo,Freight_tonnes,Inbound,2024,245.4,False
+Melbourne,Colombo,Freight_tonnes,Inbound,2025,217.1,False
+Melbourne,Colombo,Freight_tonnes,Outbound,2024,190.5,False
+Melbourne,Colombo,Freight_tonnes,Outbound,2025,267.7,False
+Melbourne,Colombo,Passengers,Inbound,2024,7716.0,False
+Melbourne,Colombo,Passengers,Inbound,2025,8187.0,False
+Melbourne,Colombo,Passengers,Outbound,2024,7040.0,False
+Melbourne,Colombo,Passengers,Outbound,2025,7509.0,False
+Melbourne,Dallas,Freight_tonnes,Inbound,2024,28.0,False
+Melbourne,Dallas,Freight_tonnes,Inbound,2025,29.8,False
+Melbourne,Dallas,Freight_tonnes,Outbound,2024,61.6,False
+Melbourne,Dallas,Freight_tonnes,Outbound,2025,2.1,False
+Melbourne,Dallas,Passengers,Inbound,2024,2104.0,False
+Melbourne,Dallas,Passengers,Inbound,2025,2966.0,False
+Melbourne,Dallas,Passengers,Outbound,2024,2665.0,False
+Melbourne,Dallas,Passengers,Outbound,2025,3454.0,False
+Melbourne,Denpasar,Freight_tonnes,Inbound,2024,162.4,False
+Melbourne,Denpasar,Freight_tonnes,Inbound,2025,173.2,False
+Melbourne,Denpasar,Freight_tonnes,Outbound,2024,316.9,False
+Melbourne,Denpasar,Freight_tonnes,Outbound,2025,268.7,False
+Melbourne,Denpasar,Passengers,Inbound,2024,40267.0,False
+Melbourne,Denpasar,Passengers,Inbound,2025,48267.0,False
+Melbourne,Denpasar,Passengers,Outbound,2024,43739.0,False
+Melbourne,Denpasar,Passengers,Outbound,2025,48773.0,False
+Melbourne,Doha,Freight_tonnes,Inbound,2024,591.2,False
+Melbourne,Doha,Freight_tonnes,Inbound,2025,678.3,False
+Melbourne,Doha,Freight_tonnes,Outbound,2024,836.4,False
+Melbourne,Doha,Freight_tonnes,Outbound,2025,428.8,False
+Melbourne,Doha,Passengers,Inbound,2024,13241.0,False
+Melbourne,Doha,Passengers,Inbound,2025,14440.0,False
+Melbourne,Doha,Passengers,Outbound,2024,19306.0,False
+Melbourne,Doha,Passengers,Outbound,2025,20652.0,False
+Melbourne,Dubai,Freight_tonnes,Inbound,2024,505.3,False
+Melbourne,Dubai,Freight_tonnes,Inbound,2025,709.2,False
+Melbourne,Dubai,Freight_tonnes,Outbound,2024,1121.7,False
+Melbourne,Dubai,Freight_tonnes,Outbound,2025,1084.8,False
+Melbourne,Dubai,Passengers,Inbound,2024,19355.0,False
+Melbourne,Dubai,Passengers,Inbound,2025,22804.0,False
+Melbourne,Dubai,Passengers,Outbound,2024,28645.0,False
+Melbourne,Dubai,Passengers,Outbound,2025,32877.0,False
+Melbourne,Guangzhou,Freight_tonnes,Inbound,2024,678.7,False
+Melbourne,Guangzhou,Freight_tonnes,Inbound,2025,726.1,False
+Melbourne,Guangzhou,Freight_tonnes,Outbound,2024,491.8,False
+Melbourne,Guangzhou,Freight_tonnes,Outbound,2025,396.7,False
+Melbourne,Guangzhou,Passengers,Inbound,2024,9756.0,False
+Melbourne,Guangzhou,Passengers,Inbound,2025,10497.0,False
+Melbourne,Guangzhou,Passengers,Outbound,2024,11193.0,False
+Melbourne,Guangzhou,Passengers,Outbound,2025,11182.0,False
+Melbourne,Haikou,Freight_tonnes,Inbound,2024,194.5,False
+Melbourne,Haikou,Freight_tonnes,Inbound,2025,199.8,False
+Melbourne,Haikou,Freight_tonnes,Outbound,2024,81.7,False
+Melbourne,Haikou,Freight_tonnes,Outbound,2025,47.0,False
+Melbourne,Haikou,Passengers,Inbound,2024,2201.0,False
+Melbourne,Haikou,Passengers,Inbound,2025,2441.0,False
+Melbourne,Haikou,Passengers,Outbound,2024,3322.0,False
+Melbourne,Haikou,Passengers,Outbound,2025,3201.0,False
+Melbourne,Hangzhou,Freight_tonnes,Inbound,2024,0.0,False
+Melbourne,Hangzhou,Freight_tonnes,Inbound,2025,233.9,False
+Melbourne,Hangzhou,Freight_tonnes,Outbound,2024,0.0,False
+Melbourne,Hangzhou,Freight_tonnes,Outbound,2025,10.2,False
+Melbourne,Hangzhou,Passengers,Inbound,2024,0.0,False
+Melbourne,Hangzhou,Passengers,Inbound,2025,2683.0,False
+Melbourne,Hangzhou,Passengers,Outbound,2024,0.0,False
+Melbourne,Hangzhou,Passengers,Outbound,2025,2695.0,False
+Melbourne,Hanoi,Freight_tonnes,Inbound,2024,69.1,False
+Melbourne,Hanoi,Freight_tonnes,Inbound,2025,171.5,False
+Melbourne,Hanoi,Freight_tonnes,Outbound,2024,78.7,False
+Melbourne,Hanoi,Freight_tonnes,Outbound,2025,46.2,False
+Melbourne,Hanoi,Passengers,Inbound,2024,1416.0,False
+Melbourne,Hanoi,Passengers,Inbound,2025,3619.0,False
+Melbourne,Hanoi,Passengers,Outbound,2024,2445.0,False
+Melbourne,Hanoi,Passengers,Outbound,2025,4081.0,False
+Melbourne,Ho Chi Minh City,Freight_tonnes,Inbound,2024,598.7,False
+Melbourne,Ho Chi Minh City,Freight_tonnes,Inbound,2025,571.5,False
+Melbourne,Ho Chi Minh City,Freight_tonnes,Outbound,2024,134.6,False
+Melbourne,Ho Chi Minh City,Freight_tonnes,Outbound,2025,141.7,False
+Melbourne,Ho Chi Minh City,Passengers,Inbound,2024,16239.0,False
+Melbourne,Ho Chi Minh City,Passengers,Inbound,2025,18374.0,False
+Melbourne,Ho Chi Minh City,Passengers,Outbound,2024,16469.0,False
+Melbourne,Ho Chi Minh City,Passengers,Outbound,2025,17684.0,False
+Melbourne,Hong Kong,Freight_tonnes,Inbound,2024,1334.9,False
+Melbourne,Hong Kong,Freight_tonnes,Inbound,2025,1463.7,False
+Melbourne,Hong Kong,Freight_tonnes,Outbound,2024,988.2,False
+Melbourne,Hong Kong,Freight_tonnes,Outbound,2025,1046.4,False
+Melbourne,Hong Kong,Passengers,Inbound,2024,17067.0,False
+Melbourne,Hong Kong,Passengers,Inbound,2025,24807.0,False
+Melbourne,Hong Kong,Passengers,Outbound,2024,20044.0,False
+Melbourne,Hong Kong,Passengers,Outbound,2025,24920.0,False
+Melbourne,Honolulu,Freight_tonnes,Inbound,2024,14.3,False
+Melbourne,Honolulu,Freight_tonnes,Inbound,2025,44.4,False
+Melbourne,Honolulu,Freight_tonnes,Outbound,2024,69.0,False
+Melbourne,Honolulu,Freight_tonnes,Outbound,2025,21.8,False
+Melbourne,Honolulu,Passengers,Inbound,2024,2553.0,False
+Melbourne,Honolulu,Passengers,Inbound,2025,2573.0,False
+Melbourne,Honolulu,Passengers,Outbound,2024,2275.0,False
+Melbourne,Honolulu,Passengers,Outbound,2025,2243.0,False
+Melbourne,Istanbul,Freight_tonnes,Inbound,2024,139.3,False
+Melbourne,Istanbul,Freight_tonnes,Inbound,2025,151.0,False
+Melbourne,Istanbul,Freight_tonnes,Outbound,2024,177.4,False
+Melbourne,Istanbul,Freight_tonnes,Outbound,2025,161.2,False
+Melbourne,Istanbul,Passengers,Inbound,2024,1155.0,False
+Melbourne,Istanbul,Passengers,Inbound,2025,1344.0,False
+Melbourne,Istanbul,Passengers,Outbound,2024,2900.0,False
+Melbourne,Istanbul,Passengers,Outbound,2025,2720.0,False
+Melbourne,Jakarta,Freight_tonnes,Inbound,2024,110.0,False
+Melbourne,Jakarta,Freight_tonnes,Inbound,2025,88.2,False
+Melbourne,Jakarta,Freight_tonnes,Outbound,2024,356.9,False
+Melbourne,Jakarta,Freight_tonnes,Outbound,2025,127.6,False
+Melbourne,Jakarta,Passengers,Inbound,2024,1953.0,False
+Melbourne,Jakarta,Passengers,Inbound,2025,4027.0,False
+Melbourne,Jakarta,Passengers,Outbound,2024,2144.0,False
+Melbourne,Jakarta,Passengers,Outbound,2025,3810.0,False
+Melbourne,Kuala Lumpur,Freight_tonnes,Inbound,2024,832.7,False
+Melbourne,Kuala Lumpur,Freight_tonnes,Inbound,2025,844.3,False
+Melbourne,Kuala Lumpur,Freight_tonnes,Outbound,2024,601.1,False
+Melbourne,Kuala Lumpur,Freight_tonnes,Outbound,2025,446.9,False
+Melbourne,Kuala Lumpur,Passengers,Inbound,2024,19452.0,False
+Melbourne,Kuala Lumpur,Passengers,Inbound,2025,21114.0,False
+Melbourne,Kuala Lumpur,Passengers,Outbound,2024,18633.0,False
+Melbourne,Kuala Lumpur,Passengers,Outbound,2025,18587.0,False
+Melbourne,London,Freight_tonnes,Inbound,2024,54.0,False
+Melbourne,London,Freight_tonnes,Inbound,2025,0.0,False
+Melbourne,London,Freight_tonnes,Outbound,2024,0.9,False
+Melbourne,London,Freight_tonnes,Outbound,2025,0.0,False
+Melbourne,London,Passengers,Inbound,2024,1195.0,False
+Melbourne,London,Passengers,Inbound,2025,0.0,False
+Melbourne,London,Passengers,Outbound,2024,1240.0,False
+Melbourne,London,Passengers,Outbound,2025,0.0,False
+Melbourne,Los Angeles,Freight_tonnes,Inbound,2024,323.9,False
+Melbourne,Los Angeles,Freight_tonnes,Inbound,2025,243.9,False
+Melbourne,Los Angeles,Freight_tonnes,Outbound,2024,401.7,False
+Melbourne,Los Angeles,Freight_tonnes,Outbound,2025,209.0,False
+Melbourne,Los Angeles,Passengers,Inbound,2024,10310.0,False
+Melbourne,Los Angeles,Passengers,Inbound,2025,9411.0,False
+Melbourne,Los Angeles,Passengers,Outbound,2024,10384.0,False
+Melbourne,Los Angeles,Passengers,Outbound,2025,8315.0,False
+Melbourne,Manila,Freight_tonnes,Inbound,2024,223.7,False
+Melbourne,Manila,Freight_tonnes,Inbound,2025,268.4,False
+Melbourne,Manila,Freight_tonnes,Outbound,2024,403.7,False
+Melbourne,Manila,Freight_tonnes,Outbound,2025,325.9,False
+Melbourne,Manila,Passengers,Inbound,2024,8521.0,False
+Melbourne,Manila,Passengers,Inbound,2025,10376.0,False
+Melbourne,Manila,Passengers,Outbound,2024,7669.0,False
+Melbourne,Manila,Passengers,Outbound,2025,7882.0,False
+Melbourne,Nadi,Freight_tonnes,Inbound,2024,67.3,False
+Melbourne,Nadi,Freight_tonnes,Inbound,2025,99.9,False
+Melbourne,Nadi,Freight_tonnes,Outbound,2024,62.5,False
+Melbourne,Nadi,Freight_tonnes,Outbound,2025,106.4,False
+Melbourne,Nadi,Passengers,Inbound,2024,11419.0,False
+Melbourne,Nadi,Passengers,Inbound,2025,12030.0,False
+Melbourne,Nadi,Passengers,Outbound,2024,12015.0,False
+Melbourne,Nadi,Passengers,Outbound,2025,12341.0,False
+Melbourne,Nanjing,Freight_tonnes,Inbound,2024,0.0,False
+Melbourne,Nanjing,Freight_tonnes,Inbound,2025,156.5,False
+Melbourne,Nanjing,Freight_tonnes,Outbound,2024,0.0,False
+Melbourne,Nanjing,Freight_tonnes,Outbound,2025,14.8,False
+Melbourne,Nanjing,Passengers,Inbound,2024,0.0,False
+Melbourne,Nanjing,Passengers,Inbound,2025,1673.0,False
+Melbourne,Nanjing,Passengers,Outbound,2024,0.0,False
+Melbourne,Nanjing,Passengers,Outbound,2025,1243.0,False
+Melbourne,New Delhi,Freight_tonnes,Inbound,2024,118.2,False
+Melbourne,New Delhi,Freight_tonnes,Inbound,2025,208.4,False
+Melbourne,New Delhi,Freight_tonnes,Outbound,2024,148.6,False
+Melbourne,New Delhi,Freight_tonnes,Outbound,2025,180.5,False
+Melbourne,New Delhi,Passengers,Inbound,2024,9826.0,False
+Melbourne,New Delhi,Passengers,Inbound,2025,9502.0,False
+Melbourne,New Delhi,Passengers,Outbound,2024,7993.0,False
+Melbourne,New Delhi,Passengers,Outbound,2025,9191.0,False
+Melbourne,New York,Freight_tonnes,Inbound,2024,73.7,False
+Melbourne,New York,Freight_tonnes,Inbound,2025,20.2,False
+Melbourne,New York,Freight_tonnes,Outbound,2024,0.0,False
+Melbourne,New York,Freight_tonnes,Outbound,2025,0.0,False
+Melbourne,New York,Passengers,Inbound,2024,0.0,False
+Melbourne,New York,Passengers,Inbound,2025,0.0,False
+Melbourne,New York,Passengers,Outbound,2024,0.0,False
+Melbourne,New York,Passengers,Outbound,2025,0.0,False
+Melbourne,Noumea,Freight_tonnes,Inbound,2024,0.0,False
+Melbourne,Noumea,Freight_tonnes,Inbound,2025,0.0,False
+Melbourne,Noumea,Freight_tonnes,Outbound,2024,0.1,False
+Melbourne,Noumea,Freight_tonnes,Outbound,2025,0.0,False
+Melbourne,Noumea,Passengers,Inbound,2024,403.0,False
+Melbourne,Noumea,Passengers,Inbound,2025,0.0,False
+Melbourne,Noumea,Passengers,Outbound,2024,393.0,False
+Melbourne,Noumea,Passengers,Outbound,2025,0.0,False
+Melbourne,Phuket,Freight_tonnes,Inbound,2024,64.4,False
+Melbourne,Phuket,Freight_tonnes,Inbound,2025,144.0,False
+Melbourne,Phuket,Freight_tonnes,Outbound,2024,0.1,False
+Melbourne,Phuket,Freight_tonnes,Outbound,2025,0.4,False
+Melbourne,Phuket,Passengers,Inbound,2024,4029.0,False
+Melbourne,Phuket,Passengers,Inbound,2025,5775.0,False
+Melbourne,Phuket,Passengers,Outbound,2024,3981.0,False
+Melbourne,Phuket,Passengers,Outbound,2025,5529.0,False
+Melbourne,Port Vila,Freight_tonnes,Inbound,2024,0.0,False
+Melbourne,Port Vila,Freight_tonnes,Inbound,2025,0.0,False
+Melbourne,Port Vila,Freight_tonnes,Outbound,2024,0.0,False
+Melbourne,Port Vila,Freight_tonnes,Outbound,2025,0.0,False
+Melbourne,Port Vila,Passengers,Inbound,2024,82.0,False
+Melbourne,Port Vila,Passengers,Inbound,2025,0.0,False
+Melbourne,Port Vila,Passengers,Outbound,2024,133.0,False
+Melbourne,Port Vila,Passengers,Outbound,2025,0.0,False
+Melbourne,Qingdao,Freight_tonnes,Inbound,2024,92.2,False
+Melbourne,Qingdao,Freight_tonnes,Inbound,2025,119.3,False
+Melbourne,Qingdao,Freight_tonnes,Outbound,2024,13.1,False
+Melbourne,Qingdao,Freight_tonnes,Outbound,2025,17.3,False
+Melbourne,Qingdao,Passengers,Inbound,2024,643.0,False
+Melbourne,Qingdao,Passengers,Inbound,2025,1389.0,False
+Melbourne,Qingdao,Passengers,Outbound,2024,818.0,False
+Melbourne,Qingdao,Passengers,Outbound,2025,1416.0,False
+Melbourne,Queenstown,Freight_tonnes,Inbound,2024,0.0,False
+Melbourne,Queenstown,Freight_tonnes,Inbound,2025,0.0,False
+Melbourne,Queenstown,Freight_tonnes,Outbound,2024,0.3,False
+Melbourne,Queenstown,Freight_tonnes,Outbound,2025,0.4,False
+Melbourne,Queenstown,Passengers,Inbound,2024,5406.0,False
+Melbourne,Queenstown,Passengers,Inbound,2025,6363.0,False
+Melbourne,Queenstown,Passengers,Outbound,2024,4829.0,False
+Melbourne,Queenstown,Passengers,Outbound,2025,5763.0,False
+Melbourne,San Francisco,Freight_tonnes,Inbound,2024,127.7,False
+Melbourne,San Francisco,Freight_tonnes,Inbound,2025,136.6,False
+Melbourne,San Francisco,Freight_tonnes,Outbound,2024,316.8,False
+Melbourne,San Francisco,Freight_tonnes,Outbound,2025,240.2,False
+Melbourne,San Francisco,Passengers,Inbound,2024,5269.0,False
+Melbourne,San Francisco,Passengers,Inbound,2025,6172.0,False
+Melbourne,San Francisco,Passengers,Outbound,2024,5466.0,False
+Melbourne,San Francisco,Passengers,Outbound,2025,5499.0,False
+Melbourne,Santiago,Freight_tonnes,Inbound,2024,51.7,False
+Melbourne,Santiago,Freight_tonnes,Inbound,2025,16.9,False
+Melbourne,Santiago,Freight_tonnes,Outbound,2024,152.1,False
+Melbourne,Santiago,Freight_tonnes,Outbound,2025,168.6,False
+Melbourne,Santiago,Passengers,Inbound,2024,3185.0,False
+Melbourne,Santiago,Passengers,Inbound,2025,2871.0,False
+Melbourne,Santiago,Passengers,Outbound,2024,3115.0,False
+Melbourne,Santiago,Passengers,Outbound,2025,2921.0,False
+Melbourne,Seoul,Freight_tonnes,Inbound,2024,0.0,False
+Melbourne,Seoul,Freight_tonnes,Inbound,2025,0.0,False
+Melbourne,Seoul,Freight_tonnes,Outbound,2024,6.0,False
+Melbourne,Seoul,Freight_tonnes,Outbound,2025,0.0,False
+Melbourne,Seoul,Passengers,Inbound,2024,0.0,False
+Melbourne,Seoul,Passengers,Inbound,2025,0.0,False
+Melbourne,Seoul,Passengers,Outbound,2024,0.0,False
+Melbourne,Seoul,Passengers,Outbound,2025,0.0,False
+Melbourne,Shanghai,Freight_tonnes,Inbound,2024,670.5,False
+Melbourne,Shanghai,Freight_tonnes,Inbound,2025,821.0,False
+Melbourne,Shanghai,Freight_tonnes,Outbound,2024,379.1,False
+Melbourne,Shanghai,Freight_tonnes,Outbound,2025,335.0,False
+Melbourne,Shanghai,Passengers,Inbound,2024,9246.0,False
+Melbourne,Shanghai,Passengers,Inbound,2025,13454.0,False
+Melbourne,Shanghai,Passengers,Outbound,2024,10596.0,False
+Melbourne,Shanghai,Passengers,Outbound,2025,13360.0,False
+Melbourne,Singapore,Freight_tonnes,Inbound,2024,3093.9,False
+Melbourne,Singapore,Freight_tonnes,Inbound,2025,2661.0,False
+Melbourne,Singapore,Freight_tonnes,Outbound,2024,2324.5,False
+Melbourne,Singapore,Freight_tonnes,Outbound,2025,2576.9,False
+Melbourne,Singapore,Passengers,Inbound,2024,64515.0,False
+Melbourne,Singapore,Passengers,Inbound,2025,68479.0,False
+Melbourne,Singapore,Passengers,Outbound,2024,67613.0,False
+Melbourne,Singapore,Passengers,Outbound,2025,71556.0,False
+Melbourne,Taipei,Freight_tonnes,Inbound,2024,142.7,False
+Melbourne,Taipei,Freight_tonnes,Inbound,2025,138.8,False
+Melbourne,Taipei,Freight_tonnes,Outbound,2024,210.1,False
+Melbourne,Taipei,Freight_tonnes,Outbound,2025,142.7,False
+Melbourne,Taipei,Passengers,Inbound,2024,3017.0,False
+Melbourne,Taipei,Passengers,Inbound,2025,3740.0,False
+Melbourne,Taipei,Passengers,Outbound,2024,3278.0,False
+Melbourne,Taipei,Passengers,Outbound,2025,3844.0,False
+Melbourne,Tokyo,Freight_tonnes,Inbound,2024,251.9,False
+Melbourne,Tokyo,Freight_tonnes,Inbound,2025,268.0,False
+Melbourne,Tokyo,Freight_tonnes,Outbound,2024,152.4,False
+Melbourne,Tokyo,Freight_tonnes,Outbound,2025,220.6,False
+Melbourne,Tokyo,Passengers,Inbound,2024,9597.0,False
+Melbourne,Tokyo,Passengers,Inbound,2025,10194.0,False
+Melbourne,Tokyo,Passengers,Outbound,2024,9498.0,False
+Melbourne,Tokyo,Passengers,Outbound,2025,9855.0,False
+Melbourne,Wellington,Freight_tonnes,Inbound,2024,8.4,False
+Melbourne,Wellington,Freight_tonnes,Inbound,2025,9.9,False
+Melbourne,Wellington,Freight_tonnes,Outbound,2024,0.8,False
+Melbourne,Wellington,Freight_tonnes,Outbound,2025,1.6,False
+Melbourne,Wellington,Passengers,Inbound,2024,6911.0,False
+Melbourne,Wellington,Passengers,Inbound,2025,7669.0,False
+Melbourne,Wellington,Passengers,Outbound,2024,6665.0,False
+Melbourne,Wellington,Passengers,Outbound,2025,7280.0,False
+Melbourne,Xiamen,Freight_tonnes,Inbound,2024,294.8,False
+Melbourne,Xiamen,Freight_tonnes,Inbound,2025,355.2,False
+Melbourne,Xiamen,Freight_tonnes,Outbound,2024,69.9,False
+Melbourne,Xiamen,Freight_tonnes,Outbound,2025,77.7,False
+Melbourne,Xiamen,Passengers,Inbound,2024,5544.0,False
+Melbourne,Xiamen,Passengers,Inbound,2025,6162.0,False
+Melbourne,Xiamen,Passengers,Outbound,2024,5616.0,False
+Melbourne,Xiamen,Passengers,Outbound,2025,6266.0,False
+Perth,Auckland,Freight_tonnes,Inbound,2024,285.9,False
+Perth,Auckland,Freight_tonnes,Inbound,2025,289.3,False
+Perth,Auckland,Freight_tonnes,Outbound,2024,329.5,False
+Perth,Auckland,Freight_tonnes,Outbound,2025,167.7,False
+Perth,Auckland,Passengers,Inbound,2024,9216.0,False
+Perth,Auckland,Passengers,Inbound,2025,8894.0,False
+Perth,Auckland,Passengers,Outbound,2024,8373.0,False
+Perth,Auckland,Passengers,Outbound,2025,8250.0,False
+Perth,Bangkok,Freight_tonnes,Inbound,2024,224.4,False
+Perth,Bangkok,Freight_tonnes,Inbound,2025,350.1,False
+Perth,Bangkok,Freight_tonnes,Outbound,2024,56.0,False
+Perth,Bangkok,Freight_tonnes,Outbound,2025,152.6,False
+Perth,Bangkok,Passengers,Inbound,2024,3855.0,False
+Perth,Bangkok,Passengers,Inbound,2025,8996.0,False
+Perth,Bangkok,Passengers,Outbound,2024,3941.0,False
+Perth,Bangkok,Passengers,Outbound,2025,7858.0,False
+Perth,Denpasar,Freight_tonnes,Inbound,2024,207.0,False
+Perth,Denpasar,Freight_tonnes,Inbound,2025,35.7,False
+Perth,Denpasar,Freight_tonnes,Outbound,2024,68.3,False
+Perth,Denpasar,Freight_tonnes,Outbound,2025,0.0,False
+Perth,Denpasar,Passengers,Inbound,2024,39728.0,False
+Perth,Denpasar,Passengers,Inbound,2025,45661.0,False
+Perth,Denpasar,Passengers,Outbound,2024,43635.0,False
+Perth,Denpasar,Passengers,Outbound,2025,46871.0,False
+Perth,Doha,Freight_tonnes,Inbound,2024,248.2,False
+Perth,Doha,Freight_tonnes,Inbound,2025,216.6,False
+Perth,Doha,Freight_tonnes,Outbound,2024,396.7,False
+Perth,Doha,Freight_tonnes,Outbound,2025,399.9,False
+Perth,Doha,Passengers,Inbound,2024,9095.0,False
+Perth,Doha,Passengers,Inbound,2025,9033.0,False
+Perth,Doha,Passengers,Outbound,2024,14372.0,False
+Perth,Doha,Passengers,Outbound,2025,14474.0,False
+Perth,Dubai,Freight_tonnes,Inbound,2024,290.5,False
+Perth,Dubai,Freight_tonnes,Inbound,2025,498.0,False
+Perth,Dubai,Freight_tonnes,Outbound,2024,467.3,False
+Perth,Dubai,Freight_tonnes,Outbound,2025,490.2,False
+Perth,Dubai,Passengers,Inbound,2024,8331.0,False
+Perth,Dubai,Passengers,Inbound,2025,10682.0,False
+Perth,Dubai,Passengers,Outbound,2024,14417.0,False
+Perth,Dubai,Passengers,Outbound,2025,15510.0,False
+Perth,Ho Chi Minh City,Freight_tonnes,Inbound,2024,102.8,False
+Perth,Ho Chi Minh City,Freight_tonnes,Inbound,2025,94.2,False
+Perth,Ho Chi Minh City,Freight_tonnes,Outbound,2024,31.7,False
+Perth,Ho Chi Minh City,Freight_tonnes,Outbound,2025,26.6,False
+Perth,Ho Chi Minh City,Passengers,Inbound,2024,2580.0,False
+Perth,Ho Chi Minh City,Passengers,Inbound,2025,4387.0,False
+Perth,Ho Chi Minh City,Passengers,Outbound,2024,2741.0,False
+Perth,Ho Chi Minh City,Passengers,Outbound,2025,3291.0,False
+Perth,Hong Kong,Freight_tonnes,Inbound,2024,334.4,False
+Perth,Hong Kong,Freight_tonnes,Inbound,2025,577.9,False
+Perth,Hong Kong,Freight_tonnes,Outbound,2024,564.1,False
+Perth,Hong Kong,Freight_tonnes,Outbound,2025,384.4,False
+Perth,Hong Kong,Passengers,Inbound,2024,5139.0,False
+Perth,Hong Kong,Passengers,Inbound,2025,9713.0,False
+Perth,Hong Kong,Passengers,Outbound,2024,6666.0,False
+Perth,Hong Kong,Passengers,Outbound,2025,11063.0,False
+Perth,Jakarta,Freight_tonnes,Inbound,2024,0.0,False
+Perth,Jakarta,Freight_tonnes,Inbound,2025,0.0,False
+Perth,Jakarta,Freight_tonnes,Outbound,2024,0.0,False
+Perth,Jakarta,Freight_tonnes,Outbound,2025,0.0,False
+Perth,Jakarta,Passengers,Inbound,2024,2836.0,False
+Perth,Jakarta,Passengers,Inbound,2025,2224.0,False
+Perth,Jakarta,Passengers,Outbound,2024,2756.0,False
+Perth,Jakarta,Passengers,Outbound,2025,1909.0,False
+Perth,Johannesburg,Freight_tonnes,Inbound,2024,1.9,False
+Perth,Johannesburg,Freight_tonnes,Inbound,2025,26.0,False
+Perth,Johannesburg,Freight_tonnes,Outbound,2024,52.2,False
+Perth,Johannesburg,Freight_tonnes,Outbound,2025,137.1,False
+Perth,Johannesburg,Passengers,Inbound,2024,2100.0,False
+Perth,Johannesburg,Passengers,Inbound,2025,3608.0,False
+Perth,Johannesburg,Passengers,Outbound,2024,2377.0,False
+Perth,Johannesburg,Passengers,Outbound,2025,3404.0,False
+Perth,Kuala Lumpur,Freight_tonnes,Inbound,2024,408.4,False
+Perth,Kuala Lumpur,Freight_tonnes,Inbound,2025,52.9,False
+Perth,Kuala Lumpur,Freight_tonnes,Outbound,2024,192.2,False
+Perth,Kuala Lumpur,Freight_tonnes,Outbound,2025,33.6,False
+Perth,Kuala Lumpur,Passengers,Inbound,2024,24310.0,False
+Perth,Kuala Lumpur,Passengers,Inbound,2025,20462.0,False
+Perth,Kuala Lumpur,Passengers,Outbound,2024,21198.0,False
+Perth,Kuala Lumpur,Passengers,Outbound,2025,17731.0,False
+Perth,London,Freight_tonnes,Inbound,2024,34.7,False
+Perth,London,Freight_tonnes,Inbound,2025,71.4,False
+Perth,London,Freight_tonnes,Outbound,2024,0.3,False
+Perth,London,Freight_tonnes,Outbound,2025,0.1,False
+Perth,London,Passengers,Inbound,2024,4621.0,False
+Perth,London,Passengers,Inbound,2025,6047.0,False
+Perth,London,Passengers,Outbound,2024,5319.0,False
+Perth,London,Passengers,Outbound,2025,6789.0,False
+Perth,Manila,Freight_tonnes,Inbound,2024,9.6,False
+Perth,Manila,Freight_tonnes,Inbound,2025,12.0,False
+Perth,Manila,Freight_tonnes,Outbound,2024,0.2,False
+Perth,Manila,Freight_tonnes,Outbound,2025,0.5,False
+Perth,Manila,Passengers,Inbound,2024,1454.0,False
+Perth,Manila,Passengers,Inbound,2025,2160.0,False
+Perth,Manila,Passengers,Outbound,2024,1433.0,False
+Perth,Manila,Passengers,Outbound,2025,1928.0,False
+Perth,Mauritius,Freight_tonnes,Inbound,2024,30.9,False
+Perth,Mauritius,Freight_tonnes,Inbound,2025,16.4,False
+Perth,Mauritius,Freight_tonnes,Outbound,2024,60.2,False
+Perth,Mauritius,Freight_tonnes,Outbound,2025,39.9,False
+Perth,Mauritius,Passengers,Inbound,2024,1849.0,False
+Perth,Mauritius,Passengers,Inbound,2025,1788.0,False
+Perth,Mauritius,Passengers,Outbound,2024,2205.0,False
+Perth,Mauritius,Passengers,Outbound,2025,1883.0,False
+Perth,Paris,Freight_tonnes,Inbound,2024,0.0,False
+Perth,Paris,Freight_tonnes,Inbound,2025,9.0,False
+Perth,Paris,Freight_tonnes,Outbound,2024,0.0,False
+Perth,Paris,Freight_tonnes,Outbound,2025,0.2,False
+Perth,Paris,Passengers,Inbound,2024,0.0,False
+Perth,Paris,Passengers,Inbound,2025,1373.0,False
+Perth,Paris,Passengers,Outbound,2024,0.0,False
+Perth,Paris,Passengers,Outbound,2025,1735.0,False
+Perth,Phuket,Freight_tonnes,Inbound,2024,0.0,False
+Perth,Phuket,Freight_tonnes,Inbound,2025,0.0,False
+Perth,Phuket,Freight_tonnes,Outbound,2024,0.0,False
+Perth,Phuket,Freight_tonnes,Outbound,2025,0.0,False
+Perth,Phuket,Passengers,Inbound,2024,0.0,False
+Perth,Phuket,Passengers,Inbound,2025,4054.0,False
+Perth,Phuket,Passengers,Outbound,2024,0.0,False
+Perth,Phuket,Passengers,Outbound,2025,3710.0,False
+Perth,Singapore,Freight_tonnes,Inbound,2024,1948.3,False
+Perth,Singapore,Freight_tonnes,Inbound,2025,1856.4,False
+Perth,Singapore,Freight_tonnes,Outbound,2024,2087.1,False
+Perth,Singapore,Freight_tonnes,Outbound,2025,2089.2,False
+Perth,Singapore,Passengers,Inbound,2024,55565.0,False
+Perth,Singapore,Passengers,Inbound,2025,60565.0,False
+Perth,Singapore,Passengers,Outbound,2024,57176.0,False
+Perth,Singapore,Passengers,Outbound,2025,58918.0,False
+Perth,Tokyo,Freight_tonnes,Inbound,2024,0.0,False
+Perth,Tokyo,Freight_tonnes,Inbound,2025,226.8,False
+Perth,Tokyo,Freight_tonnes,Outbound,2024,0.0,False
+Perth,Tokyo,Freight_tonnes,Outbound,2025,191.2,False
+Perth,Tokyo,Passengers,Inbound,2024,0.0,False
+Perth,Tokyo,Passengers,Inbound,2025,1548.0,False
+Perth,Tokyo,Passengers,Outbound,2024,0.0,False
+Perth,Tokyo,Passengers,Outbound,2025,1510.0,False
+Sunshine Coast,Auckland,Freight_tonnes,Inbound,2024,0.0,False
+Sunshine Coast,Auckland,Freight_tonnes,Inbound,2025,0.0,False
+Sunshine Coast,Auckland,Freight_tonnes,Outbound,2024,0.0,False
+Sunshine Coast,Auckland,Freight_tonnes,Outbound,2025,0.0,False
+Sunshine Coast,Auckland,Passengers,Inbound,2024,0.0,False
+Sunshine Coast,Auckland,Passengers,Inbound,2025,1576.0,False
+Sunshine Coast,Auckland,Passengers,Outbound,2024,0.0,False
+Sunshine Coast,Auckland,Passengers,Outbound,2025,1507.0,False
+Sydney,Abu Dhabi,Freight_tonnes,Inbound,2024,287.8,False
+Sydney,Abu Dhabi,Freight_tonnes,Inbound,2025,198.4,False
+Sydney,Abu Dhabi,Freight_tonnes,Outbound,2024,204.3,False
+Sydney,Abu Dhabi,Freight_tonnes,Outbound,2025,221.2,False
+Sydney,Abu Dhabi,Passengers,Inbound,2024,7828.0,False
+Sydney,Abu Dhabi,Passengers,Inbound,2025,8899.0,False
+Sydney,Abu Dhabi,Passengers,Outbound,2024,9687.0,False
+Sydney,Abu Dhabi,Passengers,Outbound,2025,10136.0,False
+Sydney,Auckland,Freight_tonnes,Inbound,2024,1429.6,False
+Sydney,Auckland,Freight_tonnes,Inbound,2025,1057.4,False
+Sydney,Auckland,Freight_tonnes,Outbound,2024,2113.0,False
+Sydney,Auckland,Freight_tonnes,Outbound,2025,1857.2,False
+Sydney,Auckland,Passengers,Inbound,2024,49980.0,False
+Sydney,Auckland,Passengers,Inbound,2025,50662.0,False
+Sydney,Auckland,Passengers,Outbound,2024,45566.0,False
+Sydney,Auckland,Passengers,Outbound,2025,46928.0,False
+Sydney,Bangalore,Freight_tonnes,Inbound,2024,51.1,False
+Sydney,Bangalore,Freight_tonnes,Inbound,2025,84.1,False
+Sydney,Bangalore,Freight_tonnes,Outbound,2024,8.6,False
+Sydney,Bangalore,Freight_tonnes,Outbound,2025,0.0,False
+Sydney,Bangalore,Passengers,Inbound,2024,4799.0,False
+Sydney,Bangalore,Passengers,Inbound,2025,4323.0,False
+Sydney,Bangalore,Passengers,Outbound,2024,4833.0,False
+Sydney,Bangalore,Passengers,Outbound,2025,4361.0,False
+Sydney,Bangkok,Freight_tonnes,Inbound,2024,1128.8,False
+Sydney,Bangkok,Freight_tonnes,Inbound,2025,961.6,False
+Sydney,Bangkok,Freight_tonnes,Outbound,2024,228.1,False
+Sydney,Bangkok,Freight_tonnes,Outbound,2025,261.2,False
+Sydney,Bangkok,Passengers,Inbound,2024,20116.0,False
+Sydney,Bangkok,Passengers,Inbound,2025,21883.0,False
+Sydney,Bangkok,Passengers,Outbound,2024,18325.0,False
+Sydney,Bangkok,Passengers,Outbound,2025,22148.0,False
+Sydney,Beijing,Freight_tonnes,Inbound,2024,193.0,False
+Sydney,Beijing,Freight_tonnes,Inbound,2025,238.8,False
+Sydney,Beijing,Freight_tonnes,Outbound,2024,169.0,False
+Sydney,Beijing,Freight_tonnes,Outbound,2025,100.5,False
+Sydney,Beijing,Passengers,Inbound,2024,4235.0,False
+Sydney,Beijing,Passengers,Inbound,2025,4700.0,False
+Sydney,Beijing,Passengers,Outbound,2024,4425.0,False
+Sydney,Beijing,Passengers,Outbound,2025,4708.0,False
+Sydney,Chengdu,Freight_tonnes,Inbound,2024,123.6,False
+Sydney,Chengdu,Freight_tonnes,Inbound,2025,173.4,False
+Sydney,Chengdu,Freight_tonnes,Outbound,2024,36.2,False
+Sydney,Chengdu,Freight_tonnes,Outbound,2025,66.4,False
+Sydney,Chengdu,Passengers,Inbound,2024,3175.0,False
+Sydney,Chengdu,Passengers,Inbound,2025,4467.0,False
+Sydney,Chengdu,Passengers,Outbound,2024,3559.0,False
+Sydney,Chengdu,Passengers,Outbound,2025,5123.0,False
+Sydney,Chicago,Freight_tonnes,Inbound,2024,738.7,False
+Sydney,Chicago,Freight_tonnes,Inbound,2025,457.0,False
+Sydney,Chicago,Freight_tonnes,Outbound,2024,0.0,False
+Sydney,Chicago,Freight_tonnes,Outbound,2025,1.6,False
+Sydney,Chicago,Passengers,Inbound,2024,0.0,False
+Sydney,Chicago,Passengers,Inbound,2025,0.0,False
+Sydney,Chicago,Passengers,Outbound,2024,0.0,False
+Sydney,Chicago,Passengers,Outbound,2025,0.0,False
+Sydney,Chongqing,Freight_tonnes,Inbound,2024,40.6,False
+Sydney,Chongqing,Freight_tonnes,Inbound,2025,54.5,False
+Sydney,Chongqing,Freight_tonnes,Outbound,2024,62.2,False
+Sydney,Chongqing,Freight_tonnes,Outbound,2025,5.7,False
+Sydney,Chongqing,Passengers,Inbound,2024,539.0,False
+Sydney,Chongqing,Passengers,Inbound,2025,849.0,False
+Sydney,Chongqing,Passengers,Outbound,2024,528.0,False
+Sydney,Chongqing,Passengers,Outbound,2025,892.0,False
+Sydney,Christchurch,Freight_tonnes,Inbound,2024,585.0,False
+Sydney,Christchurch,Freight_tonnes,Inbound,2025,447.5,False
+Sydney,Christchurch,Freight_tonnes,Outbound,2024,124.0,False
+Sydney,Christchurch,Freight_tonnes,Outbound,2025,162.1,False
+Sydney,Christchurch,Passengers,Inbound,2024,14333.0,False
+Sydney,Christchurch,Passengers,Inbound,2025,15664.0,False
+Sydney,Christchurch,Passengers,Outbound,2024,12679.0,False
+Sydney,Christchurch,Passengers,Outbound,2025,12842.0,False
+Sydney,Colombo,Freight_tonnes,Inbound,2024,80.9,False
+Sydney,Colombo,Freight_tonnes,Inbound,2025,96.0,False
+Sydney,Colombo,Freight_tonnes,Outbound,2024,39.9,False
+Sydney,Colombo,Freight_tonnes,Outbound,2025,104.9,False
+Sydney,Colombo,Passengers,Inbound,2024,2986.0,False
+Sydney,Colombo,Passengers,Inbound,2025,4454.0,False
+Sydney,Colombo,Passengers,Outbound,2024,2512.0,False
+Sydney,Colombo,Passengers,Outbound,2025,4084.0,False
+Sydney,Dallas,Freight_tonnes,Inbound,2024,80.5,False
+Sydney,Dallas,Freight_tonnes,Inbound,2025,73.6,False
+Sydney,Dallas,Freight_tonnes,Outbound,2024,3.5,False
+Sydney,Dallas,Freight_tonnes,Outbound,2025,1.1,False
+Sydney,Dallas,Passengers,Inbound,2024,5274.0,False
+Sydney,Dallas,Passengers,Inbound,2025,5758.0,False
+Sydney,Dallas,Passengers,Outbound,2024,6203.0,False
+Sydney,Dallas,Passengers,Outbound,2025,5925.0,False
+Sydney,Denpasar,Freight_tonnes,Inbound,2024,302.1,False
+Sydney,Denpasar,Freight_tonnes,Inbound,2025,401.2,False
+Sydney,Denpasar,Freight_tonnes,Outbound,2024,236.7,False
+Sydney,Denpasar,Freight_tonnes,Outbound,2025,171.4,False
+Sydney,Denpasar,Passengers,Inbound,2024,35058.0,False
+Sydney,Denpasar,Passengers,Inbound,2025,35985.0,False
+Sydney,Denpasar,Passengers,Outbound,2024,36716.0,False
+Sydney,Denpasar,Passengers,Outbound,2025,36804.0,False
+Sydney,Doha,Freight_tonnes,Inbound,2024,745.6,False
+Sydney,Doha,Freight_tonnes,Inbound,2025,170.5,False
+Sydney,Doha,Freight_tonnes,Outbound,2024,222.9,False
+Sydney,Doha,Freight_tonnes,Outbound,2025,179.1,False
+Sydney,Doha,Passengers,Inbound,2024,11790.0,False
+Sydney,Doha,Passengers,Inbound,2025,12740.0,False
+Sydney,Doha,Passengers,Outbound,2024,15419.0,False
+Sydney,Doha,Passengers,Outbound,2025,15909.0,False
+Sydney,Dubai,Freight_tonnes,Inbound,2024,1103.8,False
+Sydney,Dubai,Freight_tonnes,Inbound,2025,1068.2,False
+Sydney,Dubai,Freight_tonnes,Outbound,2024,706.0,False
+Sydney,Dubai,Freight_tonnes,Outbound,2025,754.2,False
+Sydney,Dubai,Passengers,Inbound,2024,26998.0,False
+Sydney,Dubai,Passengers,Inbound,2025,28390.0,False
+Sydney,Dubai,Passengers,Outbound,2024,39256.0,False
+Sydney,Dubai,Passengers,Outbound,2025,39811.0,False
+Sydney,Gaborone,Freight_tonnes,Inbound,2024,0.0,False
+Sydney,Gaborone,Freight_tonnes,Inbound,2025,0.0,False
+Sydney,Gaborone,Freight_tonnes,Outbound,2024,67.5,False
+Sydney,Gaborone,Freight_tonnes,Outbound,2025,0.0,False
+Sydney,Gaborone,Passengers,Inbound,2024,0.0,False
+Sydney,Gaborone,Passengers,Inbound,2025,0.0,False
+Sydney,Gaborone,Passengers,Outbound,2024,0.0,False
+Sydney,Gaborone,Passengers,Outbound,2025,0.0,False
+Sydney,Guangzhou,Freight_tonnes,Inbound,2024,717.7,False
+Sydney,Guangzhou,Freight_tonnes,Inbound,2025,1853.8,False
+Sydney,Guangzhou,Freight_tonnes,Outbound,2024,1275.9,False
+Sydney,Guangzhou,Freight_tonnes,Outbound,2025,723.3,False
+Sydney,Guangzhou,Passengers,Inbound,2024,15180.0,False
+Sydney,Guangzhou,Passengers,Inbound,2025,14730.0,False
+Sydney,Guangzhou,Passengers,Outbound,2024,16769.0,False
+Sydney,Guangzhou,Passengers,Outbound,2025,15828.0,False
+Sydney,Haikou,Freight_tonnes,Inbound,2024,147.4,False
+Sydney,Haikou,Freight_tonnes,Inbound,2025,293.1,False
+Sydney,Haikou,Freight_tonnes,Outbound,2024,45.8,False
+Sydney,Haikou,Freight_tonnes,Outbound,2025,15.8,False
+Sydney,Haikou,Passengers,Inbound,2024,2774.0,False
+Sydney,Haikou,Passengers,Inbound,2025,3166.0,False
+Sydney,Haikou,Passengers,Outbound,2024,3495.0,False
+Sydney,Haikou,Passengers,Outbound,2025,3754.0,False
+Sydney,Hangzhou,Freight_tonnes,Inbound,2024,41.8,False
+Sydney,Hangzhou,Freight_tonnes,Inbound,2025,41.2,False
+Sydney,Hangzhou,Freight_tonnes,Outbound,2024,3.5,False
+Sydney,Hangzhou,Freight_tonnes,Outbound,2025,0.0,False
+Sydney,Hangzhou,Passengers,Inbound,2024,1080.0,False
+Sydney,Hangzhou,Passengers,Inbound,2025,1161.0,False
+Sydney,Hangzhou,Passengers,Outbound,2024,984.0,False
+Sydney,Hangzhou,Passengers,Outbound,2025,1036.0,False
+Sydney,Hanoi,Freight_tonnes,Inbound,2024,124.8,False
+Sydney,Hanoi,Freight_tonnes,Inbound,2025,256.9,False
+Sydney,Hanoi,Freight_tonnes,Outbound,2024,64.6,False
+Sydney,Hanoi,Freight_tonnes,Outbound,2025,63.0,False
+Sydney,Hanoi,Passengers,Inbound,2024,2398.0,False
+Sydney,Hanoi,Passengers,Inbound,2025,4666.0,False
+Sydney,Hanoi,Passengers,Outbound,2024,2701.0,False
+Sydney,Hanoi,Passengers,Outbound,2025,4468.0,False
+Sydney,Ho Chi Minh City,Freight_tonnes,Inbound,2024,606.4,False
+Sydney,Ho Chi Minh City,Freight_tonnes,Inbound,2025,554.6,False
+Sydney,Ho Chi Minh City,Freight_tonnes,Outbound,2024,147.1,False
+Sydney,Ho Chi Minh City,Freight_tonnes,Outbound,2025,84.3,False
+Sydney,Ho Chi Minh City,Passengers,Inbound,2024,14677.0,False
+Sydney,Ho Chi Minh City,Passengers,Inbound,2025,15942.0,False
+Sydney,Ho Chi Minh City,Passengers,Outbound,2024,14139.0,False
+Sydney,Ho Chi Minh City,Passengers,Outbound,2025,14903.0,False
+Sydney,Hong Kong,Freight_tonnes,Inbound,2024,4137.0,False
+Sydney,Hong Kong,Freight_tonnes,Inbound,2025,3531.8,False
+Sydney,Hong Kong,Freight_tonnes,Outbound,2024,1551.8,False
+Sydney,Hong Kong,Freight_tonnes,Outbound,2025,1105.2,False
+Sydney,Hong Kong,Passengers,Inbound,2024,25967.0,False
+Sydney,Hong Kong,Passengers,Inbound,2025,35823.0,False
+Sydney,Hong Kong,Passengers,Outbound,2024,28926.0,False
+Sydney,Hong Kong,Passengers,Outbound,2025,37598.0,False
+Sydney,Honolulu,Freight_tonnes,Inbound,2024,2056.9,False
+Sydney,Honolulu,Freight_tonnes,Inbound,2025,1987.7,False
+Sydney,Honolulu,Freight_tonnes,Outbound,2024,386.0,False
+Sydney,Honolulu,Freight_tonnes,Outbound,2025,273.9,False
+Sydney,Honolulu,Passengers,Inbound,2024,13557.0,False
+Sydney,Honolulu,Passengers,Inbound,2025,12876.0,False
+Sydney,Honolulu,Passengers,Outbound,2024,11542.0,False
+Sydney,Honolulu,Passengers,Outbound,2025,11188.0,False
+Sydney,Istanbul,Freight_tonnes,Inbound,2024,0.0,False
+Sydney,Istanbul,Freight_tonnes,Inbound,2025,143.8,False
+Sydney,Istanbul,Freight_tonnes,Outbound,2024,0.0,False
+Sydney,Istanbul,Freight_tonnes,Outbound,2025,112.7,False
+Sydney,Istanbul,Passengers,Inbound,2024,0.0,False
+Sydney,Istanbul,Passengers,Inbound,2025,2445.0,False
+Sydney,Istanbul,Passengers,Outbound,2024,0.0,False
+Sydney,Istanbul,Passengers,Outbound,2025,4077.0,False
+Sydney,Jakarta,Freight_tonnes,Inbound,2024,321.0,False
+Sydney,Jakarta,Freight_tonnes,Inbound,2025,234.5,False
+Sydney,Jakarta,Freight_tonnes,Outbound,2024,363.0,False
+Sydney,Jakarta,Freight_tonnes,Outbound,2025,75.8,False
+Sydney,Jakarta,Passengers,Inbound,2024,9358.0,False
+Sydney,Jakarta,Passengers,Inbound,2025,7867.0,False
+Sydney,Jakarta,Passengers,Outbound,2024,10246.0,False
+Sydney,Jakarta,Passengers,Outbound,2025,7449.0,False
+Sydney,Jinan,Freight_tonnes,Inbound,2024,139.2,False
+Sydney,Jinan,Freight_tonnes,Inbound,2025,109.3,False
+Sydney,Jinan,Freight_tonnes,Outbound,2024,2.6,False
+Sydney,Jinan,Freight_tonnes,Outbound,2025,0.3,False
+Sydney,Jinan,Passengers,Inbound,2024,1271.0,False
+Sydney,Jinan,Passengers,Inbound,2025,935.0,False
+Sydney,Jinan,Passengers,Outbound,2024,738.0,False
+Sydney,Jinan,Passengers,Outbound,2025,851.0,False
+Sydney,Johannesburg,Freight_tonnes,Inbound,2024,76.3,False
+Sydney,Johannesburg,Freight_tonnes,Inbound,2025,90.1,False
+Sydney,Johannesburg,Freight_tonnes,Outbound,2024,10.2,False
+Sydney,Johannesburg,Freight_tonnes,Outbound,2025,2.7,False
+Sydney,Johannesburg,Passengers,Inbound,2024,4922.0,False
+Sydney,Johannesburg,Passengers,Inbound,2025,6655.0,False
+Sydney,Johannesburg,Passengers,Outbound,2024,5151.0,False
+Sydney,Johannesburg,Passengers,Outbound,2025,6781.0,False
+Sydney,Kuala Lumpur,Freight_tonnes,Inbound,2024,1310.5,False
+Sydney,Kuala Lumpur,Freight_tonnes,Inbound,2025,1430.9,False
+Sydney,Kuala Lumpur,Freight_tonnes,Outbound,2024,668.3,False
+Sydney,Kuala Lumpur,Freight_tonnes,Outbound,2025,399.4,False
+Sydney,Kuala Lumpur,Passengers,Inbound,2024,18110.0,False
+Sydney,Kuala Lumpur,Passengers,Inbound,2025,18929.0,False
+Sydney,Kuala Lumpur,Passengers,Outbound,2024,17448.0,False
+Sydney,Kuala Lumpur,Passengers,Outbound,2025,17598.0,False
+Sydney,London,Freight_tonnes,Inbound,2024,297.8,False
+Sydney,London,Freight_tonnes,Inbound,2025,300.8,False
+Sydney,London,Freight_tonnes,Outbound,2024,48.0,False
+Sydney,London,Freight_tonnes,Outbound,2025,28.4,False
+Sydney,London,Passengers,Inbound,2024,9026.0,False
+Sydney,London,Passengers,Inbound,2025,7906.0,False
+Sydney,London,Passengers,Outbound,2024,11364.0,False
+Sydney,London,Passengers,Outbound,2025,10665.0,False
+Sydney,Los Angeles,Freight_tonnes,Inbound,2024,931.7,False
+Sydney,Los Angeles,Freight_tonnes,Inbound,2025,1239.4,False
+Sydney,Los Angeles,Freight_tonnes,Outbound,2024,1394.2,False
+Sydney,Los Angeles,Freight_tonnes,Outbound,2025,911.8,False
+Sydney,Los Angeles,Passengers,Inbound,2024,29100.0,False
+Sydney,Los Angeles,Passengers,Inbound,2025,30505.0,False
+Sydney,Los Angeles,Passengers,Outbound,2024,28225.0,False
+Sydney,Los Angeles,Passengers,Outbound,2025,27416.0,False
+Sydney,Louisville,Freight_tonnes,Inbound,2024,1219.1,False
+Sydney,Louisville,Freight_tonnes,Inbound,2025,1215.8,False
+Sydney,Louisville,Freight_tonnes,Outbound,2024,0.0,False
+Sydney,Louisville,Freight_tonnes,Outbound,2025,0.0,False
+Sydney,Louisville,Passengers,Inbound,2024,0.0,False
+Sydney,Louisville,Passengers,Inbound,2025,0.0,False
+Sydney,Louisville,Passengers,Outbound,2024,0.0,False
+Sydney,Louisville,Passengers,Outbound,2025,0.0,False
+Sydney,Manila,Freight_tonnes,Inbound,2024,511.6,False
+Sydney,Manila,Freight_tonnes,Inbound,2025,760.8,False
+Sydney,Manila,Freight_tonnes,Outbound,2024,354.7,False
+Sydney,Manila,Freight_tonnes,Outbound,2025,301.0,False
+Sydney,Manila,Passengers,Inbound,2024,17882.0,False
+Sydney,Manila,Passengers,Inbound,2025,20666.0,False
+Sydney,Manila,Passengers,Outbound,2024,16627.0,False
+Sydney,Manila,Passengers,Outbound,2025,18006.0,False
+Sydney,Nadi,Freight_tonnes,Inbound,2024,271.9,False
+Sydney,Nadi,Freight_tonnes,Inbound,2025,323.0,False
+Sydney,Nadi,Freight_tonnes,Outbound,2024,363.0,False
+Sydney,Nadi,Freight_tonnes,Outbound,2025,310.2,False
+Sydney,Nadi,Passengers,Inbound,2024,24052.0,False
+Sydney,Nadi,Passengers,Inbound,2025,24551.0,False
+Sydney,Nadi,Passengers,Outbound,2024,24207.0,False
+Sydney,Nadi,Passengers,Outbound,2025,24282.0,False
+Sydney,Nanjing,Freight_tonnes,Inbound,2024,212.9,False
+Sydney,Nanjing,Freight_tonnes,Inbound,2025,184.2,False
+Sydney,Nanjing,Freight_tonnes,Outbound,2024,2.3,False
+Sydney,Nanjing,Freight_tonnes,Outbound,2025,6.7,False
+Sydney,Nanjing,Passengers,Inbound,2024,1801.0,False
+Sydney,Nanjing,Passengers,Inbound,2025,1927.0,False
+Sydney,Nanjing,Passengers,Outbound,2024,1772.0,False
+Sydney,Nanjing,Passengers,Outbound,2025,1729.0,False
+Sydney,New Delhi,Freight_tonnes,Inbound,2024,102.3,False
+Sydney,New Delhi,Freight_tonnes,Inbound,2025,247.2,False
+Sydney,New Delhi,Freight_tonnes,Outbound,2024,252.5,False
+Sydney,New Delhi,Freight_tonnes,Outbound,2025,227.6,False
+Sydney,New Delhi,Passengers,Inbound,2024,6930.0,False
+Sydney,New Delhi,Passengers,Inbound,2025,7065.0,False
+Sydney,New Delhi,Passengers,Outbound,2024,6284.0,False
+Sydney,New Delhi,Passengers,Outbound,2025,6470.0,False
+Sydney,New York,Freight_tonnes,Inbound,2024,190.0,False
+Sydney,New York,Freight_tonnes,Inbound,2025,109.3,False
+Sydney,New York,Freight_tonnes,Outbound,2024,6.8,False
+Sydney,New York,Freight_tonnes,Outbound,2025,6.0,False
+Sydney,New York,Passengers,Inbound,2024,1311.0,False
+Sydney,New York,Passengers,Inbound,2025,1481.0,False
+Sydney,New York,Passengers,Outbound,2024,1395.0,False
+Sydney,New York,Passengers,Outbound,2025,1470.0,False
+Sydney,Noumea,Freight_tonnes,Inbound,2024,0.4,False
+Sydney,Noumea,Freight_tonnes,Inbound,2025,3.5,False
+Sydney,Noumea,Freight_tonnes,Outbound,2024,24.0,False
+Sydney,Noumea,Freight_tonnes,Outbound,2025,42.7,False
+Sydney,Noumea,Passengers,Inbound,2024,1565.0,False
+Sydney,Noumea,Passengers,Inbound,2025,3141.0,False
+Sydney,Noumea,Passengers,Outbound,2024,1465.0,False
+Sydney,Noumea,Passengers,Outbound,2025,2592.0,False
+Sydney,Osaka,Freight_tonnes,Inbound,2024,33.8,False
+Sydney,Osaka,Freight_tonnes,Inbound,2025,104.0,False
+Sydney,Osaka,Freight_tonnes,Outbound,2024,3.2,False
+Sydney,Osaka,Freight_tonnes,Outbound,2025,18.9,False
+Sydney,Osaka,Passengers,Inbound,2024,3173.0,False
+Sydney,Osaka,Passengers,Inbound,2025,3839.0,False
+Sydney,Osaka,Passengers,Outbound,2024,3433.0,False
+Sydney,Osaka,Passengers,Outbound,2025,4149.0,False
+Sydney,Paris,Freight_tonnes,Inbound,2024,0.0,False
+Sydney,Paris,Freight_tonnes,Inbound,2025,33.6,False
+Sydney,Paris,Freight_tonnes,Outbound,2024,0.0,False
+Sydney,Paris,Freight_tonnes,Outbound,2025,0.1,False
+Sydney,Paris,Passengers,Inbound,2024,0.0,False
+Sydney,Paris,Passengers,Inbound,2025,485.0,False
+Sydney,Paris,Passengers,Outbound,2024,0.0,False
+Sydney,Paris,Passengers,Outbound,2025,865.0,False
+Sydney,Phuket,Freight_tonnes,Inbound,2024,97.8,False
+Sydney,Phuket,Freight_tonnes,Inbound,2025,109.0,False
+Sydney,Phuket,Freight_tonnes,Outbound,2024,0.3,False
+Sydney,Phuket,Freight_tonnes,Outbound,2025,0.1,False
+Sydney,Phuket,Passengers,Inbound,2024,4079.0,False
+Sydney,Phuket,Passengers,Inbound,2025,4128.0,False
+Sydney,Phuket,Passengers,Outbound,2024,4117.0,False
+Sydney,Phuket,Passengers,Outbound,2025,4026.0,False
+Sydney,Port Moresby,Freight_tonnes,Inbound,2024,0.3,False
+Sydney,Port Moresby,Freight_tonnes,Inbound,2025,0.5,False
+Sydney,Port Moresby,Freight_tonnes,Outbound,2024,1.6,False
+Sydney,Port Moresby,Freight_tonnes,Outbound,2025,2.8,False
+Sydney,Port Moresby,Passengers,Inbound,2024,1026.0,False
+Sydney,Port Moresby,Passengers,Inbound,2025,585.0,False
+Sydney,Port Moresby,Passengers,Outbound,2024,943.0,False
+Sydney,Port Moresby,Passengers,Outbound,2025,432.0,False
+Sydney,Port Vila,Freight_tonnes,Inbound,2024,0.3,False
+Sydney,Port Vila,Freight_tonnes,Inbound,2025,0.3,False
+Sydney,Port Vila,Freight_tonnes,Outbound,2024,0.5,False
+Sydney,Port Vila,Freight_tonnes,Outbound,2025,5.0,False
+Sydney,Port Vila,Passengers,Inbound,2024,384.0,False
+Sydney,Port Vila,Passengers,Inbound,2025,2048.0,False
+Sydney,Port Vila,Passengers,Outbound,2024,509.0,False
+Sydney,Port Vila,Passengers,Outbound,2025,2078.0,False
+Sydney,Qingdao,Freight_tonnes,Inbound,2024,101.1,False
+Sydney,Qingdao,Freight_tonnes,Inbound,2025,122.8,False
+Sydney,Qingdao,Freight_tonnes,Outbound,2024,22.4,False
+Sydney,Qingdao,Freight_tonnes,Outbound,2025,11.4,False
+Sydney,Qingdao,Passengers,Inbound,2024,1141.0,False
+Sydney,Qingdao,Passengers,Inbound,2025,1689.0,False
+Sydney,Qingdao,Passengers,Outbound,2024,1009.0,False
+Sydney,Qingdao,Passengers,Outbound,2025,2037.0,False
+Sydney,Queenstown,Freight_tonnes,Inbound,2024,0.0,False
+Sydney,Queenstown,Freight_tonnes,Inbound,2025,0.0,False
+Sydney,Queenstown,Freight_tonnes,Outbound,2024,0.0,False
+Sydney,Queenstown,Freight_tonnes,Outbound,2025,0.1,False
+Sydney,Queenstown,Passengers,Inbound,2024,11850.0,False
+Sydney,Queenstown,Passengers,Inbound,2025,12310.0,False
+Sydney,Queenstown,Passengers,Outbound,2024,10214.0,False
+Sydney,Queenstown,Passengers,Outbound,2025,10552.0,False
+Sydney,Rarotonga,Freight_tonnes,Inbound,2024,0.0,False
+Sydney,Rarotonga,Freight_tonnes,Inbound,2025,0.0,False
+Sydney,Rarotonga,Freight_tonnes,Outbound,2024,0.0,False
+Sydney,Rarotonga,Freight_tonnes,Outbound,2025,0.1,False
+Sydney,Rarotonga,Passengers,Inbound,2024,2786.0,False
+Sydney,Rarotonga,Passengers,Inbound,2025,3312.0,False
+Sydney,Rarotonga,Passengers,Outbound,2024,2936.0,False
+Sydney,Rarotonga,Passengers,Outbound,2025,3407.0,False
+Sydney,San Francisco,Freight_tonnes,Inbound,2024,357.0,False
+Sydney,San Francisco,Freight_tonnes,Inbound,2025,190.2,False
+Sydney,San Francisco,Freight_tonnes,Outbound,2024,425.9,False
+Sydney,San Francisco,Freight_tonnes,Outbound,2025,130.4,False
+Sydney,San Francisco,Passengers,Inbound,2024,7797.0,False
+Sydney,San Francisco,Passengers,Inbound,2025,8039.0,False
+Sydney,San Francisco,Passengers,Outbound,2024,8319.0,False
+Sydney,San Francisco,Passengers,Outbound,2025,8676.0,False
+Sydney,Santiago,Freight_tonnes,Inbound,2024,362.2,False
+Sydney,Santiago,Freight_tonnes,Inbound,2025,141.9,False
+Sydney,Santiago,Freight_tonnes,Outbound,2024,207.8,False
+Sydney,Santiago,Freight_tonnes,Outbound,2025,263.6,False
+Sydney,Santiago,Passengers,Inbound,2024,6548.0,False
+Sydney,Santiago,Passengers,Inbound,2025,8683.0,False
+Sydney,Santiago,Passengers,Outbound,2024,6451.0,False
+Sydney,Santiago,Passengers,Outbound,2025,8170.0,False
+Sydney,Seoul,Freight_tonnes,Inbound,2024,908.8,False
+Sydney,Seoul,Freight_tonnes,Inbound,2025,976.3,False
+Sydney,Seoul,Freight_tonnes,Outbound,2024,356.8,False
+Sydney,Seoul,Freight_tonnes,Outbound,2025,319.2,False
+Sydney,Seoul,Passengers,Inbound,2024,28318.0,False
+Sydney,Seoul,Passengers,Inbound,2025,24648.0,False
+Sydney,Seoul,Passengers,Outbound,2024,28476.0,False
+Sydney,Seoul,Passengers,Outbound,2025,25338.0,False
+Sydney,Shanghai,Freight_tonnes,Inbound,2024,962.9,False
+Sydney,Shanghai,Freight_tonnes,Inbound,2025,1023.4,False
+Sydney,Shanghai,Freight_tonnes,Outbound,2024,653.4,False
+Sydney,Shanghai,Freight_tonnes,Outbound,2025,742.6,False
+Sydney,Shanghai,Passengers,Inbound,2024,14581.0,False
+Sydney,Shanghai,Passengers,Inbound,2025,16605.0,False
+Sydney,Shanghai,Passengers,Outbound,2024,15366.0,False
+Sydney,Shanghai,Passengers,Outbound,2025,17520.0,False
+Sydney,Shenzhen,Freight_tonnes,Inbound,2024,346.8,False
+Sydney,Shenzhen,Freight_tonnes,Inbound,2025,376.0,False
+Sydney,Shenzhen,Freight_tonnes,Outbound,2024,176.5,False
+Sydney,Shenzhen,Freight_tonnes,Outbound,2025,100.3,False
+Sydney,Shenzhen,Passengers,Inbound,2024,2654.0,False
+Sydney,Shenzhen,Passengers,Inbound,2025,3532.0,False
+Sydney,Shenzhen,Passengers,Outbound,2024,2759.0,False
+Sydney,Shenzhen,Passengers,Outbound,2025,3503.0,False
+Sydney,Singapore,Freight_tonnes,Inbound,2024,3876.8,False
+Sydney,Singapore,Freight_tonnes,Inbound,2025,3947.4,False
+Sydney,Singapore,Freight_tonnes,Outbound,2024,2376.6,False
+Sydney,Singapore,Freight_tonnes,Outbound,2025,1940.5,False
+Sydney,Singapore,Passengers,Inbound,2024,64256.0,False
+Sydney,Singapore,Passengers,Inbound,2025,63176.0,False
+Sydney,Singapore,Passengers,Outbound,2024,65485.0,False
+Sydney,Singapore,Passengers,Outbound,2025,64086.0,False
+Sydney,Taipei,Freight_tonnes,Inbound,2024,263.9,False
+Sydney,Taipei,Freight_tonnes,Inbound,2025,190.9,False
+Sydney,Taipei,Freight_tonnes,Outbound,2024,103.0,False
+Sydney,Taipei,Freight_tonnes,Outbound,2025,98.4,False
+Sydney,Taipei,Passengers,Inbound,2024,3973.0,False
+Sydney,Taipei,Passengers,Inbound,2025,4444.0,False
+Sydney,Taipei,Passengers,Outbound,2024,4790.0,False
+Sydney,Taipei,Passengers,Outbound,2025,4782.0,False
+Sydney,Taiyuan,Freight_tonnes,Inbound,2024,0.0,False
+Sydney,Taiyuan,Freight_tonnes,Inbound,2025,0.0,False
+Sydney,Taiyuan,Freight_tonnes,Outbound,2024,0.0,False
+Sydney,Taiyuan,Freight_tonnes,Outbound,2025,0.0,False
+Sydney,Taiyuan,Passengers,Inbound,2024,49.0,False
+Sydney,Taiyuan,Passengers,Inbound,2025,0.0,False
+Sydney,Taiyuan,Passengers,Outbound,2024,17.0,False
+Sydney,Taiyuan,Passengers,Outbound,2025,0.0,False
+Sydney,Tianjin,Freight_tonnes,Inbound,2024,0.0,False
+Sydney,Tianjin,Freight_tonnes,Inbound,2025,0.0,False
+Sydney,Tianjin,Freight_tonnes,Outbound,2024,14.0,False
+Sydney,Tianjin,Freight_tonnes,Outbound,2025,0.0,False
+Sydney,Tianjin,Passengers,Inbound,2024,192.0,False
+Sydney,Tianjin,Passengers,Inbound,2025,125.0,False
+Sydney,Tianjin,Passengers,Outbound,2024,168.0,False
+Sydney,Tianjin,Passengers,Outbound,2025,203.0,False
+Sydney,Tokyo,Freight_tonnes,Inbound,2024,1255.1,False
+Sydney,Tokyo,Freight_tonnes,Inbound,2025,1277.3,False
+Sydney,Tokyo,Freight_tonnes,Outbound,2024,354.5,False
+Sydney,Tokyo,Freight_tonnes,Outbound,2025,426.2,False
+Sydney,Tokyo,Passengers,Inbound,2024,28132.0,False
+Sydney,Tokyo,Passengers,Inbound,2025,30730.0,False
+Sydney,Tokyo,Passengers,Outbound,2024,30189.0,False
+Sydney,Tokyo,Passengers,Outbound,2025,30808.0,False
+Sydney,Tongatapu,Freight_tonnes,Inbound,2024,0.0,False
+Sydney,Tongatapu,Freight_tonnes,Inbound,2025,0.0,False
+Sydney,Tongatapu,Freight_tonnes,Outbound,2024,0.2,False
+Sydney,Tongatapu,Freight_tonnes,Outbound,2025,0.4,False
+Sydney,Tongatapu,Passengers,Inbound,2024,483.0,False
+Sydney,Tongatapu,Passengers,Inbound,2025,721.0,False
+Sydney,Tongatapu,Passengers,Outbound,2024,558.0,False
+Sydney,Tongatapu,Passengers,Outbound,2025,985.0,False
+Sydney,Toronto,Freight_tonnes,Inbound,2024,76.6,False
+Sydney,Toronto,Freight_tonnes,Inbound,2025,13.3,False
+Sydney,Toronto,Freight_tonnes,Outbound,2024,172.0,False
+Sydney,Toronto,Freight_tonnes,Outbound,2025,0.0,False
+Sydney,Toronto,Passengers,Inbound,2024,1368.0,False
+Sydney,Toronto,Passengers,Inbound,2025,1123.0,False
+Sydney,Toronto,Passengers,Outbound,2024,1207.0,False
+Sydney,Toronto,Passengers,Outbound,2025,1347.0,False
+Sydney,Vancouver,Freight_tonnes,Inbound,2024,151.9,False
+Sydney,Vancouver,Freight_tonnes,Inbound,2025,212.2,False
+Sydney,Vancouver,Freight_tonnes,Outbound,2024,168.3,False
+Sydney,Vancouver,Freight_tonnes,Outbound,2025,300.7,False
+Sydney,Vancouver,Passengers,Inbound,2024,8472.0,False
+Sydney,Vancouver,Passengers,Inbound,2025,8930.0,False
+Sydney,Vancouver,Passengers,Outbound,2024,9539.0,False
+Sydney,Vancouver,Passengers,Outbound,2025,9715.0,False
+Sydney,Wellington,Freight_tonnes,Inbound,2024,16.0,False
+Sydney,Wellington,Freight_tonnes,Inbound,2025,5.4,False
+Sydney,Wellington,Freight_tonnes,Outbound,2024,10.2,False
+Sydney,Wellington,Freight_tonnes,Outbound,2025,6.1,False
+Sydney,Wellington,Passengers,Inbound,2024,10576.0,False
+Sydney,Wellington,Passengers,Inbound,2025,10005.0,False
+Sydney,Wellington,Passengers,Outbound,2024,8818.0,False
+Sydney,Wellington,Passengers,Outbound,2025,8609.0,False
+Sydney,Wuhan,Freight_tonnes,Inbound,2024,98.0,False
+Sydney,Wuhan,Freight_tonnes,Inbound,2025,69.6,False
+Sydney,Wuhan,Freight_tonnes,Outbound,2024,1.8,False
+Sydney,Wuhan,Freight_tonnes,Outbound,2025,3.1,False
+Sydney,Wuhan,Passengers,Inbound,2024,1548.0,False
+Sydney,Wuhan,Passengers,Inbound,2025,1682.0,False
+Sydney,Wuhan,Passengers,Outbound,2024,1343.0,False
+Sydney,Wuhan,Passengers,Outbound,2025,1265.0,False
+Sydney,Xi'an,Freight_tonnes,Inbound,2024,29.0,False
+Sydney,Xi'an,Freight_tonnes,Inbound,2025,29.9,False
+Sydney,Xi'an,Freight_tonnes,Outbound,2024,6.4,False
+Sydney,Xi'an,Freight_tonnes,Outbound,2025,156.1,False
+Sydney,Xi'an,Passengers,Inbound,2024,424.0,False
+Sydney,Xi'an,Passengers,Inbound,2025,939.0,False
+Sydney,Xi'an,Passengers,Outbound,2024,391.0,False
+Sydney,Xi'an,Passengers,Outbound,2025,688.0,False
+Sydney,Xiamen,Freight_tonnes,Inbound,2024,362.0,False
+Sydney,Xiamen,Freight_tonnes,Inbound,2025,373.5,False
+Sydney,Xiamen,Freight_tonnes,Outbound,2024,142.1,False
+Sydney,Xiamen,Freight_tonnes,Outbound,2025,229.8,False
+Sydney,Xiamen,Passengers,Inbound,2024,6292.0,False
+Sydney,Xiamen,Passengers,Inbound,2025,6192.0,False
+Sydney,Xiamen,Passengers,Outbound,2024,6408.0,False
+Sydney,Xiamen,Passengers,Outbound,2025,6308.0,False
+Sydney,Zhengzhou,Freight_tonnes,Inbound,2024,61.9,False
+Sydney,Zhengzhou,Freight_tonnes,Inbound,2025,38.7,False
+Sydney,Zhengzhou,Freight_tonnes,Outbound,2024,14.3,False
+Sydney,Zhengzhou,Freight_tonnes,Outbound,2025,3.6,False
+Sydney,Zhengzhou,Passengers,Inbound,2024,1184.0,False
+Sydney,Zhengzhou,Passengers,Inbound,2025,956.0,False
+Sydney,Zhengzhou,Passengers,Outbound,2024,986.0,False
+Sydney,Zhengzhou,Passengers,Outbound,2025,942.0,False
+Toowoomba Wellcamp,Hong Kong,Freight_tonnes,Inbound,2024,52.2,False
+Toowoomba Wellcamp,Hong Kong,Freight_tonnes,Inbound,2025,19.9,False
+Toowoomba Wellcamp,Hong Kong,Freight_tonnes,Outbound,2024,91.1,False
+Toowoomba Wellcamp,Hong Kong,Freight_tonnes,Outbound,2025,65.5,False
+Toowoomba Wellcamp,Hong Kong,Passengers,Inbound,2024,0.0,False
+Toowoomba Wellcamp,Hong Kong,Passengers,Inbound,2025,0.0,False
+Toowoomba Wellcamp,Hong Kong,Passengers,Outbound,2024,0.0,False
+Toowoomba Wellcamp,Hong Kong,Passengers,Outbound,2025,0.0,False

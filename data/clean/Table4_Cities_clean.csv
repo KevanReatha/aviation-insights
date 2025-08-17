@@ -1,0 +1,37 @@
+City,Indicator,Inbound_2024,Inbound_2025,Inbound_Perc_Change,Outbound_2024,Outbound_2025,Outbound_Perc_Change,Inbound_Perc_Change_0_1,Outbound_Perc_Change_0_1
+Adelaide,Passengers,35227.0,44413.0,26.1,37267.0,46353.0,24.4,0.261,0.244
+Adelaide,Freight (Tonnes),538.9,905.4,68.0,644.7,1483.3,130.1,0.68,1.301
+Adelaide,Aircraft Movements,201.0,255.0,26.9,199.0,258.0,29.6,0.26899999999999996,0.29600000000000004
+Brisbane,Passengers,221626.0,261414.0,18.0,231012.0,262439.0,13.6,0.18,0.136
+Brisbane,Freight (Tonnes),4767.8,5579.5,17.0,4205.0,4693.3,11.6,0.17,0.11599999999999999
+Brisbane,Aircraft Movements,1206.0,1353.0,12.0,1204.0,1351.0,12.0,0.12,0.12
+Broome,Passengers,,623.0,,,665.0,,,
+Broome,Freight (Tonnes),,,,,,,,
+Broome,Aircraft Movements,,9.0,,,9.0,,,
+Cairns,Passengers,20443.0,25189.0,23.2,23586.0,26296.0,11.5,0.23199999999999998,0.115
+Cairns,Freight (Tonnes),36.8,49.9,35.8,181.3,189.0,4.3,0.358,0.043
+Cairns,Aircraft Movements,160.0,192.0,20.0,160.0,193.0,20.6,0.2,0.20600000000000002
+Canberra,Passengers,1048.0,1337.0,27.6,1085.0,1280.0,18.0,0.276,0.18
+Canberra,Freight (Tonnes),0.6,0.0,-100.0,,0.1,,-1.0,
+Canberra,Aircraft Movements,9.0,13.0,44.4,9.0,13.0,44.4,0.444,0.444
+Darwin,Passengers,8842.0,11170.0,26.3,8847.0,11190.0,26.5,0.263,0.265
+Darwin,Freight (Tonnes),19.4,20.2,4.1,5.1,5.9,15.1,0.040999999999999995,0.151
+Darwin,Aircraft Movements,83.0,119.0,43.4,82.0,112.0,36.6,0.434,0.366
+Gold Coast,Passengers,22701.0,23636.0,4.1,21933.0,22040.0,0.5,0.040999999999999995,0.005
+Gold Coast,Freight (Tonnes),2.5,2.0,-17.6,0.7,1.1,57.9,-0.17600000000000002,0.579
+Gold Coast,Aircraft Movements,146.0,140.0,-4.1,147.0,139.0,-5.4,-0.040999999999999995,-0.054000000000000006
+Melbourne,Passengers,393502.0,449863.0,14.3,425979.0,460578.0,8.1,0.14300000000000002,0.081
+Melbourne,Freight (Tonnes),14090.6,14373.1,2.0,12732.1,11472.1,-9.9,0.02,-0.099
+Melbourne,Aircraft Movements,2136.0,2248.0,5.2,2138.0,2254.0,5.4,0.052000000000000005,0.054000000000000006
+Perth,Passengers,170679.0,201195.0,17.9,186609.0,206834.0,10.8,0.179,0.10800000000000001
+Perth,Freight (Tonnes),4127.1,4332.5,5.0,4305.8,4113.2,-4.5,0.05,-0.045
+Perth,Aircraft Movements,1002.0,1061.0,5.9,1001.0,1068.0,6.7,0.059000000000000004,0.067
+Sunshine Coast,Passengers,,1576.0,,,1507.0,,,
+Sunshine Coast,Freight (Tonnes),,,,,,,,
+Sunshine Coast,Aircraft Movements,,13.0,,,13.0,,,
+Sydney,Passengers,599358.0,640137.0,6.8,617617.0,648323.0,5.0,0.068,0.05
+Sydney,Freight (Tonnes),29670.3,29630.4,-0.1,16398.1,13336.7,-18.7,-0.001,-0.187
+Sydney,Aircraft Movements,3221.0,3272.0,1.6,3202.0,3231.0,0.9,0.016,0.009000000000000001
+Toowoomba Wellcamp,Passengers,,,,,,,,
+Toowoomba Wellcamp,Freight (Tonnes),52.2,19.9,-61.9,91.1,65.5,-28.1,-0.619,-0.281
+Toowoomba Wellcamp,Aircraft Movements,4.0,4.0,0.0,4.0,4.0,0.0,0.0,0.0
