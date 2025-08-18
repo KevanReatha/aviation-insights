@@ -13,6 +13,9 @@ Thumbs.db
 *.zip
 *.pbix.autosave
 
-# Keep processed/clean and powerbi
+# --- keep these in git ---
+!data/
 !data/clean/
-!powerbi/
+!data/clean/**
+!data/powerbi/
+!data/powerbi/**
