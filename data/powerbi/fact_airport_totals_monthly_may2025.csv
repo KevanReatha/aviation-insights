@@ -23,17 +23,9 @@ Year,City,Metric,Direction,Value
 2025,Brisbane,Passengers,Inbound,261414.0
 2024,Brisbane,Passengers,Outbound,231012.0
 2025,Brisbane,Passengers,Outbound,262439.0
-2024,Broome,Aircraft_Movements,Inbound,
 2025,Broome,Aircraft_Movements,Inbound,9.0
-2024,Broome,Aircraft_Movements,Outbound,
 2025,Broome,Aircraft_Movements,Outbound,9.0
-2024,Broome,Freight_(Tonnes),Inbound,
-2025,Broome,Freight_(Tonnes),Inbound,
-2024,Broome,Freight_(Tonnes),Outbound,
-2025,Broome,Freight_(Tonnes),Outbound,
-2024,Broome,Passengers,Inbound,
 2025,Broome,Passengers,Inbound,623.0
-2024,Broome,Passengers,Outbound,
 2025,Broome,Passengers,Outbound,665.0
 2024,Cairns,Aircraft_Movements,Inbound,160.0
 2025,Cairns,Aircraft_Movements,Inbound,192.0
@@ -53,7 +45,6 @@ Year,City,Metric,Direction,Value
 2025,Canberra,Aircraft_Movements,Outbound,13.0
 2024,Canberra,Freight_(Tonnes),Inbound,0.6
 2025,Canberra,Freight_(Tonnes),Inbound,0.0
-2024,Canberra,Freight_(Tonnes),Outbound,
 2025,Canberra,Freight_(Tonnes),Outbound,0.1
 2024,Canberra,Passengers,Inbound,1048.0
 2025,Canberra,Passengers,Inbound,1337.0
@@ -107,17 +98,9 @@ Year,City,Metric,Direction,Value
 2025,Perth,Passengers,Inbound,201195.0
 2024,Perth,Passengers,Outbound,186609.0
 2025,Perth,Passengers,Outbound,206834.0
-2024,Sunshine Coast,Aircraft_Movements,Inbound,
 2025,Sunshine Coast,Aircraft_Movements,Inbound,13.0
-2024,Sunshine Coast,Aircraft_Movements,Outbound,
 2025,Sunshine Coast,Aircraft_Movements,Outbound,13.0
-2024,Sunshine Coast,Freight_(Tonnes),Inbound,
-2025,Sunshine Coast,Freight_(Tonnes),Inbound,
-2024,Sunshine Coast,Freight_(Tonnes),Outbound,
-2025,Sunshine Coast,Freight_(Tonnes),Outbound,
-2024,Sunshine Coast,Passengers,Inbound,
 2025,Sunshine Coast,Passengers,Inbound,1576.0
-2024,Sunshine Coast,Passengers,Outbound,
 2025,Sunshine Coast,Passengers,Outbound,1507.0
 2024,Sydney,Aircraft_Movements,Inbound,3221.0
 2025,Sydney,Aircraft_Movements,Inbound,3272.0
@@ -139,7 +122,3 @@ Year,City,Metric,Direction,Value
 2025,Toowoomba Wellcamp,Freight_(Tonnes),Inbound,19.9
 2024,Toowoomba Wellcamp,Freight_(Tonnes),Outbound,91.1
 2025,Toowoomba Wellcamp,Freight_(Tonnes),Outbound,65.5
-2024,Toowoomba Wellcamp,Passengers,Inbound,
-2025,Toowoomba Wellcamp,Passengers,Inbound,
-2024,Toowoomba Wellcamp,Passengers,Outbound,
-2025,Toowoomba Wellcamp,Passengers,Outbound,

@@ -55,8 +55,6 @@ Year,Month,Airline_Name,Country,Direction,Passengers,Freight_tonnes,Mail_tonnes,
 2025,5,Delta Air Lines,USA,Outbound,6488.0,256.5,,False
 2025,5,Emirates,ALL SERVICES,Inbound,89000.0,3125.3,7.6,True
 2025,5,Emirates,ALL SERVICES,Outbound,120457.0,3937.9,77.0,True
-2025,5,Emirates,Hong Kong (SAR),Inbound,,,,False
-2025,5,Emirates,Hong Kong (SAR),Outbound,,0.8,,False
 2025,5,Emirates,New Zealand,Inbound,5049.0,277.0,,False
 2025,5,Emirates,New Zealand,Outbound,3266.0,528.6,,False
 2025,5,Emirates,United Arab Emirates,Inbound,83951.0,2848.3,7.6,False
@@ -65,16 +63,6 @@ Year,Month,Airline_Name,Country,Direction,Passengers,Freight_tonnes,Mail_tonnes,
 2025,5,Etihad Airways,United Arab Emirates,Outbound,18928.0,541.0,21.4,False
 2025,5,Eva Air,Taiwan,Inbound,3623.0,220.5,0.8,False
 2025,5,Eva Air,Taiwan,Outbound,4072.0,186.4,,False
-2025,5,Federal Express Corporation,ALL SERVICES,Inbound,,2353.0,,True
-2025,5,Federal Express Corporation,ALL SERVICES,Outbound,,415.5,,True
-2025,5,Federal Express Corporation,China,Inbound,,,,False
-2025,5,Federal Express Corporation,China,Outbound,,415.5,,False
-2025,5,Federal Express Corporation,New Zealand,Inbound,,113.1,,False
-2025,5,Federal Express Corporation,New Zealand,Outbound,,,,False
-2025,5,Federal Express Corporation,Singapore,Inbound,,1284.6,,False
-2025,5,Federal Express Corporation,Singapore,Outbound,,,,False
-2025,5,Federal Express Corporation,USA,Inbound,,955.3,,False
-2025,5,Federal Express Corporation,USA,Outbound,,,,False
 2025,5,Fiji Airways,Fiji,Inbound,32258.0,451.2,0.8,False
 2025,5,Fiji Airways,Fiji,Outbound,32584.0,488.8,4.2,False
 2025,5,Garuda Indonesia,Indonesia,Inbound,12857.0,486.7,7.4,False
@@ -135,8 +123,6 @@ Year,Month,Airline_Name,Country,Direction,Passengers,Freight_tonnes,Mail_tonnes,
 2025,5,Nauru Airlines,ALL SERVICES,Outbound,872.0,109.3,3.6,True
 2025,5,Nauru Airlines,Nauru,Inbound,890.0,18.4,0.0,False
 2025,5,Nauru Airlines,Nauru,Outbound,872.0,71.4,3.6,False
-2025,5,Nauru Airlines,Solomon Islands,Inbound,,,,False
-2025,5,Nauru Airlines,Solomon Islands,Outbound,,37.9,,False
 2025,5,Philippine Airlines,Philippines,Inbound,17860.0,272.7,3.7,False
 2025,5,Philippine Airlines,Philippines,Outbound,16001.0,489.6,,False
 2025,5,Qantas Airways,ALL SERVICES,Inbound,286281.0,6504.4,136.3,True
@@ -145,8 +131,6 @@ Year,Month,Airline_Name,Country,Direction,Passengers,Freight_tonnes,Mail_tonnes,
 2025,5,Qantas Airways,Canada,Outbound,2895.0,3.5,43.0,False
 2025,5,Qantas Airways,Chile,Inbound,3415.0,30.0,,False
 2025,5,Qantas Airways,Chile,Outbound,3233.0,3.6,1.5,False
-2025,5,Qantas Airways,China,Inbound,,,,False
-2025,5,Qantas Airways,China,Outbound,,59.7,,False
 2025,5,Qantas Airways,East Timor,Inbound,1291.0,0.0,0.0,False
 2025,5,Qantas Airways,East Timor,Outbound,1372.0,0.4,9.1,False
 2025,5,Qantas Airways,Fiji,Inbound,4841.0,,,False
@@ -201,12 +185,8 @@ Year,Month,Airline_Name,Country,Direction,Passengers,Freight_tonnes,Mail_tonnes,
 2025,5,Sichuan Airlines,China,Outbound,9431.0,136.4,,False
 2025,5,Singapore Airlines,ALL SERVICES,Inbound,151841.0,8119.7,29.1,True
 2025,5,Singapore Airlines,ALL SERVICES,Outbound,153925.0,7286.3,,True
-2025,5,Singapore Airlines,New Zealand,Inbound,,122.1,,False
-2025,5,Singapore Airlines,New Zealand,Outbound,,370.1,,False
 2025,5,Singapore Airlines,Singapore,Inbound,151841.0,6674.8,29.1,False
 2025,5,Singapore Airlines,Singapore,Outbound,153925.0,6916.1,,False
-2025,5,Singapore Airlines,USA,Inbound,,1322.8,,False
-2025,5,Singapore Airlines,USA,Outbound,,,,False
 2025,5,Solomon Airlines,ALL SERVICES,Inbound,1942.0,2.8,,True
 2025,5,Solomon Airlines,ALL SERVICES,Outbound,1797.0,20.6,,True
 2025,5,Solomon Airlines,New Zealand,Inbound,360.0,,,False
@@ -221,12 +201,6 @@ Year,Month,Airline_Name,Country,Direction,Passengers,Freight_tonnes,Mail_tonnes,
 2025,5,SriLankan Airlines,Sri Lanka,Outbound,11593.0,372.6,3.8,False
 2025,5,T'way Air,Korea,Inbound,4058.0,155.0,0.8,False
 2025,5,T'way Air,Korea,Outbound,4265.0,56.5,,False
-2025,5,Tasman Cargo Airlines,ALL SERVICES,Inbound,,1723.1,,True
-2025,5,Tasman Cargo Airlines,ALL SERVICES,Outbound,,1567.5,,True
-2025,5,Tasman Cargo Airlines,Hong Kong (SAR),Inbound,,769.4,,False
-2025,5,Tasman Cargo Airlines,Hong Kong (SAR),Outbound,,412.3,,False
-2025,5,Tasman Cargo Airlines,New Zealand,Inbound,,953.7,,False
-2025,5,Tasman Cargo Airlines,New Zealand,Outbound,,1155.2,,False
 2025,5,Thai Airways International,Thailand,Inbound,35251.0,1774.6,19.5,False
 2025,5,Thai Airways International,Thailand,Outbound,34700.0,793.3,,False
 2025,5,Tianjin Airlines,China,Inbound,1930.0,93.2,5.9,False
@@ -241,16 +215,6 @@ Year,Month,Airline_Name,Country,Direction,Passengers,Freight_tonnes,Mail_tonnes,
 2025,5,Turkish Airlines,Turkey,Outbound,6797.0,273.9,,False
 2025,5,United Airlines,USA,Inbound,23519.0,592.6,18.8,False
 2025,5,United Airlines,USA,Outbound,22072.0,875.9,252.6,False
-2025,5,United Parcel Service,ALL SERVICES,Inbound,,1430.9,,True
-2025,5,United Parcel Service,ALL SERVICES,Outbound,,375.2,,True
-2025,5,United Parcel Service,China,Inbound,,215.1,,False
-2025,5,United Parcel Service,China,Outbound,,215.7,,False
-2025,5,United Parcel Service,Korea,Inbound,,,,False
-2025,5,United Parcel Service,Korea,Outbound,,80.7,,False
-2025,5,United Parcel Service,Singapore,Inbound,,,,False
-2025,5,United Parcel Service,Singapore,Outbound,,78.7,,False
-2025,5,United Parcel Service,USA,Inbound,,1215.8,,False
-2025,5,United Parcel Service,USA,Outbound,,,,False
 2025,5,Vietjet Air,Vietnam,Inbound,20758.0,559.3,,False
 2025,5,Vietjet Air,Vietnam,Outbound,17052.0,,,False
 2025,5,Vietnam Airlines,Vietnam,Inbound,21527.0,980.7,,False

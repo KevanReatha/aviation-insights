@@ -29,7 +29,6 @@ Year,Month,Airline_Name,Service_Region,Direction,Flights,Passengers,Seats_Availa
 2025,5,Emirates,ALL SERVICES,Inbound,381.0,93738.0,166198.0,56.4
 2025,5,Etihad Airways,United Arab Emirates,Inbound,66.0,16407.0,20468.0,80.2
 2025,5,Eva Air,Taiwan,Inbound,14.0,3623.0,4788.0,75.7
-2025,5,Federal Express Corporation (a),China,Inbound,,,,
 2025,5,Federal Express Corporation (a),Singapore,Inbound,23.0,,,
 2025,5,Federal Express Corporation (a),USA,Inbound,26.0,,,
 2025,5,Federal Express Corporation,ALL SERVICES,Inbound,49.0,,,
@@ -108,8 +107,6 @@ Year,Month,Airline_Name,Service_Region,Direction,Flights,Passengers,Seats_Availa
 2025,5,T'way Air,Korea,Inbound,14.0,4058.0,4858.0,83.5
 2025,5,United Airlines,USA,Inbound,121.0,23519.0,32045.0,73.4
 2025,5,United Parcel Service (a),China,Inbound,5.0,,,
-2025,5,United Parcel Service (a),Korea,Inbound,,,,
-2025,5,United Parcel Service (a),Singapore,Inbound,,,,
 2025,5,United Parcel Service (a),USA,Inbound,27.0,,,
 2025,5,United Parcel Service,ALL SERVICES,Inbound,32.0,,,
 2025,5,Vietjet Air,Vietnam,Inbound,88.0,20758.0,31118.0,66.7
@@ -152,8 +149,6 @@ Year,Month,Airline_Name,Service_Region,Direction,Flights,Passengers,Seats_Availa
 2025,5,Etihad Airways,United Arab Emirates,Outbound,66.0,18928.0,20469.0,92.5
 2025,5,Eva Air,Taiwan,Outbound,14.0,4072.0,4788.0,85.0
 2025,5,Federal Express Corporation (a),China,Outbound,25.0,,,
-2025,5,Federal Express Corporation (a),Singapore,Outbound,,,,
-2025,5,Federal Express Corporation (a),USA,Outbound,,,,
 2025,5,Federal Express Corporation,ALL SERVICES,Outbound,25.0,,,
 2025,5,Fiji Airways,Fiji,Outbound,179.0,32584.0,39796.0,81.9
 2025,5,Garuda Indonesia,Indonesia,Outbound,60.0,13432.0,16311.0,82.3
@@ -212,7 +207,6 @@ Year,Month,Airline_Name,Service_Region,Direction,Flights,Passengers,Seats_Availa
 2025,5,Sichuan Airlines,China,Outbound,35.0,9431.0,10341.0,91.2
 2025,5,Singapore Airlines,New Zealand,Outbound,14.0,,,
 2025,5,Singapore Airlines,Singapore,Outbound,646.0,153925.0,177099.0,86.9
-2025,5,Singapore Airlines,USA,Outbound,,,,
 2025,5,Singapore Airlines,ALL SERVICES,Outbound,660.0,153925.0,177099.0,86.9
 2025,5,Solomon Airlines,New Zealand,Outbound,5.0,229.0,735.0,31.2
 2025,5,Solomon Airlines,Solomon Islands,Outbound,13.0,1086.0,1911.0,56.8
@@ -232,7 +226,6 @@ Year,Month,Airline_Name,Service_Region,Direction,Flights,Passengers,Seats_Availa
 2025,5,United Parcel Service (a),China,Outbound,14.0,,,
 2025,5,United Parcel Service (a),Korea,Outbound,13.0,,,
 2025,5,United Parcel Service (a),Singapore,Outbound,5.0,,,
-2025,5,United Parcel Service (a),USA,Outbound,,,,
 2025,5,United Parcel Service,ALL SERVICES,Outbound,32.0,,,
 2025,5,Vietjet Air,Vietnam,Outbound,88.0,17052.0,31118.0,54.8
 2025,5,Vietnam Airlines,Vietnam,Outbound,85.0,21261.0,25998.0,81.8
